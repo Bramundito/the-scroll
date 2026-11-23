@@ -2227,7 +2227,7 @@ async function init() {
   render();
   if(location.protocol==='file:')return;
   try{
-   const response=await fetch('/api/edition',{cache:'no-store',signal:AbortSignal.timeout(3500)});
+   const response=await fetch('./news.json',{cache:'no-store',signal:AbortSignal.timeout(3500)});
    if(!response.ok)throw new Error('No edition received');
    const remote=await response.json();
    if(!Array.isArray(remote.stories)||!remote.stories.length)return;
