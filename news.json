@@ -1,10 +1,30 @@
 {
   "date": "2026-11-24",
-  "updated_at": "2026-11-24T16:47:15+07:00",
+  "updated_at": "2026-11-24T16:54:20+07:00",
   "demo": false,
   "feed_based": true,
   "intro": "Hot news covers recent developments; creative and discovery features include older original publisher reports. Archive features retain their original publication dates. Read the linked articles for full reporting. Selection uses free source and keyword rules, not AI fact-checking.",
   "seen_urls": [
+    "https://www.eventmarketer.com/article/2024-fab-50-sparks-case-study",
+    "https://www.designboom.com/art/water-droplets-conduits-electrical-energy-sander-hagelaar-installation-fluid-current-02-28-2024",
+    "https://www.antaranews.com/berita/5872663/26-kantong-jenazah-dievakuasi-dari-pabrik-terbakar-di-serang",
+    "https://www.designboom.com/art/aaltosiilo-transforms-itself-oulu-lumo-light-festival-2026",
+    "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition",
+    "https://www.itsnicethat.com/articles/pov-graphic-design-helped-monetise-loneliness-creative-industry-161126",
+    "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_campaign=rss&at_medium=RSS",
+    "https://campaignbriefasia.com/2026/11/20/aqua-asks-households-whats-in-their-water-gallon-in-new-campaign-via-moonfolks",
+    "https://campaignbriefasia.com/2026/11/23/eason-chan-stars-in-prudential-hong-kongs-promises-made-real-campaign-via-directors-think-tank-sg-and-dentsu-creative-singapore",
+    "https://campaignbriefasia.com/2026/11/23/halter-launches-ai-farming-assistant-mav-with-underground-archive-built-into-a-new-zealand-hillside-in-new-campaign-via-motion-sickness",
+    "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_campaign=rss&at_medium=RSS",
+    "https://www.designboom.com/design/graphic-design-world-underground-networks-fonts-maps",
+    "https://www.theguardian.com/artanddesign/gallery/2026/nov/21/penelope-green-photography-sea-of-life-exhibition-australian-beach-daily-rituals-in-pictures",
+    "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+    "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_campaign=rss&at_medium=RSS",
+    "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
+    "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
+    "https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher",
+    "https://www.theguardian.com/music/2026/nov/20/stella-z-thunder-is-the-sky-dreaming-review-cdr",
+    "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix",
     "https://www.eventmarketer.com/article/2024-fab-50-pinpoint-case-study",
     "https://www.eventmarketer.com/article/2024-fab-50-hamilton-case-study",
     "https://www.antaranews.com/berita/5873639/kepala-bp-bumn-pembebasan-pph-berlaku-untuk-transformasi-bumn",
@@ -59,15 +79,15 @@
   ],
   "stories": [
     {
-      "id": "source-4475d46f3f472081",
+      "id": "source-abfe98543b242c42",
       "category": "ARCHIVE FEATURE · CREATIVE",
       "story_type": "archive_feature",
-      "title": "2024 Fab 50: Pinpoint Case Study",
-      "lede": "CAMPAIGN: Yellow Tail Summer Tour CLIENT: iHeartRadio FABRICATOR: Pinpoint Yellow Tail and iHeartRadio had a challenge, and Pinpoint was ready to solve it! Yellow Tail, the Australian wine brand, aimed to create a feel-good immersive sampling experience for consumers targeted at 21 to 34-year-olds at four iHeartRadio summertime music festivals. However, wine has not been […]",
+      "title": "2024 Fab 50: Sparks Case Study",
+      "lede": "CAMPAIGN: Siemens @CES CLIENT: Siemens FABRICATOR: Sparks/Freeman Siemens is a leading industrial technology company, delivering hardware and software that transforms the everyday for everyone. Their challenge was to build awareness of Siemens as a technology company and shift perception with influential audiences, so Siemens chose CES as the best venue to engage everybody from the […]",
       "source_name": "Event Marketer",
-      "source_url": "https://www.eventmarketer.com/article/2024-fab-50-pinpoint-case-study/",
+      "source_url": "https://www.eventmarketer.com/article/2024-fab-50-sparks-case-study/",
       "published_at": "28 Jun 2024 · 20:30 WIB",
-      "published_iso": "2024-06-28T13:30:24+00:00",
+      "published_iso": "2024-06-28T13:30:01+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
@@ -81,7 +101,7 @@
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://www.eventmarketer.com/article/2024-fab-50-pinpoint-case-study/"
+              "url": "https://www.eventmarketer.com/article/2024-fab-50-sparks-case-study/"
             }
           ]
         }
@@ -89,152 +109,572 @@
       "images": [
         {
           "url": "https://www.eventmarketer.com/wp-content/uploads/2024/06/stock-builders-fab-50-architects.jpg",
-          "caption": "Featured image from the original publisher; see original article for context and credits.",
-          "credit": "Event Marketer (publisher source; see original credit)",
-          "credit_url": "https://www.eventmarketer.com/female-engineer-standing-near-chalkboard-explaining-project/",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/2024-fab-50-sparks-case-study/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/06/sparks-siemens-ces-2024-0005.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/2024-fab-50-sparks-case-study/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/06/sparks-siemens-ces-2024-0150.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/2024-fab-50-sparks-case-study/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-11c281e6ba75b7c7",
+      "id": "source-7056b6c42fae3aed",
       "category": "ARCHIVE FEATURE · CREATIVE",
       "story_type": "archive_feature",
-      "title": "2024 Fab 50: Hamilton Case Study",
-      "lede": "CAMPAIGN: CONEXPO 2023 CLIENT: Cummins FABRICATOR: Hamilton Hamilton is a full-service event marketing agency with a 75-year legacy of creating immersive brand experiences–exhibits, events, environments, and digital solutions–for companies worldwide. Our integrated experiences are powered by StudioH, Hamilton’s creative experiential studio, which focuses on strategy, creative, and performance. Cummins Inc., a global leader in engine […]",
-      "source_name": "Event Marketer",
-      "source_url": "https://www.eventmarketer.com/article/2024-fab-50-hamilton-case-study/",
-      "published_at": "28 Jun 2024 · 20:30 WIB",
-      "published_iso": "2024-06-28T13:30:19+00:00",
+      "title": "water droplets become conduits for electrical energy in sander hagelaar’s installation",
+      "lede": "with fluid current, water droplets fall along polished aluminum strips before activating a luminous blue bulb upon impact.",
+      "source_name": "Designboom",
+      "source_url": "https://www.designboom.com/art/water-droplets-conduits-electrical-energy-sander-hagelaar-installation-fluid-current-02-28-2024/",
+      "published_at": "28 Feb 2024 · 17:50 WIB",
+      "published_iso": "2024-02-28T10:50:07+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
         {
           "side": "left",
           "type": "FROM THE ARCHIVE",
-          "title": "Originally published 28 Jun 2024",
+          "title": "Originally published 28 Feb 2024",
           "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
           "color": "purple",
           "bullets": [],
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://www.eventmarketer.com/article/2024-fab-50-hamilton-case-study/"
+              "url": "https://www.designboom.com/art/water-droplets-conduits-electrical-energy-sander-hagelaar-installation-fluid-current-02-28-2024/"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/06/stock-builders-fab-50-architects.jpg",
-          "caption": "Featured image from the original publisher; see original article for context and credits.",
-          "credit": "Event Marketer (publisher source; see original credit)",
-          "credit_url": "https://www.eventmarketer.com/female-engineer-standing-near-chalkboard-explaining-project/",
+          "url": "https://www.designboom.com/twitterimages/uploads/2024/02/fluid-current-sander-hagelaar-designboom-1200.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/art/water-droplets-conduits-electrical-energy-sander-hagelaar-installation-fluid-current-02-28-2024/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2024/02/fluid-current-sander-hagelaar-designboom-1200.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/art/water-droplets-conduits-electrical-energy-sander-hagelaar-installation-fluid-current-02-28-2024/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/dbsub/383413/2024-02-27/water-droplets-and-electricity-working-together-2-65de092a62bde.JPG",
+          "caption": "all images courtesy of Sander Hagelaar",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/art/water-droplets-conduits-electrical-energy-sander-hagelaar-installation-fluid-current-02-28-2024/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-156d47c63db0c57f",
+      "id": "source-f519fd5d73672582",
       "category": "HOT NEWS · INDONESIA",
       "story_type": "hot_news",
-      "title": "Kepala BP BUMN: Pembebasan PPh berlaku untuk transformasi BUMN",
-      "lede": "Kepala Badan Pengaturan Badan Usaha Milik Negara (BP BUMN) Dony Oskaria menyampaikan pembebasan Pajak Penghasilan (PPh) ...",
+      "title": "26 kantong jenazah dievakuasi dari pabrik terbakar di Serang",
+      "lede": "Tim SAR gabungan mengevakuasi total 26 kantong jenazah dari lokasi kebakaran pabrik PT Fonusa Agung Mulia (FAM) di ...",
       "source_name": "ANTARA News",
-      "source_url": "https://www.antaranews.com/berita/5873639/kepala-bp-bumn-pembebasan-pph-berlaku-untuk-transformasi-bumn",
-      "published_at": "23 Nov 2026 · 22:24 WIB",
-      "published_iso": "2026-11-23T15:24:27+00:00",
+      "source_url": "https://www.antaranews.com/berita/5872663/26-kantong-jenazah-dievakuasi-dari-pabrik-terbakar-di-serang",
+      "published_at": "23 Nov 2026 · 16:28 WIB",
+      "published_iso": "2026-11-23T09:28:35+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://img.antaranews.com/cache/800x533/2026/11/23/IMG_3127_1.jpg",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "ANTARA News",
-          "credit_url": "https://www.antaranews.com/berita/5873639/kepala-bp-bumn-pembebasan-pph-berlaku-untuk-transformasi-bumn",
+          "url": "https://img.antaranews.com/cache/1200x800/2026/11/23/1001165749.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "ANTARA News (publisher source; original credit at source)",
+          "credit_url": "https://www.antaranews.com/berita/5872663/26-kantong-jenazah-dievakuasi-dari-pabrik-terbakar-di-serang",
+          "kind": "feed"
+        },
+        {
+          "url": "https://img.antaranews.com/cache/270x180/2026/11/24/1001171927.jpg.webp",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "ANTARA News (publisher source; original credit at source)",
+          "credit_url": "https://www.antaranews.com/berita/5872663/26-kantong-jenazah-dievakuasi-dari-pabrik-terbakar-di-serang",
+          "kind": "feed"
+        },
+        {
+          "url": "https://img.antaranews.com/cache/270x180/2026/11/24/1001171927.jpg",
+          "caption": "Polda Banten buka layanan kesehatan dan bantu korban kebakaran badui",
+          "credit": "ANTARA News (publisher source; original credit at source)",
+          "credit_url": "https://www.antaranews.com/berita/5872663/26-kantong-jenazah-dievakuasi-dari-pabrik-terbakar-di-serang",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-bf22a0f94d503559",
-      "category": "ARCHIVE FEATURE · CREATIVE",
-      "story_type": "archive_feature",
-      "title": "Creating an Earned-first Media Engine for Today’s World",
-      "lede": "What separates a forgettable brand activation from one that journalists cover, creators film, and audiences share for weeks? It starts with a story, and the strategy to make it earn. The Experiential Effect brings together insights from Pinnacle’s creative and account leadership alongside PR experts at Racepoint Global to reveal how the world’s sharpest marketers are building […]",
-      "source_name": "Event Marketer",
-      "source_url": "https://www.eventmarketer.com/article/creating-an-earned-first-media-engine-for-todays-world/",
-      "published_at": "29 Jun 2026 · 12:02 WIB",
-      "published_iso": "2026-06-29T05:02:20+00:00",
+      "id": "source-469557a6ce671a3b",
+      "category": "FEATURE · CREATIVE",
+      "story_type": "feature",
+      "title": "the aaltosiilo transforms itself again at oulu’s lumo light festival 2026",
+      "lede": "artists use light, projection and sound to activate alvar and aino aalto's former pulp mill during the region’s european capital of culture year. The post the aaltosiilo transforms itself again at oulu’s lumo light festival 2026 appeared first on designboom | architecture & design magazine .",
+      "source_name": "Designboom",
+      "source_url": "https://www.designboom.com/art/aaltosiilo-transforms-itself-oulu-lumo-light-festival-2026/",
+      "published_at": "24 Nov 2026 · 15:45 WIB",
+      "published_iso": "2026-11-24T08:45:37+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/aaltosiilo-oulu2026-designboom-700-500x400-22b08q85r676.jpg",
+          "caption": "Publisher-supplied feed image; see the source for its original context.",
+          "credit": "Designboom",
+          "credit_url": "https://www.designboom.com/art/aaltosiilo-transforms-itself-oulu-lumo-light-festival-2026/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/aaltosiilo-oulu2026-designboom-03.jpg",
+          "caption": "the AaltoSiilo, created by Finnish architects Alvar and Aino Aalto, is a site for the 2026 Lumo Art Festival | image by Linnea Laatikainen, courtesy of Oulu2026",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/art/aaltosiilo-transforms-itself-oulu-lumo-light-festival-2026/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/aaltosiilo-oulu2026-designboom-05.jpg",
+          "caption": "works in the AaltoSiilo come partly as a collaboration with the Finnish Light Art Society’s FLASH Biennial, Veiled Light | image by Harri Tarvainen",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/art/aaltosiilo-transforms-itself-oulu-lumo-light-festival-2026/",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-5047a63e2a58d704",
+      "category": "FEATURE · CREATIVE",
+      "story_type": "feature",
+      "title": "Unprecedented Design Museum exhibition surveys \"the beauty and the depth of Black design\"",
+      "lede": "Work from 16 of the most exciting Black designers working today has been brought together under one roof for the first time as part of The Nue Black Aesthetic exhibition at London's Design Museum. The post Unprecedented Design Museum exhibition surveys \"the beauty and the depth of Black design\" appeared first on Dezeen .",
+      "source_name": "Dezeen",
+      "source_url": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
+      "published_at": "20 Nov 2026 · 18:00 WIB",
+      "published_iso": "2026-11-20T11:00:00+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
         {
           "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 29 Jun 2026",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
+          "type": "SOCIAL LINKS",
+          "title": "Posts and videos linked by the publisher",
+          "body": "These links were supplied by the publisher. They are discovery leads, not independently verified claims.",
           "color": "purple",
           "bullets": [],
           "sources": [
             {
-              "label": "Read original publication",
-              "url": "https://www.eventmarketer.com/article/creating-an-earned-first-media-engine-for-todays-world/"
+              "label": "www.instagram.com · open original post",
+              "url": "https://www.instagram.com/p/DfhXSb3jFNF"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/06/48806-ems-sponsor-content-pinnacle-600x200-wlogo.jpg",
-          "caption": "Featured image from the original publisher; see original article for context and credits.",
-          "credit": "Event Marketer (publisher source; see original credit)",
-          "credit_url": "https://www.eventmarketer.com/article/creating-an-earned-first-media-engine-for-todays-world/48806-ems-sponsor-content-pinnacle-600x200-wlogo/",
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-nue-black-aesthetic-design-museum-herp_dezeen_2364_col_0-1024x1024.jpg",
+          "caption": "Publisher-supplied feed image; see the source for its original context.",
+          "credit": "Dezeen",
+          "credit_url": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-nue-black-aesthetic-design-museum_dezeen_2364_col_8-1536x1024.jpg",
+          "caption": "The The Nue Black Aesthetic features works by Giles Tettey Nartey (top image), Tejumola Adenuga (above) and more",
+          "credit": "Dezeen (publisher source; original credit at source)",
+          "credit_url": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://static-2026.dezeen.com/uploads/2026/11/the-nue-black-aesthetic-design-museum_dezeen_2364_col_1-1365x2048.jpg",
+          "caption": "It was curated by Charlene Prempeh. Photo by Ejatu Shaw",
+          "credit": "Dezeen (publisher source; original credit at source)",
+          "credit_url": "https://www.dezeen.com/2026/11/20/the-nue-black-aesthetic-exhibition/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-7768eef7ffa8ff2d",
-      "category": "ARCHIVE FEATURE · ART & CULTURE",
+      "id": "source-b0f3fa8f3db4ff94",
+      "category": "ARCHIVE FEATURE · CREATIVE",
       "story_type": "archive_feature",
-      "title": "Exclusive Interview Thundercat: Ngintip Dunia yang Makin Chaos Lewat POV Musisi",
-      "lede": "Get to Know Thundercat Penyanyi Produser Penulis lagu Salah satu bassist terbaik di industri musik dunia saat ini Bassist utama di album rap terbaik punya Kendrick Lamar, To Pimp a Butterfly (2015) Pemenang Grammy Awards 2020 dalam kategori “Best Progressive R&B Album” lewat album It Is What It Is Proudly otaku, fans video game, dan […] The post Exclusive Interview Thundercat: Ngintip Dunia yang Makin Chaos Lewat POV Musisi appeared first on USS…",
-      "source_name": "USS Feed",
-      "source_url": "https://ussfeed.com/exclusive-interview-thundercat-ngintip-dunia-yang-makin-chaos-lewat-pov-musisi/editorial/",
-      "published_at": "13 Apr 2026 · 11:11 WIB",
-      "published_iso": "2026-04-13T04:11:19+00:00",
+      "title": "How graphic design makes buying feel like belonging and brands feel like community",
+      "lede": "There’s an app for everything now… but in parallel, real-life communities and third spaces have ebbed away. Art director and graphic designer Glikeriya examines how design borrows the familiarity of relationships to sell services, and why designers should take those promises seriously.",
+      "source_name": "It's Nice That",
+      "source_url": "https://www.itsnicethat.com/articles/pov-graphic-design-helped-monetise-loneliness-creative-industry-161126",
+      "published_at": "16 Nov 2026 · 16:00 WIB",
+      "published_iso": "2026-11-16T09:00:00+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
         {
           "side": "left",
           "type": "FROM THE ARCHIVE",
-          "title": "Originally published 13 Apr 2026",
+          "title": "Originally published 16 Nov 2026",
           "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
           "color": "purple",
           "bullets": [],
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://ussfeed.com/exclusive-interview-thundercat-ngintip-dunia-yang-makin-chaos-lewat-pov-musisi/editorial/"
+              "url": "https://www.itsnicethat.com/articles/pov-graphic-design-helped-monetise-loneliness-creative-industry-161126"
             }
           ]
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://m.itsnicethat.com/original_images/pov_graphic_design_helped_monetise_loneliness_hero.png?class=w1440",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "It's Nice That (publisher source; original credit at source)",
+          "credit_url": "https://www.itsnicethat.com/articles/pov-graphic-design-helped-monetise-loneliness-creative-industry-161126",
+          "kind": "feed"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/pov-final-list.jpg?class=w1440",
+          "caption": "Starting a creative career has never felt harder – 28 industry voices on what comes next",
+          "credit": "It's Nice That (publisher source; original credit at source)",
+          "credit_url": "https://www.itsnicethat.com/articles/pov-graphic-design-helped-monetise-loneliness-creative-industry-161126",
+          "kind": "feed"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/51_POV_3n0mmEH.png?class=w1440",
+          "caption": "Corporate branding logic is taking the soul out of football clubs",
+          "credit": "It's Nice That (publisher source; original credit at source)",
+          "credit_url": "https://www.itsnicethat.com/articles/pov-graphic-design-helped-monetise-loneliness-creative-industry-161126",
+          "kind": "feed"
+        }
+      ]
     },
     {
-      "id": "source-29fe86d009a5434c",
-      "category": "ARCHIVE FEATURE · CREATIVE",
+      "id": "source-5e037567ddb31d3d",
+      "category": "HOT NEWS · WORLD",
+      "story_type": "hot_news",
+      "title": "Flights cancelled in Belgium due to cost-of-living strike",
+      "lede": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+      "published_at": "23 Nov 2026 · 20:34 WIB",
+      "published_iso": "2026-11-23T13:34:02+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
+          "caption": "A passenger with long black hair, black rimmed glasses, wears a checked blue, black and white coat, and carries something similar in the left arm, while holding a phone with the left hand and a blue backpack on their shoulders. In the area of Brussels Airport, a departures board ",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        },
+        {
+          "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg.webp",
+          "caption": "Image caption, A few people have turned up at Brussels airport where no flights are leaving",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        },
+        {
+          "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
+          "caption": "Image caption, A few people have turned up at Brussels airport where no flights are leaving",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-5873664ad2d472e0",
+      "category": "FEATURE · CREATIVE",
+      "story_type": "feature",
+      "title": "AQUA asks households what’s in their water gallon in new campaign via Moonfolks",
+      "lede": "AQUA has launched a new campaign for its gallon water range, created by Moonfolks, built on a question every Indonesian ...",
+      "source_name": "Campaign Brief Asia",
+      "source_url": "https://campaignbriefasia.com/2026/11/20/aqua-asks-households-whats-in-their-water-gallon-in-new-campaign-via-moonfolks/",
+      "published_at": "20 Nov 2026 · 11:26 WIB",
+      "published_iso": "2026-11-20T04:26:45+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-20-at-12.21.10-pm-copy-1024x573.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
+          "credit_url": "https://campaignbriefasia.com/2026/11/20/aqua-asks-households-whats-in-their-water-gallon-in-new-campaign-via-moonfolks/",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-e871e761ddb12f00",
+      "category": "FEATURE · CREATIVE",
+      "story_type": "feature",
+      "title": "Eason Chan stars in Prudential Hong Kong’s ‘Promises, Made Real’ campaign via Directors Think Tank SG and Dentsu Creative Singapore",
+      "lede": "Prudential – Promises, Made Real was produced by Directors Think Tank Singapore in collaboration with Dentsu Creat...",
+      "source_name": "Campaign Brief Asia",
+      "source_url": "https://campaignbriefasia.com/2026/11/23/eason-chan-stars-in-prudential-hong-kongs-promises-made-real-campaign-via-directors-think-tank-sg-and-dentsu-creative-singapore/",
+      "published_at": "23 Nov 2026 · 08:03 WIB",
+      "published_iso": "2026-11-23T01:03:35+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-22-at-3.52.36-PM-copy-1024x570.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
+          "credit_url": "https://campaignbriefasia.com/2026/11/23/eason-chan-stars-in-prudential-hong-kongs-promises-made-real-campaign-via-directors-think-tank-sg-and-dentsu-creative-singapore/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-22-at-3.53.07-PM-copy-1024x571.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
+          "credit_url": "https://campaignbriefasia.com/2026/11/23/eason-chan-stars-in-prudential-hong-kongs-promises-made-real-campaign-via-directors-think-tank-sg-and-dentsu-creative-singapore/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-22-at-3.53.48-PM-copy-1024x571.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
+          "credit_url": "https://campaignbriefasia.com/2026/11/23/eason-chan-stars-in-prudential-hong-kongs-promises-made-real-campaign-via-directors-think-tank-sg-and-dentsu-creative-singapore/",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-786dea20a68e6553",
+      "category": "FEATURE · CREATIVE",
+      "story_type": "feature",
+      "title": "Halter launches AI farming assistant Mav with underground archive built into a New Zealand hillside in new campaign via Motion Sickness",
+      "lede": "New Zealand agritech company Halter, known for its solar-powered smart collars that allow farmers to virtually fence, mo...",
+      "source_name": "Campaign Brief Asia",
+      "source_url": "https://campaignbriefasia.com/2026/11/23/halter-launches-ai-farming-assistant-mav-with-underground-archive-built-into-a-new-zealand-hillside-in-new-campaign-via-motion-sickness/",
+      "published_at": "23 Nov 2026 · 06:56 WIB",
+      "published_iso": "2026-11-22T23:56:29+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/161A5879-2.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
+          "credit_url": "https://campaignbriefasia.com/2026/11/23/halter-launches-ai-farming-assistant-mav-with-underground-archive-built-into-a-new-zealand-hillside-in-new-campaign-via-motion-sickness/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/161A6689-2.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
+          "credit_url": "https://campaignbriefasia.com/2026/11/23/halter-launches-ai-farming-assistant-mav-with-underground-archive-built-into-a-new-zealand-hillside-in-new-campaign-via-motion-sickness/",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-e8e113b8ffa1b68b",
+      "category": "HOT NEWS · WORLD",
+      "story_type": "hot_news",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "lede": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "published_at": "24 Nov 2026 · 03:48 WIB",
+      "published_iso": "2026-11-23T20:48:35+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+          "caption": "A satellite image shows a closer view of a capsized Russian corvette, Merkury, following reported Ukrainian drone attacks, in Benghazi, Libya",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        },
+        {
+          "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg.webp",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        },
+        {
+          "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+          "caption": "A satellite image shows a closer view of a capsized Russian corvette, Merkury, following reported Ukrainian drone attacks, in Benghazi, Libya",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-c3c7273dd588a63f",
+      "category": "FEATURE · CREATIVE",
+      "story_type": "feature",
+      "title": "inside the graphic design history of the world’s underground networks",
+      "lede": "from hector guimard’s art nouveau entrances in paris to the custom typefaces developed for london’s underground, transportation networks have shaped how cities communicate with their inhabitants. The post inside the graphic design history of the world’s underground networks appeared first on designboom | architecture & design magazine .",
+      "source_name": "Designboom",
+      "source_url": "https://www.designboom.com/design/graphic-design-world-underground-networks-fonts-maps/",
+      "published_at": "24 Nov 2026 · 14:15 WIB",
+      "published_iso": "2026-11-24T07:15:28+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/city-exercise-graphic-design-subway-signage-typography-designboom-700-500x400-22b08q85r881.jpg",
+          "caption": "Publisher-supplied feed image; see the source for its original context.",
+          "credit": "Designboom",
+          "credit_url": "https://www.designboom.com/design/graphic-design-world-underground-networks-fonts-maps/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/city-exercise-graphic-design-subway-signage-typography-designboom-02.jpg",
+          "caption": "Hector Guimard Entrance Gate to Paris Subway (Métropolitain) Station, Paris, France c. 1900 | image via MoMA",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/design/graphic-design-world-underground-networks-fonts-maps/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/city-exercise-graphic-design-subway-signage-typography-designboom-03.jpg",
+          "caption": "Génèse © Juan Jerez",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/design/graphic-design-world-underground-networks-fonts-maps/",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-69334892cbac73fe",
+      "category": "FEATURE · ART & CULTURE",
+      "story_type": "feature",
+      "title": "To be beside the sea: the joy of Australian beach rituals – in pictures",
+      "lede": "A daily ocean swimmer, documentary photographer Penelope Green captures scenes of sanguine oceangoers embracing the elements in Newcastle and beyond, with a focus on communities interacting with the natural landscape. Her first solo exhibition, Sea of Life , is on now until 26 November at The Garden Gallery in Sydney’s Royal Botanic Garden Continue reading...",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/21/penelope-green-photography-sea-of-life-exhibition-australian-beach-daily-rituals-in-pictures",
+      "published_at": "20 Nov 2026 · 21:00 WIB",
+      "published_iso": "2026-11-20T14:00:33+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ce9c7410f92a81f018ca890f9e886b4734f6ca91/0_739_2016_1613/master/2016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1fea1e64e7cb4ebc5620545097480d68",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/21/penelope-green-photography-sea-of-life-exhibition-australian-beach-daily-rituals-in-pictures",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/ce9c7410f92a81f018ca890f9e886b4734f6ca91/0_739_2016_1613/master/2016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=6a432eca065e461029ccba1dc2404b00",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/21/penelope-green-photography-sea-of-life-exhibition-australian-beach-daily-rituals-in-pictures",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/ce9c7410f92a81f018ca890f9e886b4734f6ca91/0_0_3543_2352/master/3543.jpg?width=1020&dpr=2&s=none&crop=none",
+          "caption": "Gimme Shelter While serving as compelling works of social documentary photography, Green’s images transcend the everyday through arresting and disarming compositions that convey the freedom and bracing embodiment felt by those who live for the sea Share",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/21/penelope-green-photography-sea-of-life-exhibition-australian-beach-daily-rituals-in-pictures",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-5734dccee736867c",
+      "category": "FEATURE · MUSIC & POP CULTURE",
+      "story_type": "feature",
+      "title": "‘We’re the most arrogant of all apes!’ A delightfully mind-expanding encounter with Peter Gabriel",
+      "lede": "From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far? Back with an epic new album, he unpacks his remarkable ideas Peter Gabriel asks me to fetch my laptop: he wants to show me a video of himself playing a keyboard duet with a bonobo called Kanzi. In fairness, said footage is, as Gabriel suggests, “extraordinary”. Working with primatologist Sue Savage-Rumbaugh, who…",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+      "published_at": "20 Nov 2026 · 12:00 WIB",
+      "published_iso": "2026-11-20T05:00:22+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/124bc29050c7da765c91e3c9121b3b2ab887ffa0/0_715_4126_3300/master/4126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7937a44819082fb118fed6e8f1d12b3",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/124bc29050c7da765c91e3c9121b3b2ab887ffa0/0_715_4126_3300/master/4126.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=a2c4d6cbee8f33b659295c66b3164993",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/ce17b123a166771f838113d225eb172038e9a780/0_57_4545_5255/master/4545.jpg?width=1020&dpr=2&s=none&crop=none",
+          "caption": "‘There’s so much intelligence we’ve chosen to ignore’ … Peter Gabriel. ‘There’s so much intelligence we’ve chosen to ignore’ … Peter Gabriel.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-c146aadfc847854c",
+      "category": "HOT NEWS · WORLD",
+      "story_type": "hot_news",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "lede": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published_at": "24 Nov 2026 · 16:42 WIB",
+      "published_iso": "2026-11-24T09:42:54+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+          "caption": "US President Donald Trump stands with Jensen Huang in Washington DC on 8 October 2026",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        },
+        {
+          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+          "caption": "Publisher-supplied feed image; see the source for its original context.",
+          "credit": "BBC News",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-3029834c5b37a67d",
+      "category": "ARCHIVE FEATURE · GAMING & TECH",
       "story_type": "archive_feature",
-      "title": "Vucko’s motion identity for Etsy is built on joy, simplicity and craft",
-      "lede": "The studio’s motion design work for the online marketplace solidifies Etsy’s identity while providing it with the capacity to adapt to each department’s specific needs.",
-      "source_name": "It's Nice That",
-      "source_url": "https://www.itsnicethat.com/articles/vucko-etsy-motion-graphic-design-sponsored-content-121126",
-      "published_at": "12 Nov 2026 · 21:00 WIB",
-      "published_iso": "2026-11-12T14:00:00+00:00",
+      "title": "Fredrik Wester steps down as Paradox Interactive CEO",
+      "lede": "Paradox Interactive CEO Fredrik Wester is stepping down, with deputy CEO Mattias Lilja assuming the role on January 4, 2027. Read more",
+      "source_name": "GamesIndustry.biz",
+      "source_url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
+      "published_at": "12 Nov 2026 · 15:34 WIB",
+      "published_iso": "2026-11-12T08:34:30+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
@@ -248,404 +688,173 @@
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://www.itsnicethat.com/articles/vucko-etsy-motion-graphic-design-sponsored-content-121126"
+              "url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo"
             }
           ]
         }
       ],
-      "images": []
-    },
-    {
-      "id": "source-d324fb7099b7548f",
-      "category": "HOT NEWS · WORLD",
-      "story_type": "hot_news",
-      "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
-      "lede": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burned Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Climate campaigners are urging the Albanese government to heed a “line in the sand” warning on fossil fuels issued by dozens of countries at a UN climate summit and refuse a massive coalmine expansion planned in New South Wales. A…",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
-      "published_at": "24 Nov 2026 · 14:42 WIB",
-      "published_iso": "2026-11-24T07:42:57+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/67fe74e925e14e027af689b261f186a2cc29acfe/408_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=6c0b36383d375b7eaee48869bbc47198",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "Photograph: Lock the Gate",
-          "credit_url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+          "url": "https://assetsio.gnwcdn.com/fredrik-wester.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "GamesIndustry.biz (publisher source; original credit at source)",
+          "credit_url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
           "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-0f7e34b8ea13c1bb",
-      "category": "FEATURE · GAMING & TECH",
-      "story_type": "feature",
-      "title": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6",
-      "lede": "IGN Entertainment, the parent company of GamesIndustry.biz , has released the Official Online Guide for GTA 6 , created through direct collaboration with Rockstar Games. The free guide, which was published on IGN.com, includes an extensive interactive map built using the firm's MapGenie platform, along with checklist trackers for completed tasks and detailed guides on missions, mechanics, and the game's vast open world. Read more",
-      "source_name": "GamesIndustry.biz",
-      "source_url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
-      "published_at": "20 Nov 2026 · 17:07 WIB",
-      "published_iso": "2026-11-20T10:07:40+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
+        },
         {
-          "url": "https://assetsio.gnwcdn.com/gta-strategy-guide.png?width=690&quality=85&format=jpg&auto=webp",
+          "url": "https://assetsio.gnwcdn.com/fredrik-wester.jpg?width=690&quality=85&format=jpg&auto=webp",
           "caption": "Publisher-supplied feed image; see the source for its original context.",
           "credit": "GamesIndustry.biz",
-          "credit_url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
+          "credit_url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-b938d7f119467131",
+      "id": "source-ca93a78d200b5819",
+      "category": "ARCHIVE FEATURE · GAMING & TECH",
+      "story_type": "archive_feature",
+      "title": "Shigeru Miyamoto to receive inaugural Legend Award at the 30th DICE Awards",
+      "lede": "Nintendo's Shigeru Miyamoto will be the first recipient of the Academy of Interactive Arts & Sciences' new Legend Award. Read more",
+      "source_name": "GamesIndustry.biz",
+      "source_url": "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
+      "published_at": "17 Nov 2026 · 01:37 WIB",
+      "published_iso": "2026-11-16T18:37:20+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [
+        {
+          "side": "left",
+          "type": "FROM THE ARCHIVE",
+          "title": "Originally published 17 Nov 2026",
+          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
+          "color": "purple",
+          "bullets": [],
+          "sources": [
+            {
+              "label": "Read original publication",
+              "url": "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-23-140341.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "GamesIndustry.biz (publisher source; original credit at source)",
+          "credit_url": "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
+          "kind": "feed"
+        },
+        {
+          "url": "https://assetsio.gnwcdn.com/Screenshot-2026-10-23-140341.png?width=690&quality=85&format=jpg&auto=webp",
+          "caption": "Publisher-supplied feed image; see the source for its original context.",
+          "credit": "GamesIndustry.biz",
+          "credit_url": "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-022dcd160bec5306",
       "category": "FEATURE · GAMING & TECH",
       "story_type": "feature",
-      "title": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\"",
-      "lede": "French publisher and distributor Plug In Digital has acquired Paris-based indie publisher Twin Sails Interactive - formerly the digital division of boardgame publisher Asmodee, and publisher of News Tower - and announced the two will combine to form an indie-focused distribution and publishing group that combines \"Plug In Digital’s global scale with Twin Sails Interactive’s hands-on creative collaboration.\" Read more",
+      "title": "007 First Light wins GOTY at 2026 TIGA Awards, Dovetail Games takes home four accolades including Best Publisher",
+      "lede": "IO Interactive's 007 First Light received Game of the Year at the 2026 TIGA Awards, while Dovetail Games earned four awards, including Best Publisher and Best Educational, Serious or Simulation Game for Train Sim World 6. Read more",
       "source_name": "GamesIndustry.biz",
-      "source_url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
-      "published_at": "23 Nov 2026 · 22:15 WIB",
-      "published_iso": "2026-11-23T15:15:10+00:00",
+      "source_url": "https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher",
+      "published_at": "19 Nov 2026 · 21:55 WIB",
+      "published_iso": "2026-11-19T14:55:30+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://assetsio.gnwcdn.com/HeroBanner_TSIxPiD.png?width=690&quality=85&format=jpg&auto=webp",
+          "url": "https://assetsio.gnwcdn.com/first-light-train-simulator.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "GamesIndustry.biz (publisher source; original credit at source)",
+          "credit_url": "https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher",
+          "kind": "feed"
+        },
+        {
+          "url": "https://assetsio.gnwcdn.com/first-light-train-simulator.png?width=690&quality=85&format=jpg&auto=webp",
           "caption": "Publisher-supplied feed image; see the source for its original context.",
           "credit": "GamesIndustry.biz",
-          "credit_url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
+          "credit_url": "https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-c7242340df433652",
+      "id": "source-9c59a48831246ba7",
       "category": "FEATURE · MUSIC & POP CULTURE",
       "story_type": "feature",
-      "title": "Fleetwood Mac producer on how Nicks and Buckingham put aside personal animus to record a Rumours classic",
-      "lede": "Producer Ken Caillat has written a tell-all book about the making of the classic album",
-      "source_name": "MusicRadar",
-      "source_url": "https://www.musicradar.com/artists/singles-albums/stevie-looked-at-lindsey-and-cried-out-lindsey-responded-with-a-tirade-of-his-own-they-went-back-and-forth-screaming-and-yelling-at-each-other-fleetwood-mac-producer-on-how-nicks-and-buckingham-put-aside-personal-animus-to-record-a-rumours-classic",
-      "published_at": "19 Nov 2026 · 00:11 WIB",
-      "published_iso": "2026-11-18T17:11:59+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/35mTB5PrAWVXmGz4U2d2So-1920-80.jpg",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "MusicRadar",
-          "credit_url": "https://www.musicradar.com/artists/singles-albums/stevie-looked-at-lindsey-and-cried-out-lindsey-responded-with-a-tirade-of-his-own-they-went-back-and-forth-screaming-and-yelling-at-each-other-fleetwood-mac-producer-on-how-nicks-and-buckingham-put-aside-personal-animus-to-record-a-rumours-classic",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-9c6888a38b690165",
-      "category": "HOT NEWS · WORLD",
-      "story_type": "hot_news",
-      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
-      "lede": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-      "published_at": "24 Nov 2026 · 04:03 WIB",
-      "published_iso": "2026-11-23T21:03:34+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "BBC News",
-          "credit_url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-c30ec16fc8f87f35",
-      "category": "ARCHIVE FEATURE · CREATIVE",
-      "story_type": "archive_feature",
-      "title": "autonomous robotic installation writes and erases history in real time",
-      "lede": "the project critiques the idea of fixed historical truth, positioning history as perpetually in flux.",
-      "source_name": "Designboom",
-      "source_url": "https://www.designboom.com/art/autonomous-robotic-installation-writing-history-paul-albert/",
-      "published_at": "27 Feb 2026 · 22:45 WIB",
-      "published_iso": "2026-02-27T15:45:06+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 27 Feb 2026",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://www.designboom.com/art/autonomous-robotic-installation-writing-history-paul-albert/"
-            }
-          ]
-        }
-      ],
-      "images": []
-    },
-    {
-      "id": "source-756f680999fb3347",
-      "category": "FEATURE · CREATIVE",
-      "story_type": "feature",
-      "title": "Matthew Wilcock’s data-driven approach to sound design lets everyday life make the music",
-      "lede": "Translating found rhythms and patterns into sound, the composer’s field recordings are shaping unexpected musical experiments.",
-      "source_name": "It's Nice That",
-      "source_url": "https://www.itsnicethat.com/articles/matthew-wilcock-sound-design-project-181126",
-      "published_at": "18 Nov 2026 · 16:00 WIB",
-      "published_iso": "2026-11-18T09:00:00+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": []
-    },
-    {
-      "id": "source-4bda518fcb969956",
-      "category": "ARCHIVE FEATURE · ART & CULTURE",
-      "story_type": "archive_feature",
-      "title": "Discover Fresh Talent and Immersive Art Experiences at The Other Art Fair Chicago",
-      "lede": "Spend your Halloween at The Other Art Fair, which returns to Artifact Events in Ravenswood from October 30 to November 2.",
-      "source_name": "Colossal",
-      "source_url": "https://www.thisiscolossal.com/2025/09/the-other-art-fair-chicago-fall-2025/",
-      "published_at": "29 Sep 2025 · 17:15 WIB",
-      "published_iso": "2025-09-29T10:15:00+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 29 Sep 2025",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://www.thisiscolossal.com/2025/09/the-other-art-fair-chicago-fall-2025/"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2025/09/Ayo-Print-by-Kevin-Kramp-1.jpeg",
-          "caption": "Kevin Kramp, “Ayo” (2025)",
-          "credit": "Colossal (publisher source; see original credit)",
-          "credit_url": "https://www.thisiscolossal.com/2025/09/the-other-art-fair-chicago-fall-2025/ayo-print-by-kevin-kramp-1/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-4ea0ac519441d7a4",
-      "category": "HOT NEWS · WORLD",
-      "story_type": "hot_news",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "lede": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "published_at": "23 Nov 2026 · 23:12 WIB",
-      "published_iso": "2026-11-23T16:12:35+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "BBC News",
-          "credit_url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-f4639f2ec7575eed",
-      "category": "FEATURE · CREATIVE",
-      "story_type": "feature",
-      "title": "Refillable Deodorant Cases Are Built to Last: Dove’s Latest Is Built to Collect",
-      "lede": "Scottish artist Craig Black wraps Dove’s refillable deodorant case in his hand-poured Acrylic Fusion artwork, turning an everyday essential into a signed collectible worth keeping. The post Refillable Deodorant Cases Are Built to Last: Dove’s Latest Is Built to Collect appeared first on DIELINE .",
-      "source_name": "The Dieline",
-      "source_url": "https://thedieline.com/refillable-deodorant-cases-are-built-to-last-doves-latest-is-built-to-collect/",
-      "published_at": "24 Nov 2026 · 14:55 WIB",
-      "published_iso": "2026-11-24T07:55:00+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": []
-    },
-    {
-      "id": "source-6efb2ca87d908538",
-      "category": "ARCHIVE FEATURE · CREATIVE",
-      "story_type": "archive_feature",
-      "title": "milla novo renders her desert textile installation within a snowy alpine context",
-      "lede": "milla novo’s textile installation moves from the mleiha desert in sharjah to a conceptual alpine glass pavilion.",
-      "source_name": "Designboom",
-      "source_url": "https://www.designboom.com/art/milla-novo-renders-desert-textile-installation-snowy-alpine-concept/",
-      "published_at": "27 Feb 2026 · 12:30 WIB",
-      "published_iso": "2026-02-27T05:30:40+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 27 Feb 2026",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://www.designboom.com/art/milla-novo-renders-desert-textile-installation-snowy-alpine-concept/"
-            }
-          ]
-        }
-      ],
-      "images": []
-    },
-    {
-      "id": "source-8b1946952aa5cab8",
-      "category": "ARCHIVE FEATURE · CREATIVE",
-      "story_type": "archive_feature",
-      "title": "alpine garden installation by BUREAU emerges in milan’s urban fabric for winter olympics",
-      "lede": "colored patterned modules accommodate stages, tribunes, bleachers, and kiosks.",
-      "source_name": "Designboom",
-      "source_url": "https://www.designboom.com/art/alpine-garden-installation-bureau-milan-urban-fabric-winter-olympics-flora-alpina/",
-      "published_at": "26 Feb 2026 · 10:45 WIB",
-      "published_iso": "2026-02-26T03:45:04+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 26 Feb 2026",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://www.designboom.com/art/alpine-garden-installation-bureau-milan-urban-fabric-winter-olympics-flora-alpina/"
-            }
-          ]
-        }
-      ],
-      "images": []
-    },
-    {
-      "id": "source-d72b3ea8eace2958",
-      "category": "HOT NEWS · WORLD",
-      "story_type": "hot_news",
-      "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
-      "lede": "UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues A British endurance swimmer has completed a three-day swim in the strait of Hormuz to highlight the environmental cost of the Iran war. Lewis Pugh, a UN patron of the oceans, swam a 9.3-mile (15km) section of the waterway, which is a key route for oil shipments from the Middle East. Continue reading...",
+      "title": "The month’s best experimental album: Stella Z’s ambient adventures into lucid dreaming",
+      "lede": "(CDR) Based around sounds recorded on her trips back to China, the Fujian-born, London-based producer creates a curious nocturnal collage on Thunder Is the Sky Dreaming Lucid dreaming is one of the influences behind Thunder Is the Sky Dreaming, the new record from Fujian-born, London-based producer Stella Z. “Every night is an adventure,” she writes in the liner notes, “I can even smell things in certain dreams.” The eight tracks here are…",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
-      "published_at": "22 Nov 2026 · 20:36 WIB",
-      "published_iso": "2026-11-22T13:36:01+00:00",
+      "source_url": "https://www.theguardian.com/music/2026/nov/20/stella-z-thunder-is-the-sky-dreaming-review-cdr",
+      "published_at": "20 Nov 2026 · 16:00 WIB",
+      "published_iso": "2026-11-20T09:00:26+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/7d1fe0b76a02fb1cbed49470fb53746f00e897fd/418_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bf9d1acd9bb23aed3711f83a38bd6ff4",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "Photograph: Lewis Pugh Foundation/AP",
-          "credit_url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+          "url": "https://i.guim.co.uk/img/media/8ba7ac4e688d199126644e25c5261bf0160128d0/0_506_2687_2150/master/2687.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=902b8e15bcc1720686359efa79daeb34",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/music/2026/nov/20/stella-z-thunder-is-the-sky-dreaming-review-cdr",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/8ba7ac4e688d199126644e25c5261bf0160128d0/0_506_2687_2150/master/2687.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&s=d727eb3b172f2525bf7c537e3ed3cbb9",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/music/2026/nov/20/stella-z-thunder-is-the-sky-dreaming-review-cdr",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/8ba7ac4e688d199126644e25c5261bf0160128d0/0_506_2687_2150/master/2687.jpg?width=620&dpr=2&s=none&crop=none",
+          "caption": "‘Every night is an adventure’ … Stella Z. Photograph: Alexandra Waespi ‘Every night is an adventure’ … Stella Z. Photograph: Alexandra Waespi",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/music/2026/nov/20/stella-z-thunder-is-the-sky-dreaming-review-cdr",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-a46a0cc2763e6e90",
-      "category": "ARCHIVE FEATURE · ART & CULTURE",
-      "story_type": "archive_feature",
-      "title": "Karya Seni Lagi-lagi Jadi Sasaran Protes, Apa Penyebabnya?",
-      "lede": "Gambar “Mona Lisa” baru-baru ini “kena” tumpahan sup. Baru-baru ini, media maya diramaikan dengan aksi dua aktivis lingkungan yang melempar sup ke gambar “Mona Lisa” di Louvre Museum, Paris, untuk menggaungkan sistem pangan yang berkelanjutan. Gambar “Mona Lisa” sendiri dilapisi dengan kaca, sehingga aksi pelemparan sup ini nggak merusak mahakarya Leonardo da Vinci tersebut. Sebagaimana […]",
-      "source_name": "USS Feed",
-      "source_url": "https://ussfeed.com/karya-seni-lagi-lagi-jadi-sasaran-protes-apa-penyebabnya/editorial/",
-      "published_at": "29 Jan 2024 · 17:43 WIB",
-      "published_iso": "2024-01-29T10:43:12+00:00",
+      "id": "source-d43d23c5b8b9a8b2",
+      "category": "FEATURE · ART & CULTURE",
+      "story_type": "feature",
+      "title": "A New Jean-Michel Basquiat Documentary Considers the Artist Behind the Work",
+      "lede": "\"He was unapologetically Jean-Michel Basquiat.\" Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article A New Jean-Michel Basquiat Documentary Considers the Artist Behind the Work appeared first on Colossal .",
+      "source_name": "Colossal",
+      "source_url": "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix/",
+      "published_at": "20 Nov 2026 · 03:30 WIB",
+      "published_iso": "2026-11-19T20:30:00+00:00",
       "feed_preview": true,
       "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 29 Jan 2024",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://ussfeed.com/karya-seni-lagi-lagi-jadi-sasaran-protes-apa-penyebabnya/editorial/"
-            }
-          ]
-        }
-      ],
+      "cards": [],
       "images": [
         {
-          "url": "https://gambar.sgp1.digitaloceanspaces.com/wp-content/uploads/2024/01/29154120/Untitled-design-4.png",
-          "caption": "Karya Seni Lagi-lagi Jadi Sasaran Protes, Apa Penyebabnya?",
-          "credit": "USS Feed (publisher source; see original credit)",
-          "credit_url": "https://ussfeed.com/karya-seni-lagi-lagi-jadi-sasaran-protes-apa-penyebabnya/editorial/attachment/untitled-design-4-22/",
+          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/basquiat-4.jpg",
+          "caption": "A New Jean-Michel Basquiat Documentary Considers the Artist Behind the Work",
+          "credit": "Colossal (publisher source; original credit at source)",
+          "credit_url": "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix/",
           "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-45fa60e1973b2908",
-      "category": "ARCHIVE FEATURE · ART & CULTURE",
-      "story_type": "archive_feature",
-      "title": "Teater Musikal Politik Polarisasi ‘Tawarkan’ Perspektif Baru untuk Pemilih dalam Melihat Pemilu",
-      "lede": "Teater musikal politik bertema Pemilu yang ‘tawarkan’ perspektif baru untuk pemilih Sebuah karya teater musikal politik bertema pemilihan umum (Pemilu) yang bertajuk “Polarisasi Musikal” persembahan Da Lopez Entertainment segera dilaksanakan pada awal Februari di Graha Bhakti Budaya, Taman Ismail Marzuki, Jakarta Pusat. Melalui “Polarisasi Musikal” penonton akan ditawarkan sudut pandang baru tentang bagaimana pemilih seharusnya […]",
-      "source_name": "USS Feed",
-      "source_url": "https://ussfeed.com/polarisasi-musikal-tawarkan-perspektif-baru-untuk-pemilih-dalam-melihat-pemilu/pop-culture/",
-      "published_at": "30 Jan 2024 · 17:22 WIB",
-      "published_iso": "2024-01-30T10:22:16+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
+        },
         {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 30 Jan 2024",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://ussfeed.com/polarisasi-musikal-tawarkan-perspektif-baru-untuk-pemilih-dalam-melihat-pemilu/pop-culture/"
-            }
-          ]
-        }
-      ],
-      "images": [
+          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/basquiat-2-1536x846.jpg",
+          "caption": "an expressive mask-like painting in a film still",
+          "credit": "Colossal (publisher source; original credit at source)",
+          "credit_url": "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix/",
+          "kind": "feed"
+        },
         {
-          "url": "https://gambar.sgp1.digitaloceanspaces.com/wp-content/uploads/2024/01/30172040/Polarisasi-Musikal-Tawarkan-Perspektif-Baru-untuk-Pemilih-dalam-Melihat-Pemilu.jpg",
-          "caption": "Teater Musikal Politik Polarisasi ‘Tawarkan’ Perspektif Baru untuk Pemilih dalam Melihat Pemilu",
-          "credit": "USS Feed (publisher source; see original credit)",
-          "credit_url": "https://ussfeed.com/polarisasi-musikal-tawarkan-perspektif-baru-untuk-pemilih-dalam-melihat-pemilu/pop-culture/attachment/polarisasi-musikal-tawarkan-perspektif-baru-untuk-pemilih-dalam-melihat-pemilu-2/",
+          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/basquiat-1-1536x852.jpg",
+          "caption": "a black and white photo of a young black man and young white woman smiling at each other",
+          "credit": "Colossal (publisher source; original credit at source)",
+          "credit_url": "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix/",
           "kind": "feed"
         }
       ]
