@@ -23,7 +23,7 @@ const icons={LOCATION:'⌖','TERM EXPLAINED':'Aa','OTHER COVERAGE':'≠','CROSS-
 
 function normalize(s,i) {
   const p=palettes[i%palettes.length];
-  const sections=Array.isArray(s.sections)&&s.sections.length ? s.sections.map(x=>({heading:String(x.heading||''),body:String(x.body||'')})) : [
+  const sections=Array.isArray(s.sections) ? s.sections.map(x=>({heading:String(x.heading||''),body:String(x.body||'')})).filter(x=>x.body.trim()) : [
     {heading:'The story',body:String(s.summary||'')},
     {heading:'The background',body:String(s.backstory||'')},
     {heading:'What happens next?',body:String(s.what_next||'')}
@@ -41,7 +41,7 @@ function normalize(s,i) {
     ...s, title:String(s.title||'Untitled story'),category:String(s.category||'NEWS'),
     id:String(s.id || `story-${i+1}`), lede:String(s.lede || s.summary || ''), sections,
     source_name:String(s.source_name||'Source not provided'), source_url:safeUrl(s.source_url),
-    published_at:String(s.published_at||''),visual:String(s.visual||['art','city','music','games'][i%4]),
+    published_at:String(s.published_at||''),feed_preview:Boolean(s.feed_preview), visual:String(s.visual||['art','city','music','games'][i%4]),
     images:Array.isArray(s.images)?s.images.slice(0,3).map(x=>({url:safeUrl(x.url),caption:String(x.caption||'Image supporting the story'),credit:String(x.credit||'Image source'),credit_url:safeUrl(x.credit_url),kind:String(x.kind||'context'),backup_url:safeUrl(x.backup_url)})).filter(x=>x.url):[],
     accent:isColor(s.accent)?s.accent:p[0],soft:isColor(s.soft)?s.soft:p[1],background:isColor(s.background)?s.background:p[2],
     cards:cards.slice(0,8).map((card,j)=>({
@@ -177,17 +177,25 @@ function renderStory(story,i) {
   const right=story.cards.filter(c=>c.side==='right');
   const contexts=story.cards.map(cardMarkup).join('');
   const sections=story.sections.map(x=>`<h2 class="section-heading">${esc(x.heading)}</h2><p class="article-p">${esc(x.body)}</p>`).join('');
-  const link=story.source_url ? `<a class="source-button" href="${esc(story.source_url)}" target="_blank" rel="noopener noreferrer">READ ORIGINAL ↗</a>` : '';
-  const visualSource='Loading image details…';
+  const link=story.source_url ? `<a class="source-button" href="${esc(story.source_url)}" target="_blank" rel="noopener noreferrer">OPEN ORIGINAL ↗</a>` : '';
+  const original=story.source_url ? `<a class="original-report" href="${esc(story.source_url)}" target="_blank" rel="noopener noreferrer" aria-label="Read the full original report from ${esc(story.source_name)}">
+      <span class="original-report-mark" aria-hidden="true">↗</span><span class="original-report-copy"><strong>READ THE COMPLETE ORIGINAL REPORT</strong><small>${esc(story.source_name)} · ${esc(story.published_at||'Published date unavailable')}</small></span><span class="original-report-arrow" aria-hidden="true">→</span>
+    </a>` : '';
+  const leftMarkup=left.length ? left.map(cardMarkup).join('') : '<p class="context-empty">No independently sourced background attached to this story yet. The original report is linked in the center.</p>';
+  const rightMarkup=right.length ? right.map(cardMarkup).join('') : '<p class="context-empty">We have not found another closely matching report to cross-link. That is not evidence of disagreement or confirmation.</p>';
+  const titleRight=right.length?'Another perspective.':'Source first.';
+  const excerptNote=story.feed_preview?'<p class="source-disclaimer"><strong>Publisher-feed preview.</strong> This is not the complete article. Open the original report above to read all the details, updates and qualifications.</p>':'';
+  const sourceLabel=story.feed_preview?'ORIGINAL REPORT · SOURCE PREVIEW':'REPORTING · SOURCE-ATTRIBUTED';
   return `<section id="story-${i}" class="story-screen" data-story-index="${i}" aria-label="Story ${i+1}: ${esc(story.title)}">
-      <aside class="panel left" aria-label="Supporting information for ${esc(story.title)}"><div class="panel-header"><span class="panel-header-title">THE DETAILS BEHIND IT</span><span class="panel-mark" aria-hidden="true">↘</span></div><div class="side-scroll"><h2 class="context-title">Look a little closer.</h2>${left.map(cardMarkup).join('')}<p class="side-footnote">Additional context is selected specifically for this story.</p></div></aside>
+      <aside class="panel left" aria-label="Supporting information for ${esc(story.title)}"><div class="panel-header"><span class="panel-header-title">THE DETAILS BEHIND IT</span><span class="panel-mark" aria-hidden="true">↘</span></div><div class="side-scroll"><h2 class="context-title">Look a little closer.</h2>${leftMarkup}<p class="side-footnote">Only linked and source-supported context appears here.</p></div></aside>
       <article class="panel center" aria-labelledby="title-${i}"><div class="panel-header"><span class="story-count"><strong>${String(i+1).padStart(2,'0')}</strong> / ${String(stories.length).padStart(2,'0')}</span><div class="story-topic"><span class="topic-pill">${esc(story.category)}</span><span class="topic-mark" aria-hidden="true">✳</span></div></div>
-        <div class="article-scroll" tabindex="0" aria-label="Read the full story"><div class="gallery"><div class="visual-canvas" id="visual-${i}"></div><div class="gallery-meta"><span class="gallery-caption" id="galleryCaption-${i}">${esc(visualSource)}</span><div id="galleryPagination-${i}" class="gallery-pagination" aria-hidden="true"></div></div></div>
-        <div class="story-article"><div class="story-meta"><span class="meta-kicker">THE STORY, NOT JUST THE HEADLINE</span><span class="meta-date">${esc(story.published_at||'')}</span></div><h1 id="title-${i}">${esc(story.title)}</h1><p class="story-dek">${esc(story.lede)}</p>${sections}
-          <div class="inside-context"><h2>More to the story ✳</h2><div class="inline-context-grid">${contexts}</div></div>
-          <div class="story-source"><p><strong>Source:</strong> ${esc(story.source_name)}${edition.demo?'<br>Reused from THE SCROLL #002. Summary rewritten; inspect linked source.':''}</p>${link}</div><p class="read-cue">${i===stories.length-1?'THAT’S THE LAST STORY. YOU’RE CAUGHT UP.':'DONE READING? SCROLL OR TAP NEXT TO MOVE ON →'}</p>
+        <div class="article-scroll" tabindex="0" aria-label="Read the story and its original source"><div class="gallery"><div class="visual-canvas" id="visual-${i}"></div><div class="gallery-meta"><span class="gallery-caption" id="galleryCaption-${i}">Loading image details…</span><div id="galleryPagination-${i}" class="gallery-pagination" aria-hidden="true"></div></div></div>
+        <div class="story-article"><div class="story-meta"><span class="meta-kicker">${sourceLabel}</span><span class="meta-date">${esc(story.published_at||'')}</span></div><h1 id="title-${i}">${esc(story.title)}</h1><p class="story-publisher">REPORTED BY <strong>${esc(story.source_name)}</strong></p><p class="story-dek">${esc(story.lede)}</p>
+          ${original}${excerptNote}${sections}
+          ${contexts?`<div class="inside-context"><h2>More to the story ✳</h2><div class="inline-context-grid">${contexts}</div></div>`:''}
+          <div class="story-source"><p><strong>Original source:</strong> ${esc(story.source_name)}${edition.demo?'<br>Demo article — verify linked reporting before relying on its claims.':''}</p>${link}</div><p class="read-cue">${i===stories.length-1?'THAT’S THE LAST STORY. YOU’RE CAUGHT UP.':'DONE READING? SCROLL OR TAP NEXT TO MOVE ON →'}</p>
         </div></div></article>
-      <aside class="panel right" aria-label="Further perspectives and evidence for ${esc(story.title)}"><div class="panel-header"><span class="panel-header-title">ANOTHER ANGLE</span><span class="panel-mark" aria-hidden="true">✳</span></div><div class="side-scroll"><h2 class="context-title">The fuller picture.</h2>${right.map(cardMarkup).join('')}<p class="side-footnote">Comparisons should identify real sources and actual differences, never invented disagreements.</p></div></aside>
+      <aside class="panel right" aria-label="Further perspectives and evidence for ${esc(story.title)}"><div class="panel-header"><span class="panel-header-title">ANOTHER ANGLE</span><span class="panel-mark" aria-hidden="true">✳</span></div><div class="side-scroll"><h2 class="context-title">${titleRight}</h2>${rightMarkup}<p class="side-footnote">Different coverage is linked only when sourced, not invented.</p></div></aside>
     </section>`;
 }
 
@@ -215,9 +223,15 @@ function goto(index,instant=false) {
   setActive(index);
 }
 function render() {
+  if (edition.demo) {
+    $('demoBadge').textContent='DEMO / NOT VERIFIED';
+    $('editionDate').textContent=edition.date||'DEMO';
+    deck.innerHTML='<div class="initial-load" style="padding:28px;text-align:center;line-height:1.7;flex-direction:column;gap:8px"><strong>THE SCROLL is switching to real publisher sources.</strong><span style="font-size:14px;font-weight:400;color:#6b6170;max-width:550px">The old demo is not verified reporting. Run the free daily workflow to publish current stories from actual news feeds.</span></div>';
+    return;
+  }
   stories=(edition.stories||[]).map(normalize).filter(s=>s.title.trim());
   if(!stories.length){deck.innerHTML='<div class="initial-load">No stories available for this edition.</div>';return}
-  $('demoBadge').textContent=edition.demo?'REUSED EDITION':'LIVE EDITION';
+  $('demoBadge').textContent=edition.demo?'DEMO EDITION':'SOURCE-LED EDITION';
   $('demoBadge').style.display='inline-block';
   try {$('editionDate').textContent=new Intl.DateTimeFormat('en-GB',{weekday:'short',day:'2-digit',month:'short',year:'numeric',timeZone:'UTC'}).format(new Date(`${edition.date||'2026-11-23'}T12:00:00Z`)).toUpperCase().replace(',',' ·')}catch{$('editionDate').textContent=edition.date||'LATEST EDITION'}
   deck.innerHTML=stories.map(renderStory).join('');

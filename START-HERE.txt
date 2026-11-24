@@ -1,0 +1,67 @@
+THE SCROLL — FREE, SOURCE-FIRST WEBSITE UPDATE
+
+WHAT THIS DOES
+- Keeps your existing playful layout, story-by-story snapping, image galleries and context cards.
+- Puts a large READ THE COMPLETE ORIGINAL REPORT link near the top of every story.
+- Uses real original publisher headlines, timestamps and direct article links.
+- Fills supporting cards with actual publisher/source links (and cross-coverage only when matched).
+- Replaces the paid OpenAI API with publicly provided RSS/Atom feeds.
+- Updates automatically around 08:19 Jakarta time, subject to GitHub Actions delays.
+- Does NOT claim a publisher's RSS excerpt is the full article.
+
+IMPORTANT REALITY CHECK
+Full copyrighted news articles cannot automatically be copied into THE SCROLL
+just because they are free to read. The original full report opens directly on
+the publisher's site. Where feed previews are available, they appear clearly
+labeled. No AI-written news, invented quotes or filler context.
+
+INSTALL ON YOUR EXISTING PUBLIC REPOSITORY: Bramundito/the-scroll
+
+1. Download and EXTRACT the ZIP. Never upload the ZIP itself to GitHub.
+2. Visit https://github.com/Bramundito/the-scroll
+3. In the main repository, click Add file > Upload files.
+4. Upload these FOUR files from the extracted folder, replacing the originals:
+     app.js
+     styles.css
+     index.html
+     validate-news.mjs
+   And upload this NEW file in the same batch:
+     collect-news.py
+   (package.json does not need replacement.)
+5. Commit changes directly to main.
+6. Visit: https://github.com/Bramundito/the-scroll/blob/main/.github/workflows/daily-scroll.yml
+7. Click the pencil icon, select all existing text and replace it with the
+   content of the ZIP's .github/workflows/daily-scroll.yml file.
+8. Commit to main. That replaces the old paid API workflow completely.
+9. Open https://github.com/Bramundito/the-scroll/actions
+   If the workflow was disabled, enable it first.
+   Select THE SCROLL — Free Source Edition > Run workflow > generate.
+10. After a green check, open https://bramundito.github.io/the-scroll/
+    Check that the new edition is dated today and each original link works.
+
+COST
+GitHub Pages + standard GitHub Actions jobs on a PUBLIC repository: $0 under
+GitHub's usual free usage terms. No OpenAI API key or billing required.
+You may remove OPENAI_API_KEY from GitHub Actions secrets after confirming the
+new workflow runs. The workflow never reads it.
+
+ABOUT SOURCES
+The program attempts ANTARA (English and Bahasa Indonesia), BBC News,
+The Guardian, Creative Boom, Dezeen, It's Nice That and GamesIndustry.biz.
+Some feeds may fail or stop working; the collector skips those. The run retains
+the prior edition rather than publishing made-up stories if there are fewer
+than 12 recent valid entries. It selects up to 30 stories, with a preference
+for Indonesia/Jakarta and meaningful creative, music, art, pop culture,
+gaming, tech and world news. RSS-only curation is heuristic, not a human
+fact-check or a guarantee of story significance.
+
+CURRENT EDITION
+This ZIP deliberately does NOT contain a fake or pre-generated news.json.
+Your current demo content will be hidden by the new interface until the first
+successful free collection generates current news.json. Your old file remains
+in the repository. The first generate run creates the replacement.
+
+SOCIAL DISCOVERY
+X/Instagram/Threads are not scraped in this first release because public
+browsing does not imply free, stable, authorized automated access. Additional
+social sources can be supported later without redesigning the site.
