@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""THE SCROLL V3: hot news + evergreen features, source-linked collector.
-No AI API, social login, or paid services. Publisher metadata only.
+"""THE SCROLL V4: hot news + evergreen features + publisher article images.
+No AI API, social login, or paid services. Source-linked publisher previews and images.
 Candidate feeds are best-effort: unavailable/invalid feeds are skipped.
 """
 from __future__ import annotations
@@ -11,7 +11,10 @@ from email.utils import parsedate_to_datetime
 from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlparse, urlsplit, urlunsplit, parse_qsl, urlencode
+from urllib.parse import urlparse, urlsplit, urlunsplit, parse_qsl, urlencode, urljoin, unquote
+from urllib.error import HTTPError
+from urllib.robotparser import RobotFileParser
+from threading import Lock
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 from collections import Counter
@@ -197,6 +200,216 @@ def image_refs(item,publisher,link):
         if len(out)==3: break
     return out
 
+# V4: article-level image discovery, only from the original publisher's
+# public feed / article metadata and editorial image containers.
+IMAGE_LIMIT = 3
+IMAGE_AGENT = 'TheScrollReader/4.0 (+personal RSS reader)'
+IMAGE_BAD = re.compile(r'(?:^|[\W_])(?:logo|favicon|avatar|sprite|placeholder|spacer|pixel|tracking|gravatar|newsletter|advertisement|sponsor-logo|social-icon|icon|badge|default-share|default-social)(?:$|[\W_])', re.I)
+BLOCK_SCOPE = re.compile(r'(?:^|[\s_-])(?:related|recommended|recommendations|trending|sidebar|footer|newsletter|advertisement|advertising|advert|ads|comments|author-bio|masthead|navigation|promo|cookie|recirculation|more-stories|read-more)(?:$|[\s_-])',re.I)
+BODY_SCOPE = re.compile(r'(?:article|entry|post|story)[\s_-]*(?:body|content|gallery|text|main|image|media|figure)|articlebody|articlecontent|storybody|entrycontent|postcontent|wp-block-gallery|wp-block-image',re.I)
+VOID_TAGS = set('area base br col embed hr img input link meta param source track wbr'.split())
+
+def image_url(raw, base):
+    if not isinstance(raw,str) or not raw.strip(): return ''
+    try: u=urljoin(base,unescape(raw.strip()))
+    except (ValueError,TypeError): return ''
+    if not https(u): return ''
+    p=urlsplit(u)
+    if p.path.lower().endswith(('.svg','.gif','.ico','.mp4','.webm','.pdf')): return ''
+    if IMAGE_BAD.search(unquote(p.path)): return ''
+    return u.split('#',1)[0]
+
+def image_key(url):
+    p=urlsplit(url)
+    path=unquote(p.path).lower()
+    # WordPress generated thumbnails, Guardian/BBC dimensions, common CDN crops.
+    path=re.sub(r'-\d{2,5}x\d{2,5}(?=\.[a-z0-9]+$)','',path)
+    path=re.sub(r'/(?:\d{2,5}x\d{2,5}|\d{2,4})(?=/)','/{size}',path)
+    path=re.sub(r'/(?:w|h|c|q|f|dpr)_[^/]+(?=/)','',path)
+    path=re.sub(r'/\d+:\d+/','/',path)
+    # Ignore resizing/format/quality parameters, retain identifying parameters.
+    resize={'w','h','width','height','size','resize','crop','fit','quality','q','format','fm','auto','dpr','rect','s','ixlib','v','f','aspect','ar','orient','trim'}
+    q=[(k,v) for k,v in parse_qsl(p.query,keep_blank_values=True) if k.lower() not in resize and not k.lower().startswith('utm_')]
+    return (p.netloc.lower(),path,urlencode(sorted(q)))
+
+def make_image(u,publisher,link,caption='',credit=''):
+    return {'url':u,'caption':plain(caption)[:280] or 'Image from the original publisher’s article; see the source for its context.', 'credit':plain(credit)[:160] or publisher+' (publisher source; original credit at source)', 'credit_url':link,'kind':'feed'}
+
+def best_srcset(raw,base):
+    options=[]
+    for candidate in (raw or '').split(','):
+        bits=candidate.strip().split()
+        if not bits: continue
+        u=image_url(bits[0],base)
+        if not u: continue
+        try:
+            suffix=bits[1] if len(bits)>1 else '1000w'
+            weight=float(suffix[:-1])*(1000 if suffix.endswith('x') else 1)
+        except (ValueError,IndexError): weight=1000
+        options.append((weight,u))
+    if not options: return ''
+    # Prefer high-res images but avoid huge 4K originals when a useful size exists.
+    options.sort(key=lambda x:(x[0]>=900, -abs(x[0]-1500)),reverse=True)
+    return options[0][1]
+
+class ArticleImages(HTMLParser):
+    def __init__(self,base,publisher,feed_fragment=False):
+        super().__init__(convert_charrefs=True)
+        self.base=base; self.publisher=publisher; self.fragment=feed_fragment
+        self.stack=[]; self.hero=[]; self.body=[]; self.jsonld=[]; self.capture=None
+        self.figures=[]
+    def handle_starttag(self,tag,attrs):
+        a=dict(attrs); mark=' '.join([a.get('class') or '',a.get('id') or '',a.get('role') or ''])
+        parent=self.stack[-1] if self.stack else ('',self.fragment,False,False)
+        blocked=parent[2] or tag in ('aside','nav','footer','header','noscript') or bool(BLOCK_SCOPE.search(mark))
+        inside=parent[1] or tag=='article' or bool(BODY_SCOPE.search(mark))
+        main=parent[3] or tag=='main' or a.get('role')=='main'
+        if tag not in VOID_TAGS: self.stack.append((tag,inside,blocked,main))
+        if tag=='script' and (a.get('type') or '').lower()=='application/ld+json': self.capture=[]
+        if tag=='meta':
+            key=(a.get('property') or a.get('name') or a.get('itemprop') or '').lower()
+            if key in ('og:image','og:image:url','og:image:secure_url','twitter:image','twitter:image:src'):
+                u=image_url(a.get('content'),self.base)
+                if u: self.hero.append(make_image(u,self.publisher,self.base))
+            elif key in ('og:image:alt','twitter:image:alt') and self.hero and a.get('content'):
+                self.hero[-1]['caption']=plain(a['content'])[:280]
+        if tag=='figure' and not blocked and (inside or main): self.figures.append({'images':[],'caption':[],'capturing':False})
+        if tag=='figcaption' and self.figures: self.figures[-1]['capturing']=True
+        if tag not in ('img','source') or blocked or not (inside or (main and self.figures)): return
+        if tag=='source' and not any(s[0]=='picture' for s in self.stack): return
+        alt=a.get('alt') or a.get('title') or ''
+        if IMAGE_BAD.search(mark+' '+alt): return
+        for k,minimum in [('width',240),('height',130)]:
+            dim=re.fullmatch(r'\s*(\d+)(?:px)?\s*',a.get(k) or '')
+            if dim and 0<int(dim.group(1))<minimum: return
+        u=''
+        for attr in ('data-srcset','data-lazy-srcset','srcset'):
+            u=best_srcset(a.get(attr),self.base)
+            if u: break
+        if not u:
+            for attr in ('data-full-src','data-original','data-lazy-src','data-src','data-image','src'):
+                u=image_url(a.get(attr),self.base)
+                if u: break
+        if not u: return
+        img=make_image(u,self.publisher,self.base,alt)
+        if self.figures: self.figures[-1]['images'].append(img)
+        else: self.body.append(img)
+    def handle_startendtag(self,tag,attrs):
+        self.handle_starttag(tag,attrs)
+        if tag not in VOID_TAGS: self.handle_endtag(tag)
+    def handle_data(self,data):
+        if self.capture is not None: self.capture.append(data)
+        if self.figures and self.figures[-1]['capturing']: self.figures[-1]['caption'].append(data)
+    def handle_endtag(self,tag):
+        if tag=='script' and self.capture is not None:
+            try: self.jsonld.append(json.loads(''.join(self.capture)))
+            except (ValueError,TypeError): pass
+            self.capture=None
+        if tag=='figcaption' and self.figures: self.figures[-1]['capturing']=False
+        if tag=='figure' and self.figures:
+            f=self.figures.pop(); caption=plain(' '.join(f['caption']))[:280]
+            for im in f['images']:
+                if caption: im['caption']=caption
+                self.body.append(im)
+        for i in range(len(self.stack)-1,-1,-1):
+            if self.stack[i][0]==tag:
+                del self.stack[i:]; break
+    def structured(self):
+        result=[]
+        def walk(value):
+            if isinstance(value,list):
+                for v in value: walk(v)
+            elif isinstance(value,dict):
+                types=value.get('@type',[]); types=[types] if isinstance(types,str) else types
+                if isinstance(types,list) and any(t in ('Article','NewsArticle','BlogPosting','ReportageNewsArticle','AnalysisNewsArticle','ReviewNewsArticle','TechArticle','CreativeWork') for t in types):
+                    imgs=value.get('image',[]); imgs=imgs if isinstance(imgs,list) else [imgs]
+                    for pic in imgs:
+                        raw=pic.get('contentUrl') or pic.get('url') if isinstance(pic,dict) else pic
+                        u=image_url(raw,self.base)
+                        if u:
+                            caption=pic.get('caption','') if isinstance(pic,dict) else ''
+                            credit=pic.get('creditText','') if isinstance(pic,dict) else ''
+                            result.append(make_image(u,self.publisher,self.base,caption if isinstance(caption,str) else '',credit if isinstance(credit,str) else ''))
+                # Restrict traversal to top-level graph/article entries, not unrelated recommendations.
+                for k in ('@graph','mainEntity','mainEntityOfPage'):
+                    if isinstance(value.get(k),(dict,list)): walk(value[k])
+        for v in self.jsonld: walk(v)
+        return result
+    def candidates(self):
+        # Metadata hero then editorial body, then structured variants. No sidebar pictures.
+        return self.hero+self.body+self.structured()
+
+def merge_images(*groups,limit=IMAGE_LIMIT):
+    seen=set(); result=[]
+    for group in groups:
+        for im in group or []:
+            if not isinstance(im,dict): continue
+            raw=im.get('url',''); u=image_url(raw,im.get('credit_url',''))
+            if not u: continue
+            key=image_key(u)
+            if key in seen: continue
+            seen.add(key); result.append(dict(im,url=u))
+            if len(result)>=limit: return result
+    return result
+
+# Respect robots.txt for article-page collection. No login/paywall bypass,
+# JS rendering, image search scraping, or access to arbitrary social accounts.
+_robots_cache={}; _robots_lock=Lock()
+def page_allowed(url):
+    p=urlsplit(url); origin=f'{p.scheme}://{p.netloc}'
+    with _robots_lock:
+        if origin in _robots_cache: rules=_robots_cache[origin]
+        else:
+            rules=None
+            try:
+                request=Request(origin+'/robots.txt',headers={'User-Agent':IMAGE_AGENT,'Accept':'text/plain'})
+                with urlopen(request,timeout=5) as res:
+                    body=res.read(200_001)
+                    if len(body)<=200_000:
+                        rules=RobotFileParser(); rules.parse(body.decode('utf-8','replace').splitlines())
+            except HTTPError as e:
+                if e.code in (404,410): rules=True
+            except Exception: pass
+            _robots_cache[origin]=rules
+    return rules is True or (rules is not None and rules.can_fetch('TheScrollReader',url))
+
+def article_images(url,publisher):
+    if not https(url) or not page_allowed(url): return []
+    try:
+        request=Request(url,headers={'User-Agent':IMAGE_AGENT,'Accept':'text/html,application/xhtml+xml'})
+        with urlopen(request,timeout=10) as res:
+            final=res.geturl()
+            if not https(final): return []
+            # Do not follow cross-site publisher redirects to a new source for image selection.
+            if urlsplit(final).hostname!=urlsplit(url).hostname and not page_allowed(final): return []
+            if 'html' not in res.headers.get('Content-Type','').lower(): return []
+            html=res.read(3_000_000).decode(res.headers.get_content_charset() or 'utf-8','replace')
+        parser=ArticleImages(final,publisher); parser.feed(html); parser.close()
+        return merge_images(parser.candidates(),limit=12)
+    except Exception as e:
+        print(f'IMAGE PAGE SKIP {publisher}: {e}',flush=True); return []
+
+def enrich_images(items):
+    def one(x):
+        existing=merge_images(x.get('images',[]))
+        if len(existing)>=IMAGE_LIMIT: return existing
+        link=x.get('link') or x.get('source_url') or ''
+        publisher=x.get('publisher') or x.get('source_name') or 'Original publisher'
+        # The publisher page often provides a full gallery when the feed exposes one thumbnail.
+        discovered=article_images(link,publisher)
+        return merge_images(discovered,existing)
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        futures={pool.submit(one,x):x for x in items}
+        for future in as_completed(futures):
+            item=futures[future]
+            try: item['images']=future.result()
+            except Exception as e:
+                print(f'IMAGE SKIP {item.get("title","")}: {e}',flush=True)
+                item['images']=merge_images(item.get('images',[]))
+    counts=Counter(len(x.get('images',[])) for x in items)
+    print(f'IMAGE COVERAGE: {dict(sorted(counts.items()))} (image count: story count)',flush=True)
+
+
 def feed_read(spec):
     lane,category,publisher,url,affinity=spec
     try:
@@ -224,7 +437,11 @@ def feed_read(spec):
         if hits(title,LOW_VALUE): continue
         # Do not republish full feed bodies. Preserve a source-linked excerpt.
         preview=preview if len(preview)<=450 else preview[:450].rsplit(' ',1)[0]+'…'
-        output.append(dict(lane=lane,category=category,publisher=publisher,affinity=affinity,title=title,lede=preview,link=link,date=stamp,images=image_refs(item,publisher,link),social=social_links(content+' '+desc)))
+        fragment=ArticleImages(link,publisher,feed_fragment=True)
+        try: fragment.feed(content); fragment.close()
+        except Exception: pass
+        images=merge_images(image_refs(item,publisher,link),fragment.candidates())
+        output.append(dict(lane=lane,category=category,publisher=publisher,affinity=affinity,title=title,lede=preview,link=link,date=stamp,images=images,social=social_links(content+' '+desc)))
     print(f'OK {publisher} [{category}]: {len(output)} eligible feed items',flush=True)
     return output
 
@@ -416,15 +633,22 @@ def main():
     with ThreadPoolExecutor(max_workers=12) as pool:
         jobs=[pool.submit(feed_read,s) for s in FEEDS]+[pool.submit(archive_read,s) for s in ARCHIVES]
         for future in as_completed(jobs):
-            result=future.result()
+            try: result=future.result()
+            except Exception as e:
+                print(f'SKIP SOURCE JOB: {e}',flush=True); continue
             if result: successes+=1; candidates.extend(result)
     seen=previous_urls()
     stories=select(candidates,seen)
     print(f'Collected {len(candidates)} candidates from {successes}/{len(FEEDS)+len(ARCHIVES)} source jobs; selected {len(stories)}: {dict(Counter(x["lane"] for x in stories))}',flush=True)
     if len(stories)<MIN_STORIES:
-        print('Too few eligible new stories. Keeping previous edition.',flush=True)
+        print('Too few eligible new stories. Keeping previous stories and refreshing their image galleries.',flush=True)
         if not OUT.exists(): raise SystemExit('No existing edition to preserve.')
+        payload=json.loads(OUT.read_text(encoding='utf-8'))
+        enrich_images(payload.get('stories',[]))
+        payload['updated_at']=NOW.astimezone(LOCAL).isoformat(timespec='seconds')
+        tmp=OUT.with_suffix('.json.tmp'); tmp.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8'); tmp.replace(OUT)
         return
+    enrich_images(stories)
     current=[canonical(x['link']) for x in stories]
     history=list(dict.fromkeys(current+seen))[:700]
     payload={'date':NOW.astimezone(LOCAL).strftime('%Y-%m-%d'),'updated_at':NOW.astimezone(LOCAL).isoformat(timespec='seconds'),'demo':False,'feed_based':True,'intro':'Hot news covers recent developments; creative and discovery features include older original publisher reports. Archive features retain their original publication dates. Read the linked articles for full reporting. Selection uses free source and keyword rules, not AI fact-checking.','seen_urls':history,'stories':[to_story(x) for x in stories]}
