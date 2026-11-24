@@ -18,6 +18,7 @@ on:
 
 permissions:
   contents: write
+  actions: read
   pages: write
   id-token: write
 
@@ -74,7 +75,11 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: _site
+          
+      - name: Allow GitHub artifact to become available
+        run: sleep 20
 
       - name: Deploy website
         id: deployment
         uses: actions/deploy-pages@v4
+
