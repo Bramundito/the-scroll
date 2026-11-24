@@ -1,0 +1,1834 @@
+{
+  "date": "2026-11-23",
+  "updated_at": "2026-11-23",
+  "demo": true,
+  "intro": "THE SCROLL #002 · 28 existing news topics. Reconstructed summaries based on the previously supplied lineup; not verbatim transcriptions. Photographs, promotional assets, and context images are individually labeled, linked externally and may be unavailable.",
+  "stories": [
+    {
+      "id": "scroll-002-01",
+      "category": "INDONESIA",
+      "title": "Gibran resigns as Indonesia’s vice president",
+      "lede": "President Prabowo accepted Vice President Gibran Rakabuming Raka’s resignation in November, opening a consequential political succession process. This is the same lead story carried in THE SCROLL #002.",
+      "published_at": "12 NOV 2026",
+      "source_name": "Cabinet Secretariat • 12 Nov",
+      "source_url": "https://setkab.go.id/en/president-prabowo-accepts-the-resignation-of-vice-president-gibran/",
+      "sections": [
+        {
+          "heading": "What happened",
+          "body": "The Indonesian Cabinet Secretariat said Prabowo received Gibran’s formal resignation on 12 November 2026. Gibran’s departure followed days of public speculation and media coverage about his intention to step down. A resignation announcement and a completed succession are separate developments: the process for choosing a new vice president still requires constitutional and political steps."
+        },
+        {
+          "heading": "Why it matters",
+          "body": "The vice presidency is the country’s second-highest executive office. Its vacancy can alter relationships between the presidency, parliament and the coalitions that shape policy. Coverage of the event should distinguish the confirmed official act—the resignation—from interpretations of the underlying political motives, which may differ across outlets."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "PRIMARY RECORD",
+          "title": "The official announcement",
+          "body": "The Cabinet Secretariat published the government’s account of the resignation. Use this as the starting point for what was formally announced, not as proof of every political explanation.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "Cabinet Secretariat",
+              "url": "https://setkab.go.id/en/president-prabowo-accepts-the-resignation-of-vice-president-gibran/"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "TERM EXPLAINED",
+          "title": "How is a vacant vice presidency filled?",
+          "body": "Article 8(2) of Indonesia’s Constitution sets out a procedure involving presidential nominees and a decision by the People’s Consultative Assembly (MPR). The appointment is not an ordinary public election.",
+          "color": "lime",
+          "sources": [
+            {
+              "label": "Government communication",
+              "url": "https://bakom.go.id/en/president-announces-gibran-resignation-as-vice-president/"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://setkab.go.id/wp-content/uploads/2026/11/Presiden-Prabowo-Menerima-Surat-Pernyataan-Berhenti-Wapres-Gibran.jpeg",
+          "caption": "Prabowo and Gibran during the November 2026 resignation announcement.",
+          "credit": "Cabinet Secretariat of Indonesia",
+          "credit_url": "https://setkab.go.id/en/president-prabowo-accepts-the-resignation-of-vice-president-gibran/",
+          "kind": "event",
+          "backup_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Parliamentary building — context for the constitutional succession process.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-02",
+      "category": "INDONESIA",
+      "title": "Indonesia passes its long-awaited asset forfeiture law",
+      "lede": "The DPR approved the asset forfeiture legislation on 19 November after years of debate over recovering assets connected to crime. The story also raises questions about safeguards and implementation.",
+      "published_at": "19 NOV 2026",
+      "source_name": "DPR RI • 20 Nov",
+      "source_url": "https://emedia.dpr.go.id/en/news/2026/11/20/puan-pimpin-rapat-paripurna-pengesahan-uu-perampasan-aset-apresiasi-masukan-dari-masyarakat",
+      "sections": [
+        {
+          "heading": "The decision",
+          "body": "Indonesia’s House of Representatives approved the asset forfeiture bill in a plenary meeting on 19 November 2026. Supporters see asset recovery as a way to prevent illicit proceeds from remaining available even after financial wrongdoing is exposed. The practical reach of the new law will depend on its final provisions, how authorities use them, and how courts supervise the process."
+        },
+        {
+          "heading": "The public-interest question",
+          "body": "Asset recovery can be a strong anti-corruption tool, but the power to seize assets needs clear evidentiary standards, due process and protection for innocent owners. The Jakarta Post highlighted transparency concerns alongside the parliamentary announcement, showing why reporting about a law should cover both its stated objective and the risks associated with enforcement."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is asset forfeiture?",
+          "body": "Asset forfeiture is a legal process that transfers property tied to unlawful activity to the state under specific rules. It is different from a fine, and may involve arguments over whether an asset is actually connected to a crime.",
+          "color": "yellow",
+          "sources": [],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "OTHER COVERAGE",
+          "title": "Passage versus safeguards",
+          "body": "The DPR describes formal passage and thanks participants; The Jakarta Post foregrounds worries about transparency. Those are different angles on the same event, not necessarily contradictory facts.",
+          "color": "coral",
+          "sources": [
+            {
+              "label": "DPR RI",
+              "url": "https://emedia.dpr.go.id/en/news/2026/11/20/puan-pimpin-rapat-paripurna-pengesahan-uu-perampasan-aset-apresiasi-masukan-dari-masyarakat"
+            },
+            {
+              "label": "The Jakarta Post",
+              "url": "https://www.thejakartapost.com/indonesia/2026/11/19/breaking-house-passes-long-awaited-asset-forfeiture-law-amid-transparency-concerns"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://img.okezone.com/content/2026/10/06/337/3246263/rapat_paripurna-2Brq_large.jpg",
+          "caption": "DPR plenary session in October 2026 as the asset-forfeiture bill advanced.",
+          "credit": "Okezone",
+          "credit_url": "https://news.okezone.com/read/2026/10/06/337/3246263/ruu-perampasan-aset-resmi-jadi-usul-inisiatif-dpr-komisi-iii-segera-bahas-dim",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Document and newspaper imagery — illustrative background for the legislation.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-03",
+      "category": "INDONESIA",
+      "title": "Banten candy-factory fire: rescue crews search for missing workers",
+      "lede": "A blaze at the PT Fonusa Agung Mulia factory in Cikande left rescuers searching unstable ruins. Initial reports referred to 24 recovered body bags and roughly 30 people missing; final identification was still under way.",
+      "published_at": "23 NOV 2026",
+      "source_name": "Reuters • 23 Nov",
+      "source_url": "https://www.reuters.com/world/asia-pacific/indonesia-says-24-killed-factory-blaze-rescuers-search-dozens-missing-2026-11-23/",
+      "sections": [
+        {
+          "heading": "What is confirmed",
+          "body": "The factory fire began on Saturday, 21 November, in Cikande, Serang Regency, Banten. Emergency workers searched the burned structure as authorities investigated the cause. Some early updates referred to 24 fatalities; others cautioned that the 24 recovered bags contained human remains and needed forensic examination before a final individual count could be confirmed."
+        },
+        {
+          "heading": "What needs careful reporting",
+          "body": "Disaster coverage changes quickly as rescue teams reach new areas and identification progresses. A count of body bags is not always a confirmed count of identified people. The most useful public updates will separately track confirmed fatalities, missing workers, rescues and findings from forensic identification—not blend them into one alarming headline."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is DVI?",
+          "body": "Disaster Victim Identification (DVI) is the forensic process for establishing the identities of people who died in an incident. It can use DNA, dental records, fingerprints and other evidence.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "DW: explanation of identification",
+              "url": "https://amp.dw.com/id/fakta-terbaru-kebakaran-pabrik-permen-di-cikande/a-80015559"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "DIFFERENT FIGURES",
+          "title": "Why do reports count differently?",
+          "body": "Reuters reported 24 killed, while other coverage emphasized 24 body bags containing remains and 32 workers unaccounted for. These figures measure different things or reflect different stages of verification; they should not be treated as identical.",
+          "color": "lime",
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/indonesia-says-24-killed-factory-blaze-rescuers-search-dozens-missing-2026-11-23/"
+            },
+            {
+              "label": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/asia-pacific/32-unaccounted-for-after-fire-at-indonesian-candy-factory/4133946"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://cdn.antaranews.com/cache/800x533/2026/08/27/1000924530.jpg",
+          "caption": "Archival Banten factory firefighting photo from August 2026 — NOT the November candy-factory incident.",
+          "credit": "ANTARA",
+          "credit_url": "https://banten.antaranews.com/berita/389303/polres-serang-selidiki-penyebab-kebakaran-pabrik-di-jawilan",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Industrial-building image for geographic context; NOT a photograph of the fire.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-04",
+      "category": "JAKARTA",
+      "title": "Jakarta sets 2027 minimum wage at Rp6,136,941",
+      "lede": "Governor Pramono Anung confirmed a 7.1% increase in Jakarta’s provincial minimum wage for 2027—an adjustment of Rp407,065 from the 2026 level.",
+      "published_at": "20 NOV 2026",
+      "source_name": "Jakarta Provincial Government • 20 Nov",
+      "source_url": "https://www.jakarta.go.id/siaran-pers/7232-SP-HMS-11-2026",
+      "sections": [
+        {
+          "heading": "The new number",
+          "body": "The Jakarta administration set its 2027 UMP at Rp6,136,941, compared with Rp5,729,876 in 2026. The change is scheduled to apply from 1 January 2027. The government’s own announcement provides the baseline amount and percentage increase; interpretation of whether this is enough for living costs is a separate economic and political debate."
+        },
+        {
+          "heading": "Why residents care",
+          "body": "Minimum-wage decisions influence pay negotiations, household budgets and employer planning. They do not mean every Jakarta employee automatically receives the same salary. How a particular worker is covered depends on the applicable wage rules, employment arrangement, sector and legal exceptions."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "THE NUMBERS",
+          "title": "How much is the increase?",
+          "body": "2026 UMP: Rp5,729,876. 2027 UMP: Rp6,136,941. Difference: Rp407,065, equivalent to 7.10% according to the Jakarta government.",
+          "color": "yellow",
+          "sources": [
+            {
+              "label": "Official Jakarta release",
+              "url": "https://www.jakarta.go.id/siaran-pers/7232-SP-HMS-11-2026"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "TERM EXPLAINED",
+          "title": "UMP vs UMK",
+          "body": "UMP is the provincial minimum wage. UMK is a district or city minimum wage where applicable. A wage announcement needs to specify which rate, jurisdiction and year it concerns.",
+          "color": "blue",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://www.radarbangsa.com/images/posts/1/2025/2025-12-24/08075d7f6ae572fa745bb3f15d71f3f3.jpg",
+          "caption": "Governor Pramono announcing the 2026 wage in December 2025 — archival photo.",
+          "credit": "Radarbangsa",
+          "credit_url": "https://www.radarbangsa.com/news/58035/gubernur-pramono-umumkan-ump-jakarta-2026-naik-617-persen-menjadi-rp57-juta",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Jakarta skyline — geographic context for the 2027 minimum-wage decision.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-05",
+      "category": "JAKARTA",
+      "title": "Pramono visits Australia to discuss Jakarta partnerships",
+      "lede": "Jakarta’s governor began a four-day Australia visit on 23 November, with public transport, education, tourism and creative-economy cooperation on the agenda.",
+      "published_at": "23 NOV 2026",
+      "source_name": "Berita Jakarta • 23 Nov",
+      "source_url": "https://www.beritajakarta.id/en/read/156982/jakarta-expands-cooperation-with-australia-in-transport-education-and-other-sectors",
+      "sections": [
+        {
+          "heading": "What the visit covers",
+          "body": "The trip is scheduled for 23–26 November 2026. Jakarta officials described discussions spanning public transport, education, tourism and the creative economy. International city-to-city meetings can open paths for technical exchanges and collaboration, but the announcement of a visit does not by itself establish that a funded transport project or binding agreement has been concluded."
+        },
+        {
+          "heading": "What to watch for next",
+          "body": "The follow-up questions are practical: Did the parties announce a written agreement? Were budgets, implementation dates and responsible agencies specified? Which ideas could actually be adapted for Jakarta’s population and transit network? That is how a diplomatic visit becomes measurable city policy."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "LOCATION",
+          "title": "Two Australian cities",
+          "body": "Public reporting described the governor’s meetings in Sydney and Canberra. The practical focus is cooperation, not a confirmed launch of a new Jakarta transport service.",
+          "color": "blue",
+          "sources": [
+            {
+              "label": "ANTARA",
+              "url": "https://en.antaranews.com/news/444603/jakarta-seeks-stronger-cooperation-with-australia"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "WHAT NEXT?",
+          "title": "A partnership is not yet a project",
+          "body": "Track signed agreements, agency commitments and concrete pilots. A press statement about potential cooperation should not be read as evidence that a future metro or bus scheme already exists.",
+          "color": "lime",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://www.dpn.go.id/storage/dpn/berita/berita-presiden/presidenrigoid-06022026151812-6985a3c49106c451413155.jpeg",
+          "caption": "Indonesia–Australia leaders meeting in February 2026 — archival bilateral context, not Pramono’s trip.",
+          "credit": "DPN",
+          "credit_url": "https://www.dpn.go.id/presiden-prabowo-dan-pm-albanese-perkuat-kemitraan-strategis-ri-australia-tandatangani-traktat-keamanan-bersama",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1500&q=82",
+          "caption": "City infrastructure — illustrative context for transportation and education partnerships.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-06",
+      "category": "INDONESIA",
+      "title": "Indonesia and the EU sign the IEU-CEPA trade deal",
+      "lede": "Indonesia and the European Union signed trade and investment agreements in Brussels on 21 November, completing a long negotiation phase while implementation steps remain.",
+      "published_at": "21 NOV 2026",
+      "source_name": "Indonesian Foreign Ministry • 21 Nov",
+      "source_url": "https://www.kemlu.go.id/en/berita/indonesia-dan-uni-eropa-perkuat-kemitraan-ekonomi-melalui-ieu-cepa-dan-ipa?type=publication",
+      "sections": [
+        {
+          "heading": "What was signed",
+          "body": "The Indonesia–EU Comprehensive Economic Partnership Agreement (IEU-CEPA) and a separate Investment Protection Agreement were signed on 21 November 2026. The deal is intended to improve market access and commercial cooperation. Both Indonesia and EU institutions publicized the signing, which is a major milestone but is distinct from full legal entry into force."
+        },
+        {
+          "heading": "What it might change",
+          "body": "Lower tariffs and clearer trade rules may benefit certain exporters and importers over time. Outcomes will depend on product classifications, rules of origin, regulatory compliance and ratification or implementation procedures. Government forecasts about future export growth are projections, not benefits already realized by every business."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is CEPA?",
+          "body": "A Comprehensive Economic Partnership Agreement is a wide-ranging trade arrangement that can cover tariffs, services, investment and economic cooperation. An agreement being signed is not the same as every provision already being in force.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "European Commission",
+              "url": "https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/indonesia/eu-indonesia-agreements_en"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "CLAIM VS PROJECTION",
+          "title": "A forecast is not a result",
+          "body": "Indonesia’s foreign ministry cites projections for export growth and broader welfare benefits. Those numbers describe an expected scenario, not measured gains since the signing.",
+          "color": "lime",
+          "sources": [
+            {
+              "label": "Foreign Ministry",
+              "url": "https://www.kemlu.go.id/en/berita/indonesia-dan-uni-eropa-perkuat-kemitraan-ekonomi-melalui-ieu-cepa-dan-ipa?type=publication"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://cms.disway.id/uploads/46104e71329aa18fd6817f03b360f578.jpg",
+          "caption": "Prabowo and European Commission President Ursula von der Leyen during IEU–CEPA talks.",
+          "credit": "Disway",
+          "credit_url": "https://disway.id/read/885260/resmi-indonesia-dan-uni-eropa-sepakat-iue-cepa-prabowo-breakthrough-setelah-10-tahun",
+          "kind": "event",
+          "backup_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Global commerce image — context for the agreement’s trade implications.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-07",
+      "category": "INDONESIA",
+      "title": "Floods and landslides affect several Indonesian regions",
+      "lede": "Indonesia’s disaster-management agency reported multiple weather-related incidents ahead of 23 November, with local conditions and needs varying from province to province.",
+      "published_at": "23 NOV 2026",
+      "source_name": "BNPB • 23 Nov",
+      "source_url": "https://bnpb.go.id/berita/perkembangan-situasi-dan-penanganan-bencana-di-tanah-air-23-november-2026",
+      "sections": [
+        {
+          "heading": "The national picture",
+          "body": "BNPB’s 23 November operational update summarizes incidents reported between Sunday and Monday morning. Heavy rain can trigger flooding, slope failures and disrupted access, but the severity varies sharply by location. National summaries are useful for awareness, while decisions about travel or safety need more specific local alerts and instructions."
+        },
+        {
+          "heading": "Why the numbers change",
+          "body": "A disaster report is a snapshot. Counts of affected households, damaged homes and displaced people may be revised as teams verify new reports. The most responsible way to follow a multi-region disaster is to note the reporting time and distinguish forecast risk from actual observed events."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "SOURCE",
+          "title": "BNPB operational update",
+          "body": "The national disaster agency publishes incident and response updates. Check the timestamp and affected locations rather than assuming one flood account describes all regions.",
+          "color": "blue",
+          "sources": [
+            {
+              "label": "BNPB report",
+              "url": "https://bnpb.go.id/berita/perkembangan-situasi-dan-penanganan-bencana-di-tanah-air-23-november-2026"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "TERM EXPLAINED",
+          "title": "Warning vs incident report",
+          "body": "An early warning describes a risk before or during dangerous weather. An incident report records what has been observed. They are related but should not be presented as the same kind of evidence.",
+          "color": "yellow",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://web14.bernama.com/storage/photos/24b957db48af658db03e4f23dbd36db76926c853058a3",
+          "caption": "Flood and landslide damage in North Sumatra, November 2026.",
+          "credit": "Bernama",
+          "credit_url": "https://www.bernama.com/en/news.php?id=2495575",
+          "kind": "event",
+          "backup_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Landscape illustration — not a photograph of the disaster.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-08",
+      "category": "JAKARTA",
+      "title": "Heavy rain triggers another landslide in Pejaten Timur",
+      "lede": "Jakarta’s disaster-response agency documented follow-up landslide handling in Pejaten Timur, Pasar Minggu, after rainfall and slope instability disrupted a local road.",
+      "published_at": "22 NOV 2026",
+      "source_name": "BPBD Jakarta • 22 Nov",
+      "source_url": "https://bpbd.jakarta.go.id/berita/WGZPdWw2UFRPQzB4c3lIQ0lnTE9ldz09/upaya-penanganan-bencana-tanah-longsor-susulan-di-kel-pejaten-timur",
+      "sections": [
+        {
+          "heading": "Where it happened",
+          "body": "The incident affected Jalan Langgar II, RT 007/RW 010, Pejaten Timur, South Jakarta. BPBD described continued response work on 22 November following a subsequent slope movement. Local access was disrupted, making this not only a weather story but a practical infrastructure and neighborhood safety issue."
+        },
+        {
+          "heading": "What matters after the rain",
+          "body": "A slope can remain unstable even when rainfall eases. Clearing debris is only part of the response; authorities must assess whether surrounding ground is safe, whether residents need support and whether roads can reopen. Official BPBD updates are a better source for operational changes than a single viral photo."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "LOCATION",
+          "title": "The affected street",
+          "body": "Jalan Langgar II, Pejaten Timur, Pasar Minggu, South Jakarta. The specific road matters more than a generic “Jakarta landslide” label when assessing local disruption.",
+          "color": "coral",
+          "sources": [
+            {
+              "label": "BPBD DKI Jakarta",
+              "url": "https://bpbd.jakarta.go.id/berita/WGZPdWw2UFRPQzB4c3lIQ0lnTE9ldz09/upaya-penanganan-bencana-tanah-longsor-susulan-di-kel-pejaten-timur"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "TERM EXPLAINED",
+          "title": "What is a secondary landslide?",
+          "body": "A follow-up landslide occurs when an already weakened or disturbed slope moves again. Saturated soil and continued erosion can leave risks after the first collapse.",
+          "color": "yellow",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1500&q=82",
+          "caption": "City streets — illustrative context only. The original Pejaten Timur photographs can be opened from ANTARA and BPBD links in the article.",
+          "credit": "Unsplash — illustrative",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Urban conditions — illustrative only. See ANTARA’s Pejaten Timur photo report for incident photographs.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-09",
+      "category": "JAKARTA",
+      "title": "Jakarta’s minimum-wage increase sparks a wider pay debate",
+      "lede": "The newly set Rp6.14 million provincial wage is now a reference point for discussions about purchasing power, business costs and the differences between wage categories.",
+      "published_at": "20 NOV 2026",
+      "source_name": "ANTARA • 20 Nov",
+      "source_url": "https://en.antaranews.com/amp/news/444055/jakarta-sets-2027-minimum-wage-at-rp61-million-up-71-percent",
+      "sections": [
+        {
+          "heading": "The starting point",
+          "body": "The confirmed decision is a 7.1% increase to Rp6,136,941 for the 2027 UMP. That can be measured directly against the previous official level. Whether the change adequately matches housing, food and transport expenses is a different question requiring cost-of-living evidence and clear definitions of whose expenses are being measured."
+        },
+        {
+          "heading": "Why two headlines can feel different",
+          "body": "One publication can lead with the size of the rise, while another foregrounds financial pressures on employees or companies. Those differences in emphasis do not automatically mean one outlet has its numbers wrong. A useful comparison asks which parts are official amounts, which are stakeholder reactions and which are predictions."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "THE BASELINE",
+          "title": "Same figures, different framing",
+          "body": "The wage change is not a second wage decision; this story revisits the policy through its economic consequences. The underlying figure comes from the same 20 November Jakarta announcement.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "Jakarta government",
+              "url": "https://www.jakarta.go.id/siaran-pers/7232-SP-HMS-11-2026"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "QUESTION TO ASK",
+          "title": "Does this cover my job?",
+          "body": "A provincial minimum is not the same thing as a city/district standard, sectoral minimum or an individually negotiated wage. Coverage of the announcement matters before drawing personal salary conclusions.",
+          "color": "lime",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://me.nusantaratv.com/2025/12/dki-1766567551-12-2025.jpg",
+          "caption": "Pramono discussing the prior year’s UMP — December 2025 archive photo.",
+          "credit": "Nusantara TV",
+          "credit_url": "https://me.nusantaratv.com/berita/pramono-anung-tetapkan-ump-dki-jakarta-2026-rp57-juta",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Finance charts — an illustration of wages and household finances, not official Jakarta data.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-10",
+      "category": "WORLD",
+      "title": "COP31 ends without a comprehensive climate agreement",
+      "lede": "The UN climate conference in Antalya closed on 22 November without consensus on an overarching outcome, after negotiations over fossil fuels and climate finance stalled.",
+      "published_at": "22 NOV 2026",
+      "source_name": "United Nations • 22 Nov",
+      "source_url": "https://www.un.org/en/climatechange/cop31",
+      "sections": [
+        {
+          "heading": "The result",
+          "body": "COP31 ran in Türkiye and was extended beyond its scheduled closing before countries ultimately failed to agree on the main concluding text. A lack of a new overall outcome is significant, but it does not erase existing climate commitments or mean every discussion during the conference was abandoned."
+        },
+        {
+          "heading": "Why negotiators disagreed",
+          "body": "Countries entered the talks with different demands around fossil-fuel language, finance and responsibility for action. Some argued that the proposed text did too little; others opposed stronger commitments. The central tension was not whether global warming exists, but how to translate ambitions into language acceptable to participating governments."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is a COP?",
+          "body": "COP means Conference of the Parties: a formal negotiating meeting under the UN climate convention. COP31 is the thirty-first session, not the thirty-first worldwide climate agreement.",
+          "color": "blue",
+          "sources": [],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "OTHER COVERAGE",
+          "title": "“No agreement” needs context",
+          "body": "The UN confirmed no consensus on the overarching outcome; CBS focused on the fossil-fuel standstill and negotiators’ competing priorities. Both describe the same breakdown from different angles.",
+          "color": "coral",
+          "sources": [
+            {
+              "label": "United Nations",
+              "url": "https://www.un.org/en/climatechange/cop31"
+            },
+            {
+              "label": "CBS News",
+              "url": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Environmental landscape — illustration for COP31 climate negotiations.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Conference audience — thematic context, not a photograph of COP31.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-11",
+      "category": "WORLD",
+      "title": "US Democrats secure a large House majority",
+      "lede": "Election counts gave Democrats control of at least 258 seats in the 435-member US House, setting up a more divided political relationship with a Republican president.",
+      "published_at": "23 NOV 2026",
+      "source_name": "Associated Press • 23 Nov",
+      "source_url": "https://apnews.com/article/721096a4d9ba2cd68683692361798cdb",
+      "sections": [
+        {
+          "heading": "What changed",
+          "body": "After the 2026 midterm elections, Democrats secured a substantial majority in the US House of Representatives. The House is one chamber of Congress; control matters for budgets, legislation, investigations and procedural decisions. The election is an American political story, but changes in Washington can influence trade, diplomacy and international markets."
+        },
+        {
+          "heading": "What the result does not automatically mean",
+          "body": "Winning the House does not give a party unilateral control over US federal policy. The Senate, the presidency, courts and legislative procedures all matter. The political impact will depend on how the new leadership uses its majority and whether different institutions can reach agreement on policy."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is the House?",
+          "body": "The House of Representatives is the lower chamber of the US Congress, with 435 voting seats. A party generally needs more than half to control its leadership and committees.",
+          "color": "purple",
+          "sources": [],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "KEY NUMBER",
+          "title": "At least 258 seats",
+          "body": "AP reported a Democratic House majority of at least 258 seats—well above the 218-seat threshold usually needed for a majority in a full House.",
+          "color": "lime",
+          "sources": [
+            {
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/721096a4d9ba2cd68683692361798cdb"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Government architecture — illustrative background for the US House election.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1500&q=82",
+          "caption": "News imagery — thematic context for post-election coverage.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-12",
+      "category": "WORLD",
+      "title": "AI-linked stocks suffer a bruising November sell-off",
+      "lede": "Shares associated with the AI boom have faced pressure across US and Asian markets, renewing scrutiny of valuations, spending and the pace of expected returns.",
+      "published_at": "23 NOV 2026",
+      "source_name": "Reuters • 23 Nov",
+      "source_url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-11-23/",
+      "sections": [
+        {
+          "heading": "What markets are reacting to",
+          "body": "Reuters described heavy November losses in technology and semiconductor shares tied to artificial intelligence. The sell-off reflects investors reconsidering how much future AI adoption and profitability should already be priced into today’s stocks. That market shift is related to, but not the same as, a proven collapse in demand for AI tools."
+        },
+        {
+          "heading": "A useful distinction",
+          "body": "Stock prices are forward-looking and can move for several reasons at once: expectations about earnings, financing costs, regulation, geopolitics and general risk appetite. A sharp decline tells you investors became less willing to pay a given price; it does not by itself establish whether a product or technology will succeed."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is a valuation multiple?",
+          "body": "A valuation multiple compares a share price or company value with a financial measure such as earnings or sales. High multiples require investors to believe significant future growth is plausible.",
+          "color": "yellow",
+          "sources": [],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "DIFFERENT ANGLES",
+          "title": "Sell-off or overreaction?",
+          "body": "Reuters covered the breadth of market losses, while a separate broker-focused report described analysts who saw earlier selling as excessive. Those are different assessments, not conflicting historical price records.",
+          "color": "coral",
+          "sources": [
+            {
+              "label": "Reuters",
+              "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-11-23/"
+            },
+            {
+              "label": "Broker reactions",
+              "url": "https://www.investing.com/news/stock-market-news/wall-st-brokerages-say-ai-selloff-overdone-downplay-democrat-regulation-risks-5012564"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/GYDDXEZEZVE7TLKQS4H2YERIGA.jpeg",
+          "caption": "Historical Bloomberg big-tech selloff chart from February 2026 — NOT November data.",
+          "credit": "Bloomberg Línea",
+          "credit_url": "https://www.bloomberglinea.com/mercados/volatilidad-por-la-ia-borra-us15-billones-y-golpea-a-microsoft-amazon-y-meta/",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Stock-exchange imagery — illustration, not a chart of November returns.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-13",
+      "category": "WORLD",
+      "title": "Ukraine–Russia drone conflict intensifies",
+      "lede": "Drone warfare remains central to the conflict, with reports of very large overnight strikes and attacks on military and logistics infrastructure.",
+      "published_at": "16–23 NOV 2026",
+      "source_name": "Reuters reporting • Nov",
+      "source_url": "https://www.investing.com/news/world-news/ukraine-launches-biggest-drone-attack-on-russia-since-war-began-defence-ministry-data-shows-5028879",
+      "sections": [
+        {
+          "heading": "The developing picture",
+          "body": "A Reuters report dated 16 November described an unusually large Ukrainian drone attack on Russia, based on Russian defence ministry figures. Later developments involved claims about strikes on vessels and logistical targets. In a conflict, statements from either belligerent need attribution: military claims about interception numbers or damage may be impossible to independently verify immediately."
+        },
+        {
+          "heading": "Why these attacks matter",
+          "body": "Drones can reach beyond the front line and affect energy facilities, transport routes and military supply chains. But the tactical result of a strike is not the same as a decisive change in the overall war. A useful report separates the location and date of an attack from statements about its strategic consequences."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is a drone interception claim?",
+          "body": "A military may report how many incoming drones its defences shot down. These are official claims about an operation, not necessarily independently verified counts.",
+          "color": "purple",
+          "sources": [],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "VERIFICATION",
+          "title": "Be precise about attribution",
+          "body": "A statement like “Russia says it downed X drones” is not interchangeable with “X drones were downed.” Reuters explicitly flags claims it could not independently verify at publication.",
+          "color": "lime",
+          "sources": [
+            {
+              "label": "Reuters report",
+              "url": "https://www.investing.com/news/world-news/ukraine-launches-biggest-drone-attack-on-russia-since-war-began-defence-ministry-data-shows-5028879"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://www.nysun.com/_next/image?q=75&url=https%3A%2F%2Fwp.nysun.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAP25329195419276.jpg&w=1200",
+          "caption": "Fire crews in Kyiv after a 2025 strike — archival image, not a November 2026 attack.",
+          "credit": "New York Sun / AP",
+          "credit_url": "https://www.nysun.com/article/ukraine-says-it-will-support-u-s-brokered-peace-deal-to-end-war-with-russia",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Urban-building image to illustrate the conflict’s civilian infrastructure risks.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-14",
+      "category": "WORLD",
+      "title": "South Korea’s education minister resigns after exam confusion",
+      "lede": "Education Minister Choi Kyo-jin stepped down after last-minute anti-AI-cheating changes created confusion ahead of South Korea’s national university entrance examination.",
+      "published_at": "22 NOV 2026",
+      "source_name": "Yonhap • 22 Nov",
+      "source_url": "https://en.yna.co.kr/view/AEN20261122001052315",
+      "sections": [
+        {
+          "heading": "The resignation",
+          "body": "South Korea’s presidential office confirmed acceptance of Choi Kyo-jin’s resignation on 22 November. Reporting connected the decision to confusion over late rule changes intended to reduce AI-enabled cheating ahead of the College Scholastic Ability Test, or CSAT. The announcement made the minister’s political responsibility a national education story."
+        },
+        {
+          "heading": "Why this resonates widely",
+          "body": "The CSAT carries exceptional weight in South Korea because university admission strongly shapes later opportunities. Sudden changes in exam procedures can affect student confidence, teacher preparation and fairness. The episode is a case study in how new technologies create governance questions that cannot be settled by deploying technology alone."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is the CSAT/Suneung?",
+          "body": "The College Scholastic Ability Test (Suneung) is South Korea’s national college entrance examination. It is a high-stakes event with extensive public attention.",
+          "color": "blue",
+          "sources": [],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "WHAT CAUSED CONFUSION?",
+          "title": "AI cheating precautions",
+          "body": "Coverage attributed the controversy to last-minute exam-related rule changes intended to prevent cheating with AI. Avoid claiming that widespread cheating was established simply because officials changed the rules.",
+          "color": "yellow",
+          "sources": [
+            {
+              "label": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261122001052315"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://dimg.donga.com/wps/NEWS/IMAGE/2025/12/10/132938717.1.jpg",
+          "caption": "Archival image of an earlier Korean exam-official resignation in 2025 — not Minister Choi.",
+          "credit": "Dong-a Ilbo",
+          "credit_url": "https://www.donga.com/news/Society/article/all/20251210/132938317/1",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Students in a learning environment — illustration for the college entrance exam.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-15",
+      "category": "WORLD",
+      "title": "Trump, Xi and Putin issue a joint declaration after summit",
+      "lede": "The three leaders met in Shenzhen on 19 November and issued a declaration concerning peace and global governance. The document contains commitments, not proof that conflicts are resolved.",
+      "published_at": "19 NOV 2026",
+      "source_name": "White House • 19 Nov",
+      "source_url": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/",
+      "sections": [
+        {
+          "heading": "The meeting",
+          "body": "According to a White House declaration, US President Donald Trump, Chinese leader Xi Jinping and Russian President Vladimir Putin met in Shenzhen, China, on 19 November. The statement emphasized dialogue and potential cooperation on international security. The existence of a joint declaration can be confirmed separately from whether its promises are implemented."
+        },
+        {
+          "heading": "Why the wording matters",
+          "body": "Diplomatic statements often blend immediate actions, general principles and longer-term goals. For readers, the useful question is what concrete decisions have been made, what remains aspirational and how independent evidence could demonstrate progress. A summit announcement should not be treated as an independently verified peace settlement."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "PRIMARY DOCUMENT",
+          "title": "Read the declaration",
+          "body": "The official text is a primary source for what the leaders publicly said. Independent reporting is still needed to evaluate its impact and any disputed assertions.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "White House declaration",
+              "url": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "TERM EXPLAINED",
+          "title": "What is a joint declaration?",
+          "body": "A joint declaration is a public statement setting out agreed language or intentions. It is not automatically a legally binding treaty or evidence that promised actions have happened.",
+          "color": "lime",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "city",
+      "images": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xi%E2%80%93Putin%E2%80%93Trump_summit_-_P20261119DT-0850_%2855661766337%29.jpg?width=1400",
+          "caption": "White House photograph of the Trump–Xi–Putin summit, November 19, 2026.",
+          "credit": "Wikimedia Commons / White House",
+          "credit_url": "https://commons.wikimedia.org/wiki/File:Xi%E2%80%93Putin%E2%80%93Trump_summit_-_P20261119DT-0850_(55661766337).jpg",
+          "kind": "event",
+          "backup_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1500&q=82",
+          "caption": "International conference photo — thematic context for trilateral diplomacy.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-16",
+      "category": "CREATIVE",
+      "title": "Halter turns an AI farming launch into an underground archive",
+      "lede": "New Zealand agritech company Halter launched Mav, an AI farming assistant, with a physical Agricultural Intelligence Archive built into a grassy hillside—an unusually tangible creative campaign.",
+      "published_at": "23 NOV 2026",
+      "source_name": "Campaign Brief • 23 Nov",
+      "source_url": "https://campaignbrief.com/halter-launches-ai-farming-assistant-mav-with-underground-archive-built-into-a-new-zealand-hillside-in-new-campaign-via-motion-sickness/",
+      "sections": [
+        {
+          "heading": "The campaign concept",
+          "body": "Halter, known for connected livestock collars, worked with creative agency Motion Sickness to introduce Mav. Instead of only showing software on a screen, the campaign built an underground archive at Halter’s research and development farm. It stores printed agricultural findings and frames machine-generated insights as knowledge worth preserving for future farmers."
+        },
+        {
+          "heading": "Why this is a striking brand activation",
+          "body": "The idea combines a brand identity, real architecture, a physical book, film and data into one experiential story. It gives a largely invisible product—an AI assistant—a concrete place people can visit and talk about. The design mechanism is not “AI looks futuristic”; it is a deliberate contrast between digital intelligence and physical permanence."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "LOCATION",
+          "title": "Where is the archive?",
+          "body": "At Halter’s research and development farm in Morrinsville, Waikato, New Zealand. The archive is built into a hillside; visits are on designated occasions rather than conventional daily museum opening hours.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "Halter official archive",
+              "url": "https://www.halterhq.com/archive"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "CREATIVE MECHANIC",
+          "title": "A digital product made physical",
+          "body": "Motion Sickness created a 500-page Volume 1 as a record of farm insights. The underground structure acts as a proof-of-concept, media hook and visitor experience in one.",
+          "color": "lime",
+          "sources": [
+            {
+              "label": "Campaign Brief",
+              "url": "https://campaignbrief.com/halter-launches-ai-farming-assistant-mav-with-underground-archive-built-into-a-new-zealand-hillside-in-new-campaign-via-motion-sickness/"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "art",
+      "images": [
+        {
+          "url": "https://substackcdn.com/image/fetch/w_1200%2Ch_600%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Cg_auto/https%3A/bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9f81e495-54ea-46cd-8da9-fa9d27f9fabd_1600x1103.png",
+          "caption": "Halter founder Craig Piggott demonstrating smart-collar technology — archival photo.",
+          "credit": "UBQT VC",
+          "credit_url": "https://www.ubqt.vc/p/backed-by-23-million-of-fresh-capital",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Agricultural scene — supporting visual for the Mav farming-assistant launch.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-17",
+      "category": "CREATIVE",
+      "title": "Jakarta Architecture Festival 2026 puts the city’s spaces under the lens",
+      "lede": "The architecture festival, held in late October through 1 November at M Bloc Space, explored architecture and urban questions. This was an earlier item in the same briefing, not a newly opened event.",
+      "published_at": "23 OCT–01 NOV 2026",
+      "source_name": "IAI Jakarta • Oct–Nov",
+      "source_url": "https://www.iai-jakarta.org/acara/detail/jakarta-architecture-festival-2026",
+      "sections": [
+        {
+          "heading": "Where it happened",
+          "body": "The Jakarta Architecture Festival 2026 exhibition took place at M Bloc Space from 23 October to 1 November. Architecture festivals can connect architects, students and the public through built-environment exhibitions and discussion. By 23 November, these listed exhibition dates had already ended; the story belongs to a look-back or cultural roundup."
+        },
+        {
+          "heading": "Why it is worth following",
+          "body": "Architecture is not only about visual style. It shapes how people move, gather, work and encounter public space. For a creative audience, festivals of this sort can provide real references for spatial storytelling, exhibition design and visitor flow—particularly relevant to brand activations and events."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "LOCATION",
+          "title": "The exhibition venue",
+          "body": "M Bloc Space in South Jakarta was the listed exhibition location. It is a venue reference, not proof that the festival is still running today.",
+          "color": "blue",
+          "sources": [
+            {
+              "label": "IAI Jakarta event listing",
+              "url": "https://www.iai-jakarta.org/acara/detail/jakarta-architecture-festival-2026"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "DATE CHECK",
+          "title": "This edition includes a look-back",
+          "body": "The exhibition was listed for 23 October–1 November 2026. The reader preserves the original briefing topic but clearly shows it had concluded by this edition’s date.",
+          "color": "yellow",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "art",
+      "images": [
+        {
+          "url": "https://iai-jakarta.org/uploads/2026/09/723b694a1243d6eacabfb169b116b215_57735985fd8f49bd113e4ed7a5a66bf3_d02c193dd7985ad09c90e9f6b2ea3277.webp",
+          "caption": "IAI Jakarta’s 2026 architecture-festival graphic, for a related event.",
+          "credit": "IAI Jakarta",
+          "credit_url": "https://iai-jakarta.org/berita/detail/fabs-festival-arsitektur-bantar-sungai-2026",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://multimedia.beritajakarta.id/video/2026/bkt-eng-vwlJGyz6-20260904202419-thumbnail.jpg",
+          "caption": "Bantar Sungai architecture-festival opening, September 2026 — related event.",
+          "credit": "Berita Jakarta",
+          "credit_url": "https://www.beritajakarta.id/video/play/37936/enjoy-the-excitement-of-the-bantar-sungai-festival-at-bkt",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-18",
+      "category": "ART & CULTURE",
+      "title": "Jakarta Biennale 2026 enters its final days",
+      "lede": "The city’s contemporary-art biennale, titled KEBAL, is scheduled through 24 November. The closing window makes this a timely cultural stop rather than a generic arts recommendation.",
+      "published_at": "07 OCT–24 NOV 2026",
+      "source_name": "Jakarta Biennale • 2026",
+      "source_url": "https://jakartabiennale.id/",
+      "sections": [
+        {
+          "heading": "The exhibition window",
+          "body": "The official Jakarta Biennale site lists 7 October through 24 November 2026 for the 2026 edition, KEBAL. Biennales typically involve multiple curatorial projects and locations rather than a single art piece in one room. The official program is the correct reference for specific venues, performances and access details."
+        },
+        {
+          "heading": "Why the context matters",
+          "body": "Large exhibitions can be easier to understand when the reporting explains their curatorial theme and where works are shown. The headline “Jakarta Biennale” alone does not tell a reader whether they can visit today, what is being presented or which works are available in each place. That is exactly the kind of information a contextual news panel should surface."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TIME & PLACE",
+          "title": "When can you catch it?",
+          "body": "The Biennale’s official published dates are 7 October–24 November 2026. Consult the program for the precise venue of each artwork or event; there is no single universal gallery address for everything.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "Jakarta Biennale",
+              "url": "https://jakartabiennale.id/"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "TERM EXPLAINED",
+          "title": "What is a biennale?",
+          "body": "A biennale is generally a major art event held every two years. It can include installations, screenings, discussions and performances, often across several venues.",
+          "color": "lime",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "art",
+      "images": [
+        {
+          "url": "https://cdn.antaranews.com/cache/800x533/2026/10/06/Jakarta-Biennale-2026-061026-Adm-1.jpg",
+          "caption": "Installation presented at Jakarta Biennale 2026.",
+          "credit": "ANTARA",
+          "credit_url": "https://www.antaranews.com/foto/5773324/yuk-intip-pameran-jakarta-biennale-2026",
+          "kind": "event",
+          "backup_url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://awsimages.detik.net.id/community/media/visual/2026/10/06/berburu-inspirasi-di-jakarta-biennale-2026-tema-kebal-jadi-daya-tarik-1791265831104_169.jpeg?q=90&w=700",
+          "caption": "Artwork and printed ephemera at Jakarta Biennale 2026.",
+          "credit": "detik",
+          "credit_url": "https://www.detik.com/pop/foto/d-8694616/berburu-inspirasi-di-jakarta-biennale-2026-tema-kebal-jadi-daya-tarik",
+          "kind": "event",
+          "backup_url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Museum and art context — illustrative image.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-19",
+      "category": "ART & CULTURE",
+      "title": "Museum MACAN opens a new season of exhibitions",
+      "lede": "Museum MACAN’s new program includes shows by Tromarama, Eko Nugroho, Libby Heaney and Iwan Effendi, with exhibition dates extending into April 2027.",
+      "published_at": "14 NOV 2026–04 APR 2027",
+      "source_name": "Museum MACAN • Nov",
+      "source_url": "https://www.museummacan.org/events?lang=en",
+      "sections": [
+        {
+          "heading": "What is on view",
+          "body": "The museum lists exhibitions opening on 14 November 2026 and running through 4 April 2027. Among the program are Tromarama’s Ketok Magic, Eko Nugroho’s Scenic Disorder, Libby Heaney’s Qave Qonsciousness and Iwan Effendi’s Pulse for Pulse. Each has a distinct artistic focus rather than sharing one identical format."
+        },
+        {
+          "heading": "Why this matters for visitors",
+          "body": "A multi-exhibition season is an opportunity to compare different material and conceptual approaches in one place: moving image, contemporary Indonesian visual practice, research-driven installation and puppetry-related work. Practical reporting should identify the exhibition, venue and dates rather than presenting the whole season as one anonymous “museum event”."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "LOCATION",
+          "title": "Where is Museum MACAN?",
+          "body": "Museum of Modern and Contemporary Art in Nusantara, Jakarta. The museum publishes its current exhibition calendar, ticketing information and opening hours on its website.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "Museum MACAN",
+              "url": "https://www.museummacan.org/events?lang=en"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "PROGRAM NOTE",
+          "title": "Four different practices",
+          "body": "Tromarama: collective and moving-image practice. Eko Nugroho: contemporary Indonesian art. Libby Heaney: quantum concepts and art. Iwan Effendi: puppetry-related artistic research.",
+          "color": "blue",
+          "sources": [
+            {
+              "label": "Museum programs",
+              "url": "https://www.museummacan.org/?lang=en"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "art",
+      "images": [
+        {
+          "url": "https://assets.museummacan.org/2022/10/17/634d2eddcbc7153684310879.jpeg",
+          "caption": "Museum MACAN installation from its archive — NOT the November 2026 season.",
+          "credit": "Museum MACAN",
+          "credit_url": "https://www.museummacan.org/",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Gallery setting — illustration of a museum visit.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-20",
+      "category": "CREATIVE",
+      "title": "Bankwest brings absurd humour to a banking security campaign",
+      "lede": "A new Bankwest campaign by Bear Meets Eagle On Fire promotes its Single-Use Virtual Card by taking the idea of “safe risks” in unexpectedly comic directions.",
+      "published_at": "23 NOV 2026",
+      "source_name": "Campaign Brief Asia • 23 Nov",
+      "source_url": "https://campaignbriefasia.com/2026/11/23/bankwest-explores-the-risks-you-could-take-now-your-actual-card-details-are-protected-in-new-campaign-via-bear-meets-eagle-on-fire/",
+      "sections": [
+        {
+          "heading": "The creative move",
+          "body": "The campaign extends Bankwest’s Just Enough Bank platform. Rather than making security feel like a warning, the spots suggest customers can take silly everyday risks because their payment details have extra protection. The functional product benefit is a temporary virtual card number, but the creative execution is based on character comedy."
+        },
+        {
+          "heading": "Why advertisers are talking about it",
+          "body": "Financial services campaigns often explain mechanisms through charts, reassurance and fear. This one uses absurd storytelling to make a relatively invisible security feature memorable. It is a useful example of how a brand can retain one strategic platform while inventing new scenarios for each campaign phase."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is a single-use virtual card?",
+          "body": "It generates temporary card details for a particular purchase instead of exposing the underlying physical card number each time. The precise protections and eligibility depend on the bank’s rules.",
+          "color": "yellow",
+          "sources": [],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "CREATIVE CREDITS",
+          "title": "Who made the work?",
+          "body": "Bankwest worked with independent agency Bear Meets Eagle On Fire. Campaign reporting credits director Steve Ayson of 3&7 for the film spots.",
+          "color": "lime",
+          "sources": [
+            {
+              "label": "Campaign Brief Asia",
+              "url": "https://campaignbriefasia.com/2026/11/23/bankwest-explores-the-risks-you-could-take-now-your-actual-card-details-are-protected-in-new-campaign-via-bear-meets-eagle-on-fire/"
+            },
+            {
+              "label": "The Stable",
+              "url": "https://www.thestable.com.au/bear-meets-eagle-on-fire-bankwest-entices-with-a-safe-card-mad-risks-absurd-humour/"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "art",
+      "images": [
+        {
+          "url": "https://d3q27bh1u24u2o.cloudfront.net/news/Bankwest.png",
+          "caption": "Bankwest campaign imagery, sourced from previous agency coverage.",
+          "credit": "LBBOnline",
+          "credit_url": "https://www.lbbonline.com/news/bear-meets-eagle-on-fire-wins-bankwest",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Digital device imagery — context for protecting payment-card details.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-21",
+      "category": "ART & CULTURE",
+      "title": "Younger collectors reshape Indonesia’s contemporary-art market",
+      "lede": "A report on Indonesia’s expanding art market examines how Gen Z collectors and digitally visible artists are changing discovery, collecting and opportunities for emerging talent.",
+      "published_at": "18 NOV 2026",
+      "source_name": "The Jakarta Post • 18 Nov",
+      "source_url": "https://www.thejakartapost.com/culture/2026/11/18/indonesias-art-market-expands-as-gen-z-collectors-pick-up-pace",
+      "sections": [
+        {
+          "heading": "The reported shift",
+          "body": "The Jakarta Post highlighted young collectors and the ways digital platforms can help artists build an audience beyond traditional galleries. This does not mean physical exhibitions, provenance and trusted networks have stopped mattering. The art market involves both aesthetic judgment and practical infrastructure, including documentation and artist support."
+        },
+        {
+          "heading": "The longer-term question",
+          "body": "A wave of interest becomes a healthier ecosystem only if artists can sustain practices, collectors understand what they are acquiring and reliable information accompanies works. Reporting about a booming art market should distinguish individual examples, survey findings and broader market estimates rather than treating a few anecdotes as a national census."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is provenance in art?",
+          "body": "Provenance is the documented history of an artwork’s ownership and custody. It matters for authenticity, legal title and ethical questions about acquisition.",
+          "color": "yellow",
+          "sources": [],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "WHY IT MATTERS",
+          "title": "Discovery is not the whole market",
+          "body": "Social platforms can make a new artist easier to find, but collecting also requires trust, conservation, documentation and support for careers beyond a viral moment.",
+          "color": "blue",
+          "sources": [
+            {
+              "label": "The Jakarta Post",
+              "url": "https://www.thejakartapost.com/culture/2026/11/18/indonesias-art-market-expands-as-gen-z-collectors-pick-up-pace"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "art",
+      "images": [
+        {
+          "url": "https://cdn.medcom.id/dynamic/photos/2026/10/03/70909/art.jpg?w=1024",
+          "caption": "Art Jakarta 2026 display and visitors — scene from a related art-market event.",
+          "credit": "Medcom",
+          "credit_url": "https://www.medcom.id/foto/news/VNxAOr1b-art-jakarta-2026-digelar-libatkan-33-galeri-internasional",
+          "kind": "event",
+          "backup_url": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1531913764164-f85c52e6e654?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Gallery environment — illustration for young collectors and emerging art markets.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1531913764164-f85c52e6e654?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-22",
+      "category": "ART & CULTURE",
+      "title": "Paper Menagerie #3 approaches its final week in Jakarta",
+      "lede": "ISA Art Gallery’s On Equal Grounds exhibition runs through 27 November and uses paper as the starting point for a wide variety of contemporary-art practices.",
+      "published_at": "19 SEP–27 NOV 2026",
+      "source_name": "ISA Art Gallery • 2026",
+      "source_url": "https://www.isaartanddesign.com/exhibitions/156-the-paper-menagerie-3-on-equal-grounds/",
+      "sections": [
+        {
+          "heading": "The exhibition",
+          "body": "Paper Menagerie #3: On Equal Grounds opened on 19 September and is scheduled to close on 27 November 2026. The program brings together artists and creative researchers exploring paper beyond conventional drawings and prints, considering it as material, idea and a point of connection among practices."
+        },
+        {
+          "heading": "Why the location is important",
+          "body": "An exhibition recommendation is only actionable if a reader knows where it is and whether it is still running. Here, the venue is ISA Art Gallery at Wisma 46 in Central Jakarta. For someone interested in exhibition design, the approach shows how a single material can connect visually different work without making every piece look alike."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "LOCATION",
+          "title": "Where to see it",
+          "body": "ISA Art Gallery, ground floor of Wisma 46, Central Jakarta. Dates listed: 19 September–27 November 2026.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "Official exhibition page",
+              "url": "https://www.isaartanddesign.com/exhibitions/156-the-paper-menagerie-3-on-equal-grounds/"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "TERM EXPLAINED",
+          "title": "What is a group exhibition?",
+          "body": "A group exhibition presents works by multiple artists under a curatorial concept. “On Equal Grounds” is the exhibition’s title, not the name of a single artwork.",
+          "color": "lime",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "art",
+      "images": [
+        {
+          "url": "https://hypeabis.id/assets/content/WhatsApp_Image_2025_03_04_at_17_02_48_202503052100011741183201_crop.jpg",
+          "caption": "The Paper Menagerie exhibition, March 2025 — archive, not edition #3.",
+          "credit": "Hypeabis",
+          "credit_url": "https://hypeabis.id/read/47128/melihat-keunikan-kertas-dalam-pameran-the-paper-menagerie-di-isa-art-gallery",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://hypeabis.id/assets/content/DSC0_202503261533261742978006_crop.jpg",
+          "caption": "Visitors at an earlier Paper Menagerie exhibition in 2025.",
+          "credit": "Hypeabis",
+          "credit_url": "https://hypeabis.id/read/47665/menikmati-pameran-the-paper-menagerie-saat-ekspresi-seni-dituang-lewat-kertas",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-23",
+      "category": "MUSIC & POP CULTURE",
+      "title": "BTS win five awards at the 2026 MAMA Awards",
+      "lede": "BTS took five prizes including two grand awards at the Osaka ceremony, while rising group Cortis was recognized for Song of the Year.",
+      "published_at": "21 NOV 2026",
+      "source_name": "Yonhap • 21 Nov",
+      "source_url": "https://en.yna.co.kr/view/AEN20261121001851315",
+      "sections": [
+        {
+          "heading": "The results",
+          "body": "The two-day MAMA Awards were held at Kyocera Dome Osaka. Yonhap reported BTS won five awards including Album of the Year for Arirang. Cortis took Song of the Year. The event also drew attention to performances and awards for other K-pop acts, giving fans and the industry a year-end snapshot of influence."
+        },
+        {
+          "heading": "What the awards show",
+          "body": "An awards ceremony reflects particular rules, eligibility periods and voting or judging formulas. A Daesang is a top-level prize, but it should not be conflated with every other category. Reporting is clearest when the exact award name is attached to the artist, especially when multiple groups win major distinctions."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "TERM EXPLAINED",
+          "title": "What is a Daesang?",
+          "body": "Daesang is a Korean term often used for a grand prize at an award ceremony. MAMA has several major awards, so being a “Daesang winner” does not specify which category by itself.",
+          "color": "yellow",
+          "sources": [],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "CHECK THE CATEGORIES",
+          "title": "Five BTS awards",
+          "body": "Yonhap reports five trophies including two grand prizes. Cortis received Song of the Year; do not confuse that with BTS’s Album of the Year win.",
+          "color": "lime",
+          "sources": [
+            {
+              "label": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261121001851315"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "music",
+      "images": [
+        {
+          "url": "https://linggaupos.disway.id/upload/a7bbfeee128d72fff860759d5d744585.jpg",
+          "caption": "BTS on stage in an earlier performance — archive, not a 2026 MAMA photo.",
+          "credit": "Linggau Pos",
+          "credit_url": "https://linggaupos.disway.id/hiburan/read/688111/harga-tiket-konser-bts-di-jakarta-2026-army-bersiaplah",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Live music performance — illustrated context for the MAMA Awards.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-24",
+      "category": "MUSIC & POP CULTURE",
+      "title": "Jakarta prepares to go purple for BTS concerts",
+      "lede": "The Purple Jakarta initiative will illuminate city landmarks and offer visitor programs around BTS’s December performances—turning a concert into a citywide tourism activation.",
+      "published_at": "21–23 NOV 2026",
+      "source_name": "Katadata • 21 Nov",
+      "source_url": "https://katadata.co.id/berita/industri/6b011bb7c9633/sambut-konser-bts-kemenpar-siapkan-purple-jakarta-hingga-panduan-wisata-army",
+      "sections": [
+        {
+          "heading": "What is planned",
+          "body": "City and tourism officials described landmark illumination, a visitor guide and themed activities for BTS fans. Reports identify purple lighting at sites including Monas, Bundaran HI, GBK, Semanggi, Kota Tua, TIM, TMII and Museum Nasional around 25–30 December 2026. Concert plans and the wider public-facing program are related but separate event components."
+        },
+        {
+          "heading": "The activation idea",
+          "body": "Purple Jakarta creates several touchpoints beyond the stadium: nighttime city visuals, visitor itineraries, destination partnerships and social gathering spaces. From an experiential-marketing point of view, it shows how an artist-associated color can connect travel, public space and fandom—without every participant needing a ticket to the performance."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "LOCATIONS",
+          "title": "Which landmarks turn purple?",
+          "body": "Reported locations include Monas, Bundaran HI, Gelora Bung Karno, the Semanggi interchange, Kota Tua, Taman Ismail Marzuki, TMII and Museum Nasional.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "Katadata",
+              "url": "https://katadata.co.id/berita/industri/6b011bb7c9633/sambut-konser-bts-kemenpar-siapkan-purple-jakarta-hingga-panduan-wisata-army"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "TIMELINE",
+          "title": "Concert versus installation",
+          "body": "Published schedules place BTS concerts in Jakarta on 26, 27 and 29 December. The landmark lighting is reported for 25–30 December; plans may change closer to the event.",
+          "color": "lime",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "music",
+      "images": [
+        {
+          "url": "https://linggaupos.disway.id/upload/a7bbfeee128d72fff860759d5d744585.jpg",
+          "caption": "BTS with fans at an earlier show — archive concert photo, not Jakarta 2026.",
+          "credit": "Linggau Pos",
+          "credit_url": "https://linggaupos.disway.id/hiburan/read/688111/harga-tiket-konser-bts-di-jakarta-2026-army-bersiaplah",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Concert crowd — illustration of the purple-fandom city atmosphere.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-25",
+      "category": "MUSIC & POP CULTURE",
+      "title": "Guns N’ Roses return to Jakarta for a stadium show",
+      "lede": "The band’s 2026 world tour reached Madya Stadium GBK on 21 November. The event is part of Jakarta’s unusually busy period of international live music.",
+      "published_at": "21 NOV 2026",
+      "source_name": "Guns N’ Roses • 2026",
+      "source_url": "https://gunsnroses.com/blogs/news/guns-n-roses-to-return-to-indonesia-for-a-historic-stadium-show-in-jakarta",
+      "sections": [
+        {
+          "heading": "The concert",
+          "body": "The official band website announced Guns N’ Roses for Madya Stadium Gelora Bung Karno, Jakarta, on Saturday 21 November 2026. At the time of this 23 November reader edition, the scheduled date has passed. That makes this an event recap or entertainment-industry reference, not a future ticket suggestion."
+        },
+        {
+          "heading": "Why it is noteworthy",
+          "body": "Major touring shows require coordination among promoters, production crews, the venue, transport providers and city authorities. Even a single concert can be read as news about live-event capacity and international artist demand, not only as a fandom story."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "LOCATION",
+          "title": "The venue",
+          "body": "Madya Stadium, Gelora Bung Karno (GBK), Jakarta. The scheduled performance date was 21 November 2026.",
+          "color": "blue",
+          "sources": [
+            {
+              "label": "Official band announcement",
+              "url": "https://gunsnroses.com/blogs/news/guns-n-roses-to-return-to-indonesia-for-a-historic-stadium-show-in-jakarta"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "DATE CHECK",
+          "title": "This show was scheduled two days ago",
+          "body": "An earlier briefing entry can remain interesting, but a good app must make clear that a performance is not still upcoming simply because the article appears in today’s edition.",
+          "color": "yellow",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "music",
+      "images": [
+        {
+          "url": "https://mmc.tirto.id/image/otf/1240x0/2026/06/30/konser-gun-n-roses-jakarta-2026_ratio-16x9.jpg",
+          "caption": "Guns N’ Roses Jakarta 2026 concert poster.",
+          "credit": "Tirto",
+          "credit_url": "https://tirto.id/tiket-konser-gnr-jakarta-2026-harga-link-jadwal-penjualan-hyUf",
+          "kind": "promotional",
+          "backup_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Rock-concert audience — general visual context, not the Jakarta concert.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-26",
+      "category": "GAMING & TECH",
+      "title": "GTA VI reports $3.79 billion in first-day retail sales",
+      "lede": "Take-Two and Rockstar reported a record $3.79 billion in worldwide day-one retail sales for Grand Theft Auto VI, an extraordinary commercial launch for the game industry.",
+      "published_at": "20 NOV 2026",
+      "source_name": "Take-Two Interactive • 20 Nov",
+      "source_url": "https://ir.take2games.com/node/32701/pdf",
+      "sections": [
+        {
+          "heading": "The reported record",
+          "body": "The company said GTA VI generated $3.79 billion in first-day retail sales. That figure is the publisher’s estimate, disclosed in a corporate announcement, and was widely reported by entertainment and business media. “Retail sales” describes a particular accounting measure; it is not automatically equivalent to cash already recognized as net revenue on a financial statement."
+        },
+        {
+          "heading": "Why it matters beyond gaming",
+          "body": "A blockbuster launch at this scale crosses into mainstream entertainment economics. It can influence expectations for AAA development budgets, franchise strategies, hardware demand and release calendars. Record-size headlines still benefit from a careful distinction between company claims, third-party estimates and independently audited sales data."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "PRIMARY SOURCE",
+          "title": "Where does $3.79B come from?",
+          "body": "The figure comes from Take-Two’s corporate release about Rockstar’s first-day retail sales. It is an announced estimate, not a number THE SCROLL calculated.",
+          "color": "purple",
+          "sources": [
+            {
+              "label": "Take-Two release",
+              "url": "https://ir.take2games.com/node/32701/pdf"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "TERM EXPLAINED",
+          "title": "Retail sales vs publisher revenue",
+          "body": "Retail sales estimate total consumer-facing sales value under a company’s stated method. Recognized revenue and profit can differ because of platform fees, timing, returns and accounting rules.",
+          "color": "lime",
+          "sources": [],
+          "bullets": []
+        }
+      ],
+      "visual": "games",
+      "images": [
+        {
+          "url": "https://www.nextg.tv/assets/images/42/373/42373720-gta-screenshot-eine-belebte-strasse-in-vice-city-mit-autos-motorraedern-und-auffaelliger-street-art-unter-einer-bruecke-der-screenshot-zeigt.jpg",
+          "caption": "Promotional screenshot of Grand Theft Auto VI.",
+          "credit": "NextG / Rockstar Games",
+          "credit_url": "https://www.nextg.tv/gaming/unglaubliche-details-diese-screenshots-zeigen-gta-von-seiner-besten-seite-94281726.html",
+          "kind": "promotional",
+          "backup_url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.cgames.de/images/gsgp/290/gta-6_6437109.jpg",
+          "caption": "Promotional render of Lucia and Jason from GTA VI.",
+          "credit": "GamePro / Rockstar Games",
+          "credit_url": "https://www.gamepro.de/artikel/gta-6-collectors-box-400-euro-kein-spiel%2C3460112.html",
+          "kind": "promotional",
+          "backup_url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-27",
+      "category": "ENTERTAINMENT",
+      "title": "The Hunger Games returns with a $120 million opening",
+      "lede": "Sunrise on the Reaping opened with an estimated $120 million in North American ticket sales, demonstrating strong continued interest in the franchise.",
+      "published_at": "22 NOV 2026",
+      "source_name": "Associated Press • 22 Nov",
+      "source_url": "https://apnews.com/article/f893c7191fd27cba1f8d953a20910231",
+      "sections": [
+        {
+          "heading": "The numbers",
+          "body": "AP reported the film earned an estimated $120 million in the US and Canada over its opening weekend and about $225 million worldwide. That makes it a major theatrical opening, although weekend estimates can be adjusted when final grosses arrive. The movie expands The Hunger Games series with a story set before the events of the original films."
+        },
+        {
+          "heading": "Why the comparison matters",
+          "body": "Opening-weekend performance is influenced by screen count, ticket prices, marketing and fan anticipation. A big debut does not by itself tell us the film’s eventual profit or lifetime box office. Comparing this opening with earlier franchise films is more informative when the release environment and relevant measures are kept consistent."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "BOX OFFICE BASICS",
+          "title": "Domestic vs worldwide",
+          "body": "In North American box-office reporting, “domestic” usually means the United States and Canada. Worldwide combines that region with international markets. The reported $120M and $225M are different geographical totals.",
+          "color": "yellow",
+          "sources": [],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "SOURCE COMPARISON",
+          "title": "The numbers line up",
+          "body": "AP and Variety reported the $120 million North American opening; their framing differs, but not the key headline estimate.",
+          "color": "blue",
+          "sources": [
+            {
+              "label": "Associated Press",
+              "url": "https://apnews.com/article/f893c7191fd27cba1f8d953a20910231"
+            },
+            {
+              "label": "Variety",
+              "url": "https://au.variety.com/2026/film/global/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-42821/"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "music",
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/M/MV5BMzY0MzU5NjgtZjJlOS00ZGY4LTk2NjYtNDBjZmYzMDA2NTFkXkEyXkFqcGc%40._V1_.jpg",
+          "caption": "Film still from The Hunger Games: Sunrise on the Reaping.",
+          "credit": "IMDb / Lionsgate",
+          "credit_url": "https://www.imdb.com/title/tt32558705/",
+          "kind": "promotional",
+          "backup_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Cinema audience — illustration of theatrical opening-weekend performance.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    },
+    {
+      "id": "scroll-002-28",
+      "category": "INTERNET CULTURE",
+      "title": "IShowSpeed surprises Barack Obama by speaking Indonesian",
+      "lede": "A video exchange between streamer IShowSpeed and former US President Barack Obama drew attention when the creator greeted him in Bahasa Indonesia.",
+      "published_at": "17 NOV 2026",
+      "source_name": "detik • 17 Nov",
+      "source_url": "https://20.detik.com/detikupdate/20261117-261117024/video-momen-ishowspeed-sapa-obama-pakai-berbahasa-indonesia",
+      "sections": [
+        {
+          "heading": "What happened",
+          "body": "IShowSpeed spoke Indonesian during a streamed interaction with Obama in mid-November. News coverage and a video clip captured Obama’s reaction. The moment resonated particularly with Indonesian audiences because it joined a globally popular internet personality, a former US president and a language that both had personal familiarity with in different ways."
+        },
+        {
+          "heading": "Why it traveled online",
+          "body": "A short language exchange can be more shareable than the surrounding livestream. It has a clear surprise, a recognized figure and a strong connection to local identity. The useful factual core is the clip itself, not every exaggerated reaction headline or social-media speculation about what the two men said."
+        }
+      ],
+      "cards": [
+        {
+          "side": "left",
+          "type": "WATCH THE ORIGINAL MOMENT",
+          "title": "The video is the evidence",
+          "body": "When a news item concerns a viral exchange, the full clip and date are more useful than second-hand summaries of what someone “felt.” Here is a published video report of the interaction.",
+          "color": "blue",
+          "sources": [
+            {
+              "label": "detik video report",
+              "url": "https://20.detik.com/detikupdate/20261117-261117024/video-momen-ishowspeed-sapa-obama-pakai-berbahasa-indonesia"
+            }
+          ],
+          "bullets": []
+        },
+        {
+          "side": "right",
+          "type": "THE INDONESIA CONNECTION",
+          "title": "Why Obama recognized the language",
+          "body": "Obama lived in Jakarta during part of his childhood. The connection helps explain why the exchange landed with Indonesian audiences.",
+          "color": "lime",
+          "sources": [
+            {
+              "label": "The Jakarta Post",
+              "url": "https://www.thejakartapost.com/culture/2026/11/18/obama-ishowspeed-champion-indonesian-language"
+            }
+          ],
+          "bullets": []
+        }
+      ],
+      "visual": "music",
+      "images": [
+        {
+          "url": "https://cdn.medcom.id/dynamic/content/2024/11/20/1729404/ouPpvneEDB.jpg?w=1024",
+          "caption": "IShowSpeed holding the Indonesian flag during an earlier appearance — archive photo.",
+          "credit": "Medcom",
+          "credit_url": "https://www.medcom.id/hiburan/montase/JKR5GV8k-ishowspeed-pede-bisa-kalahkan-jake-paul",
+          "kind": "archive",
+          "backup_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?auto=format&fit=crop&w=1500&q=82"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?auto=format&fit=crop&w=1500&q=82",
+          "caption": "Creator economy — illustrative image, not the video call with Barack Obama.",
+          "credit": "Unsplash — contextual illustration",
+          "credit_url": "https://unsplash.com/",
+          "kind": "context",
+          "backup_url": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?auto=format&fit=crop&w=1500&q=82"
+        }
+      ]
+    }
+  ]
+}
