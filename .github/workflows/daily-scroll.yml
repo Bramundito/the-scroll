@@ -1,19 +1,20 @@
-name: THE SCROLL — Daily Edition
+
+name: THE SCROLL — Free Source Edition
 
 on:
   schedule:
-    # 08:00 WIB (Asia/Jakarta) = 01:00 UTC. Scheduled jobs may be delayed.
-    - cron: '0 1 * * *'
+    # 08:19 Jakarta time = 01:19 UTC
+    - cron: '19 1 * * *'
   workflow_dispatch:
     inputs:
       mode:
-        description: 'Deploy existing news or generate a fresh edition?'
-        required: true
+        description: 'Deploy current edition or collect fresh publisher feeds?'
         type: choice
-        default: 'deploy-only'
+        required: true
+        default: 'generate'
         options:
-          - deploy-only
           - generate
+          - deploy-only
 
 permissions:
   contents: write
@@ -31,35 +32,32 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Check out main branch
+      - name: Check out repository
         uses: actions/checkout@v4
         with:
           ref: main
           persist-credentials: true
 
-      - name: Prepare Node.js
-        uses: actions/setup-node@v4
+      - name: Prepare Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '22'
+          python-version: '3.11'
 
-      - name: Generate new edition with web research
+      - name: Collect free publisher news
         if: github.event_name == 'schedule' || github.event.inputs.mode == 'generate'
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: gpt-5.4-mini
-        run: node generate-news.mjs
+        run: python collect-news.py
 
-      - name: Validate news.json
+      - name: Validate articles and source links
         run: node validate-news.mjs
 
-      - name: Save changed news.json in main
+      - name: Save news.json to main
         if: github.event_name == 'schedule' || github.event.inputs.mode == 'generate'
         run: |
           git config user.name 'the-scroll-news-bot'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add news.json
           if ! git diff --cached --quiet; then
-            git commit -m "Daily THE SCROLL edition"
+            git commit -m "Daily free source-first edition"
             git push origin HEAD:main
           fi
 
@@ -72,7 +70,7 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload static website
+      - name: Upload website
         uses: actions/upload-pages-artifact@v4
         with:
           path: _site
