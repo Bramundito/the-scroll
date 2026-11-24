@@ -71,7 +71,6 @@ async function researchBeat(beat){
     tools:[{type:'web_search', search_context_size:'high', user_location:{type:'approximate',country:'ID',city:'Jakarta',region:'Jakarta'}}],
     tool_choice:'auto',
     include:['web_search_call.action.sources'],
-    text:{format:{type:'json_object'}},
     max_output_tokens:16000,
     input
   };
