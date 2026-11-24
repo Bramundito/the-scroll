@@ -1,0 +1,82 @@
+name: THE SCROLL — Daily Edition
+
+on:
+  schedule:
+    # 08:00 WIB (Asia/Jakarta) = 01:00 UTC. Scheduled jobs may be delayed.
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Deploy existing news or generate a fresh edition?'
+        required: true
+        type: choice
+        default: 'deploy-only'
+        options:
+          - deploy-only
+          - generate
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: the-scroll-daily-deploy
+  cancel-in-progress: false
+
+jobs:
+  edition:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+
+      - name: Prepare Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate new edition with web research
+        if: github.event_name == 'schedule' || github.event.inputs.mode == 'generate'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-5.4-mini
+        run: node generate-news.mjs
+
+      - name: Validate news.json
+        run: node validate-news.mjs
+
+      - name: Save changed news.json in main
+        if: github.event_name == 'schedule' || github.event.inputs.mode == 'generate'
+        run: |
+          git config user.name 'the-scroll-news-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Daily THE SCROLL edition"
+            git push origin HEAD:main
+          fi
+
+      - name: Assemble static website
+        run: |
+          mkdir -p _site
+          cp index.html app.js styles.css news.json _site/
+          touch _site/.nojekyll
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload static website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
