@@ -1,10 +1,25 @@
 {
   "date": "2026-11-25",
-  "updated_at": "2026-11-25T06:39:20+07:00",
+  "updated_at": "2026-11-25T12:16:46+07:00",
   "demo": false,
   "feed_based": true,
   "intro": "Hot news covers recent developments; creative and discovery features include older original publisher reports. Archive features retain their original publication dates. Read the linked articles for full reporting. Selection uses free source and keyword rules, not AI fact-checking.",
   "seen_urls": [
+    "https://www.designboom.com/architecture/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap",
+    "https://www.designboom.com/architecture/green-marble-gallery-showroom-immersive-interiors-shenzhen-dreamer-stone-house-peng-partners",
+    "https://www.antaranews.com/berita/5876591/transjakarta-ajak-120-veteran-berkeliling-gedung-ikonik-di-jakarta",
+    "https://www.designboom.com/architecture/polycarbonate-panels-light-minimalist-atelier-industrial-argentina-01-31-2024",
+    "https://www.vice.com/en/article/zack-de-la-rocha-reveals-the-punk-band-he-believes-is-a-bridge-to-get-into-rage-against-the-machine",
+    "https://www.eventmarketer.com/article/liquid-iv-talks-formula-1-miami-grand-prix",
+    "https://www.creativeboom.com/insight/why-gta-6-is-the-years-biggest-campaign-for-a-brand-that-refuses-to-sell-ad-space",
+    "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
+    "https://www.eventmarketer.com/article/ems-2026-day-two",
+    "https://campaignbriefasia.com/2026/11/25/closeup-and-the-friday-vietnam-turn-everyday-disagreements-into-exaggerated-distances",
+    "https://campaignbriefasia.com/2026/11/23/bankwest-explores-the-risks-you-could-take-now-your-actual-card-details-are-protected-in-new-campaign-via-bear-meets-eagle-on-fire",
+    "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_campaign=rss&at_medium=RSS",
+    "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
+    "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_campaign=rss&at_medium=RSS",
+    "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
     "https://www.designboom.com/design/recycled-plastic-bags-handmade-paper-public-art-pavilions-t10a-hanoi-vietnam-oddo-architects",
     "https://www.eventmarketer.com/article/exhibit-activations-licensing-expo-2024",
     "https://www.antaranews.com/berita/5876223/pssi-sahkan-komite-pemilihan-dan-komite-banding-pemilihan-ffi",
@@ -101,15 +116,52 @@
   ],
   "stories": [
     {
-      "id": "source-92ff3144d027ef89",
+      "id": "source-3bd2d1199c8a65f6",
+      "category": "FEATURE · CREATIVE",
+      "story_type": "feature",
+      "title": "london museum opens new home in smithfield’s historic general market",
+      "lede": "designed by stanton williams with asif khan studio and julian harrap architects, the project brings a former center of trade back into public life, using adaptive reuse to connect london’s architectural heritage with its evolving urban identity. The post london museum opens new home in smithfield’s historic general market appeared first on designboom | architecture & design magazine .",
+      "source_name": "Designboom",
+      "source_url": "https://www.designboom.com/architecture/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap/",
+      "published_at": "24 Nov 2026 · 17:00 WIB",
+      "published_iso": "2026-11-24T10:00:25+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap-designboom-700-500x400-22b08q85r203.jpg",
+          "caption": "Publisher-supplied feed image; see the source for its original context.",
+          "credit": "Designboom",
+          "credit_url": "https://www.designboom.com/architecture/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap-designboom-02.jpg",
+          "caption": "view into the General Market at London Museum from the main entrance hall on West Poultry Avenue | all images by Hufton + Crow",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/architecture/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap-designboom-01.jpg",
+          "caption": "Our Time in the Linbury Hall is a social hub at the heart of London Museum",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/architecture/london-museum-new-home-smithfield-historic-general-market-stanton-williams-asif-khan-julian-harrap/",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-ba761771a7b971ea",
       "category": "ARCHIVE FEATURE · CREATIVE",
       "story_type": "archive_feature",
-      "title": "recycled plastic bags and handmade paper form public art pavilion T10A in vietnam",
-      "lede": "developed as a temporary exhibition space for vietnamese architecture projects, the design team draws inspiration from hanoi’s craft heritage.",
+      "title": "green marble clads gallery showroom’s immersive interiors in shenzhen",
+      "lede": "the project reframes stone as an active element shaping spatial rhythm and sequence.",
       "source_name": "Designboom",
-      "source_url": "https://www.designboom.com/design/recycled-plastic-bags-handmade-paper-public-art-pavilions-t10a-hanoi-vietnam-oddo-architects/",
-      "published_at": "31 Jan 2026 · 05:45 WIB",
-      "published_iso": "2026-01-30T22:45:49+00:00",
+      "source_url": "https://www.designboom.com/architecture/green-marble-gallery-showroom-immersive-interiors-shenzhen-dreamer-stone-house-peng-partners/",
+      "published_at": "31 Jan 2026 · 15:45 WIB",
+      "published_iso": "2026-01-31T08:45:55+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
@@ -123,134 +175,82 @@
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://www.designboom.com/design/recycled-plastic-bags-handmade-paper-public-art-pavilions-t10a-hanoi-vietnam-oddo-architects/"
+              "url": "https://www.designboom.com/architecture/green-marble-gallery-showroom-immersive-interiors-shenzhen-dreamer-stone-house-peng-partners/"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://www.designboom.com/twitterimages/uploads/2025/12/recycled-plastic-bags-handmade-paper-public-art-pavilion-vietnam-ODDO-architects-T10a-designboom-fb.jpg",
+          "url": "https://www.designboom.com/twitterimages/uploads/2026/01/dreamer-stone-house-peng-partners-designboom-1200.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/design/recycled-plastic-bags-handmade-paper-public-art-pavilions-t10a-hanoi-vietnam-oddo-architects/",
+          "credit_url": "https://www.designboom.com/architecture/green-marble-gallery-showroom-immersive-interiors-shenzhen-dreamer-stone-house-peng-partners/",
           "kind": "feed"
         },
         {
-          "url": "https://www.designboom.com/wp-content/uploads/2025/12/recycled-plastic-bags-handmade-paper-public-art-pavilion-vietnam-ODDO-architects-T10a-designboom-fb.jpg",
+          "url": "https://www.designboom.com/wp-content/uploads/2026/01/dreamer-stone-house-peng-partners-designboom-1200.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/design/recycled-plastic-bags-handmade-paper-public-art-pavilions-t10a-hanoi-vietnam-oddo-architects/",
+          "credit_url": "https://www.designboom.com/architecture/green-marble-gallery-showroom-immersive-interiors-shenzhen-dreamer-stone-house-peng-partners/",
           "kind": "feed"
         },
         {
-          "url": "https://www.designboom.com/wp-content/uploads/2025/12/recycled-plastic-bags-handmade-paper-public-art-pavilion-vietnam-ODDO-architects-T10a-designboom-01.jpg",
-          "caption": "all images courtesy of ODDO architects | photos by Trieu Chien",
+          "url": "https://www.designboom.com/wp-content/dbsub/453783/2026-01-28/dreamer-stone-house-by-peng-partners-2-6979f0102e75f.jpg",
+          "caption": "all images by Jack Qin, Zuxi Huang, Si Yu",
           "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/design/recycled-plastic-bags-handmade-paper-public-art-pavilions-t10a-hanoi-vietnam-oddo-architects/",
+          "credit_url": "https://www.designboom.com/architecture/green-marble-gallery-showroom-immersive-interiors-shenzhen-dreamer-stone-house-peng-partners/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-698c353299cb032e",
-      "category": "ARCHIVE FEATURE · CREATIVE",
-      "story_type": "archive_feature",
-      "title": "Five Playful Exhibit Activations from Licensing Expo 2024",
-      "lede": "Play is serious business at the Licensing Expo that brought together more than 12,000 retailers and 5,000 brands to Mandalay Bay Convention Center in Las Vegas on May 21-23. So, it only makes sense that immersive, interactive and just plain delightful play was key to many of the exhibits at the show, setting the stage […]",
-      "source_name": "Event Marketer",
-      "source_url": "https://www.eventmarketer.com/article/exhibit-activations-licensing-expo-2024/",
-      "published_at": "01 Jun 2024 · 02:16 WIB",
-      "published_iso": "2024-05-31T19:16:10+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 01 Jun 2024",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://www.eventmarketer.com/article/exhibit-activations-licensing-expo-2024/"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/licensing-expo-2024-breeze-sandbox.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/exhibit-activations-licensing-expo-2024/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/licensing-expo-2024-moonbug-photo.jpg",
-          "caption": "Moonbug Entertainment",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/exhibit-activations-licensing-expo-2024/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/licensing-expo-2024-superman-360-photo-op.jpg",
-          "caption": "Warner Bros.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/exhibit-activations-licensing-expo-2024/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-b6048448ac13b2db",
+      "id": "source-6ec230e9e1a93014",
       "category": "HOT NEWS · INDONESIA",
       "story_type": "hot_news",
-      "title": "PSSI sahkan Komite Pemilihan dan Komite Banding Pemilihan FFI",
-      "lede": "Persatuan Sepak Bola Seluruh Indonesia (PSSI) resmi mengesahkan susunan Komite Pemilihan (KP) dan Komite Banding ...",
+      "title": "Transjakarta ajak 120 veteran berkeliling gedung ikonik di Jakarta",
+      "lede": "PT Transportasi Jakarta (Transjakarta) mengajak 120 anggota Legiun Veteran Republik Indonesia (LVRI) menyusuri kembali ...",
       "source_name": "ANTARA News",
-      "source_url": "https://www.antaranews.com/berita/5876223/pssi-sahkan-komite-pemilihan-dan-komite-banding-pemilihan-ffi",
-      "published_at": "25 Nov 2026 · 01:29 WIB",
-      "published_iso": "2026-11-24T18:29:25+00:00",
+      "source_url": "https://www.antaranews.com/berita/5876591/transjakarta-ajak-120-veteran-berkeliling-gedung-ikonik-di-jakarta",
+      "published_at": "25 Nov 2026 · 10:07 WIB",
+      "published_iso": "2026-11-25T03:07:44+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://cdn.antaranews.com/cache/1200x800/2026/11/13/IMG_20261113_183922.jpg",
+          "url": "https://cdn.antaranews.com/cache/1200x800/2026/11/25/1000366807_1.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "ANTARA News (publisher source; original credit at source)",
-          "credit_url": "https://www.antaranews.com/berita/5876223/pssi-sahkan-komite-pemilihan-dan-komite-banding-pemilihan-ffi",
+          "credit_url": "https://www.antaranews.com/berita/5876591/transjakarta-ajak-120-veteran-berkeliling-gedung-ikonik-di-jakarta",
           "kind": "feed"
         },
         {
-          "url": "https://cdn.antaranews.com/cache/270x180/2026/11/25/IMG-20261124-WA0015.jpg.webp",
+          "url": "https://cdn.antaranews.com/cache/270x180/2025/08/10/WhatsApp-Image-2025-08-10-at-10.20.05_1.jpeg.webp",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "ANTARA News (publisher source; original credit at source)",
-          "credit_url": "https://www.antaranews.com/berita/5876223/pssi-sahkan-komite-pemilihan-dan-komite-banding-pemilihan-ffi",
+          "credit_url": "https://www.antaranews.com/berita/5876591/transjakarta-ajak-120-veteran-berkeliling-gedung-ikonik-di-jakarta",
           "kind": "feed"
         },
         {
-          "url": "https://cdn.antaranews.com/cache/270x180/2026/11/25/IMG-20261124-WA0015.jpg",
-          "caption": "Michael ungkap hingga saat ini belum dapat panggilan dari PSSI",
+          "url": "https://cdn.antaranews.com/cache/270x180/2025/08/10/WhatsApp-Image-2025-08-10-at-10.20.05_1.jpeg",
+          "caption": "500 veteran kemerdekaan diajak keliling kota gunakan Transjakarta",
           "credit": "ANTARA News (publisher source; original credit at source)",
-          "credit_url": "https://www.antaranews.com/berita/5876223/pssi-sahkan-komite-pemilihan-dan-komite-banding-pemilihan-ffi",
+          "credit_url": "https://www.antaranews.com/berita/5876591/transjakarta-ajak-120-veteran-berkeliling-gedung-ikonik-di-jakarta",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-9ab9193c2b46da7a",
+      "id": "source-9aa57fd8ea3aed4b",
       "category": "ARCHIVE FEATURE · CREATIVE",
       "story_type": "archive_feature",
-      "title": "sofia crespo animates casa batlló facade with bio-inspired AI projection mapping artwork",
-      "lede": "the immersive audiovisual event, blending artificial intelligence with the organic inspirations that fueled gaudí’s creations, took place on january 27-28.",
+      "title": "polycarbonate panels reflect light within minimalist atelier industrial in argentina",
+      "lede": "thirteen columns and ten beams form a reflective system, transforming the pavilion into an interactive element that transmits and receives light.",
       "source_name": "Designboom",
-      "source_url": "https://www.designboom.com/art/sofia-crespo-casa-batllo-facade-bio-ai-projection-mapping-artwork-01-12-2024/",
-      "published_at": "31 Jan 2024 · 00:01 WIB",
-      "published_iso": "2024-01-30T17:01:26+00:00",
+      "source_url": "https://www.designboom.com/architecture/polycarbonate-panels-light-minimalist-atelier-industrial-argentina-01-31-2024/",
+      "published_at": "31 Jan 2024 · 18:30 WIB",
+      "published_iso": "2024-01-31T11:30:46+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
@@ -264,275 +264,45 @@
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://www.designboom.com/art/sofia-crespo-casa-batllo-facade-bio-ai-projection-mapping-artwork-01-12-2024/"
+              "url": "https://www.designboom.com/architecture/polycarbonate-panels-light-minimalist-atelier-industrial-argentina-01-31-2024/"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://www.designboom.com/twitterimages/uploads/2024/01/sofia-crespo-antoni-gaudis-casa-batllo-designboom-1200-1.jpg",
+          "url": "https://www.designboom.com/twitterimages/uploads/2024/01/atelier-industrial-argentina-designboom-1200-1.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/art/sofia-crespo-casa-batllo-facade-bio-ai-projection-mapping-artwork-01-12-2024/",
+          "credit_url": "https://www.designboom.com/architecture/polycarbonate-panels-light-minimalist-atelier-industrial-argentina-01-31-2024/",
           "kind": "feed"
         },
         {
-          "url": "https://www.designboom.com/wp-content/uploads/2024/01/sofia-crespo-antoni-gaudis-casa-batllo-designboom-1200-1.jpg",
+          "url": "https://www.designboom.com/wp-content/uploads/2024/01/atelier-industrial-argentina-designboom-1200-1.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/art/sofia-crespo-casa-batllo-facade-bio-ai-projection-mapping-artwork-01-12-2024/",
+          "credit_url": "https://www.designboom.com/architecture/polycarbonate-panels-light-minimalist-atelier-industrial-argentina-01-31-2024/",
           "kind": "feed"
         },
         {
-          "url": "https://www.designboom.com/wp-content/uploads/2024/01/sofia-crespo-antoni-gaudis-casa-batllo-designboom-30.jpg",
-          "caption": "Sofia Crespo’s projection mapping artwork covers Casa Batlló | all images courtesy of Claudia Maurino",
+          "url": "https://www.designboom.com/wp-content/dbsub/456735/2024-01-30/atelier-industrial-11-65b90fb0d8424.jpg",
+          "caption": "all images by Luis Abba",
           "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/art/sofia-crespo-casa-batllo-facade-bio-ai-projection-mapping-artwork-01-12-2024/",
+          "credit_url": "https://www.designboom.com/architecture/polycarbonate-panels-light-minimalist-atelier-industrial-argentina-01-31-2024/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-19a17f64f0f330db",
-      "category": "FEATURE · CULTURE & DISCOVERY",
-      "story_type": "feature",
-      "title": "Lizzo’s Longtime Bandmate Undergoes Emergency Brain Surgery After Aneurysm",
-      "lede": "For years, DJ Sophia Eris rallied Lizzo‘s audiences in the Twin Cities music scene as her DJ and hype woman. Specifically, in the artist’s early years in the Minneapolis music scene. Now this same music community is converting her upcoming album release show into a benefit event following news of the DJ suffering a brain […] The post Lizzo’s Longtime Bandmate Undergoes Emergency Brain Surgery After Aneurysm appeared first on VICE .",
-      "source_name": "VICE",
-      "source_url": "https://www.vice.com/en/article/lizzos-longtime-bandmate-undergoes-emergency-brain-surgery-after-aneurysm/",
-      "published_at": "25 Nov 2026 · 01:57 WIB",
-      "published_iso": "2026-11-24T18:57:00+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Web_Photo_Editor-2026-11-24T123621.728.jpg?w=1200",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/lizzos-longtime-bandmate-undergoes-emergency-brain-surgery-after-aneurysm/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Web_Photo_Editor-2026-11-24T115653.860.jpg",
-          "caption": "Photo by Kevin Mazur/Getty Images for CMA",
-          "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/lizzos-longtime-bandmate-undergoes-emergency-brain-surgery-after-aneurysm/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/2-Chainz-Survives-Terrifying-Tesla-Cybertruck-Crash-Shares-Footage-of-Wreckage.jpg",
-          "caption": "(Photo by Matt Winkelmeyer/Getty Images)",
-          "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/lizzos-longtime-bandmate-undergoes-emergency-brain-surgery-after-aneurysm/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-9c384b83c506e82a",
-      "category": "ARCHIVE FEATURE · CREATIVE",
-      "story_type": "archive_feature",
-      "title": "Wuben Craft Beer Grounds Its Identity in Ancient Chinese Philosophy",
-      "lede": "Wuben Craft Beer’s identity takes the craft beer category’s illustration playbook and replaces it with a Confucian brand philosophy, a stacked ingredient photography and color swatch system, and a heavy grotesque wordmark that treats every can like a page from the most considered design annual of the year.",
-      "source_name": "The Dieline",
-      "source_url": "https://thedieline.com/wuben-craft-beer-chinese-philosophy-can-design/",
-      "published_at": "28 May 2026 · 18:20 WIB",
-      "published_iso": "2026-05-28T11:20:51+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 28 May 2026",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://thedieline.com/wuben-craft-beer-chinese-philosophy-can-design/"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/05/37e6c9244912343.69a1a0a5e31a9.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Dieline (publisher source; original credit at source)",
-          "credit_url": "https://thedieline.com/wuben-craft-beer-chinese-philosophy-can-design/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/05/37e6c9244912343.69a1a0a5e31a9.jpg?w=1920&quality=70&ssl=1",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Dieline (publisher source; original credit at source)",
-          "credit_url": "https://thedieline.com/wuben-craft-beer-chinese-philosophy-can-design/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://thedieline.com/wp-content/uploads/2026/05/37e6c9244912343.69a1a0a5e31a9.jpg",
-          "caption": "Featured image from the original publisher; see original article for context and credits.",
-          "credit": "The Dieline (publisher source; see original credit)",
-          "credit_url": "https://thedieline.com/wuben-craft-beer-chinese-philosophy-can-design/37e6c9244912343-69a1a0a5e31a9/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-c77da8b1f7dea770",
-      "category": "ARCHIVE FEATURE · CREATIVE",
-      "story_type": "archive_feature",
-      "title": "Expedia Pops up a Larger-than-life Parasol Art Installation for New Orleans Jazz Fest",
-      "lede": "Since 1996, the New Orleans Jazz & Heritage Festival has highlighted the art, music, food and culture of a chosen country in the Cultural Exchange Pavilion.",
-      "source_name": "Event Marketer",
-      "source_url": "https://www.eventmarketer.com/article/expedia-parasol-art-installation-new-orleans-jazz-fest/",
-      "published_at": "24 May 2024 · 00:38 WIB",
-      "published_iso": "2024-05-23T17:38:12+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 24 May 2024",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://www.eventmarketer.com/article/expedia-parasol-art-installation-new-orleans-jazz-fest/"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/expedia-new-orleans-jazz-fest-2024-basqo-bim.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/expedia-parasol-art-installation-new-orleans-jazz-fest/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/expedia-new-orleans-jazz-fest-2024-mardi-gras-indians-expedia-globaljam-kamp-48-kyle-hannon-kampgrizzly.jpg",
-          "caption": "Expedia hosted the Jazz Fest afterparty, Global Jam, featuring an artist lineup curated by Anderson .Paak and an appearance by Mardi Gras Indians.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/expedia-parasol-art-installation-new-orleans-jazz-fest/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/expedia-new-orleans-jazz-fest-2024-marquee-expedia-globaljam-kamp-0-kyle-hannon-kampgrizzly.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/expedia-parasol-art-installation-new-orleans-jazz-fest/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-1805f8dc6de13f87",
-      "category": "HOT NEWS · WORLD",
-      "story_type": "hot_news",
-      "title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
-      "lede": "Monthly tide records were set across the city, with some expected to hit even higher tomorrow Explainer: What to know about flooding in California over Thanksgiving California is grappling with the stress test of record-high or close to record-high November tides up and down the coast this week, with flooding of low-lying roadways in San Francisco and an evacuation of one community in northern California. Local residents and media outlets shared…",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-      "published_at": "25 Nov 2026 · 06:20 WIB",
-      "published_iso": "2026-11-24T23:20:24+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "SOCIAL LINKS",
-          "title": "Posts and videos linked by the publisher",
-          "body": "These links were supplied by the publisher. They are discovery leads, not independently verified claims.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "x.com · open original post",
-              "url": "https://x.com/NWSBayArea/status/2125301356970020950"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/80d6a5ade95e2a8670b872bdca5972b45f0d2f71/335_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f2a32654c39ebf5c50d67e60c05b40f",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-          "kind": "feed"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/80d6a5ade95e2a8670b872bdca5972b45f0d2f71/335_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=487e7aebf5bf4704da658e441cb05a85",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-          "kind": "feed"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/80d6a5ade95e2a8670b872bdca5972b45f0d2f71/0_0_4000_2666/master/4000.jpg?width=620&dpr=2&s=none&crop=none",
-          "caption": "San Francisco is bracing for potentially historic coastal flooding this week. Photograph: Bloomberg/Getty Images San Francisco is bracing for potentially historic coastal flooding this week. Photograph: Bloomberg/Getty Images",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-a6daa2def14c60b2",
-      "category": "FEATURE · CREATIVE",
-      "story_type": "feature",
-      "title": "HOFF transforms its madrid flagship with a festive explosion of color by studio wanda",
-      "lede": "inside its flexible 600 m² flagship on madrid’s velázquez street, hoff merges footwear retail, specialty coffee, and art with a sculpted holiday installation by studio wanda. The post HOFF transforms its madrid flagship with a festive explosion of color by studio wanda appeared first on designboom | architecture & design magazine .",
-      "source_name": "Designboom",
-      "source_url": "https://www.designboom.com/design/hoff-madrid-flagship/",
-      "published_at": "24 Nov 2026 · 18:00 WIB",
-      "published_iso": "2026-11-24T11:00:40+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/hoff-flagship-designboom-700-4-500x400-22b08q85r498.jpg",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "Designboom",
-          "credit_url": "https://www.designboom.com/design/hoff-madrid-flagship/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/10/hoff-flagship-designboom-01-.jpg",
-          "caption": "HOFF flagship store on Madrid’s Velázquez street | image © Javier Bravo",
-          "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/design/hoff-madrid-flagship/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/hoff-flagship-designboom-02-.jpg",
-          "caption": "the space serves as a dynamic meeting point for art, product, and experience | image © Javier Bravo",
-          "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/design/hoff-madrid-flagship/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-091b47c2c588a81a",
+      "id": "source-9b38f64d19fc447c",
       "category": "ARCHIVE FEATURE · CULTURE & DISCOVERY",
       "story_type": "archive_feature",
-      "title": "A Rare Deep-Sea Creature With a Transparent Head Was Just Caught on Camera",
-      "lede": "As we wish everyone a happy Halloween today, we’re here to tell you that nature’s birthday suits often prove the most horrifying of all. On October 22, researchers from the Monterey Bay Aquarium Research Institute filmed a spooky barreleye fish, whose otherworldly likeness is sending shivers through the internet community. MBARI shared a stunning video […]",
+      "title": "Zack de la Rocha Reveals the Punk Band He Believes Is a ‘Bridge’ To Get Into Rage Against The Machine",
+      "lede": "Rage Against The Machine frontman Zack de la Rocha shared how Turnstile can get fans into old punk music like Bad Brains.",
       "source_name": "VICE",
-      "source_url": "https://www.vice.com/en/article/a-rare-deep-sea-creature-with-a-transparent-head-was-just-caught-on-camera/",
-      "published_at": "01 Nov 2026 · 00:45 WIB",
-      "published_iso": "2026-10-31T17:45:39+00:00",
+      "source_url": "https://www.vice.com/en/article/zack-de-la-rocha-reveals-the-punk-band-he-believes-is-a-bridge-to-get-into-rage-against-the-machine/",
+      "published_at": "01 Nov 2026 · 00:40 WIB",
+      "published_iso": "2026-10-31T17:40:23+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
@@ -546,521 +316,417 @@
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://www.vice.com/en/article/a-rare-deep-sea-creature-with-a-transparent-head-was-just-caught-on-camera/"
+              "url": "https://www.vice.com/en/article/zack-de-la-rocha-reveals-the-punk-band-he-believes-is-a-bridge-to-get-into-rage-against-the-machine/"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/barreleyefish-e1793468620733.png?w=1200",
+          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Zach-De-La-Rocha-Reveals-The-Punk-Band-He-Believes-Will-Act-as-a-Bridge-to-Get-Into-Rage-Against-The-Machine.jpg?w=1200",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/a-rare-deep-sea-creature-with-a-transparent-head-was-just-caught-on-camera/",
+          "credit_url": "https://www.vice.com/en/article/zack-de-la-rocha-reveals-the-punk-band-he-believes-is-a-bridge-to-get-into-rage-against-the-machine/",
           "kind": "feed"
         },
         {
-          "url": "https://img.youtube.com/vi/nyldZ7BB_cE/maxresdefault.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Captain-Tennille-KOLW-album-cover-e1795547134115.jpg",
+          "caption": "Photo by American Broadcasting Companies via Getty Images",
           "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/a-rare-deep-sea-creature-with-a-transparent-head-was-just-caught-on-camera/",
+          "credit_url": "https://www.vice.com/en/article/zack-de-la-rocha-reveals-the-punk-band-he-believes-is-a-bridge-to-get-into-rage-against-the-machine/",
           "kind": "feed"
         },
         {
-          "url": "https://img.youtube.com/vi/nyldZ7BB_cE/hqdefault.jpg",
-          "caption": "Play",
+          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Sex-Pistols.jpg",
+          "caption": "Photo by Daniel Knighton/Getty Images",
           "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/a-rare-deep-sea-creature-with-a-transparent-head-was-just-caught-on-camera/",
+          "credit_url": "https://www.vice.com/en/article/zack-de-la-rocha-reveals-the-punk-band-he-believes-is-a-bridge-to-get-into-rage-against-the-machine/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-bf52e25db716ddf5",
-      "category": "FEATURE · ART & CULTURE",
-      "story_type": "feature",
-      "title": "Kate Jenkins Whips Up Delicious ‘Knitalian’ Dishes in an Immersive Exhibition",
-      "lede": "Have you ever considered the mouthwatering possibilities of yarn? Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Kate Jenkins Whips Up Delicious ‘Knitalian’ Dishes in an Immersive Exhibition appeared first on Colossal .",
-      "source_name": "Colossal",
-      "source_url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
-      "published_at": "25 Nov 2026 · 03:30 WIB",
-      "published_iso": "2026-11-24T20:30:00+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/jenkins-8.jpg",
-          "caption": "Kate Jenkins Whips Up Delicious ‘Knitalian’ Dishes in an Immersive Exhibition",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/jenkins-1.jpg",
-          "caption": "A selection of seven knitted ravioli with smiling faces, displayed on a blue plate on a gingham tablecloth.",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/jenkins-11.jpg",
-          "caption": "A series of 16 knitted sardines in tiny tins, laid out in a grid.",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-1aaaef1d1df5b897",
+      "id": "source-36d0a1b63aab9816",
       "category": "ARCHIVE FEATURE · CREATIVE",
       "story_type": "archive_feature",
-      "title": "Exhibit Case Study: Inside Dematic’s Use of Immersive Media at MODEX 2024",
-      "lede": "For MODEX 2024, the premier supply chain trade show that took place in Atlanta in March, Dematic, a company that designs, builds and supports intelligent automated solutions, looked to find a showstopping way to present the company’s innovative solutions that help supply chain companies solve their business challenges. On a show floor traditionally full of […]",
+      "title": "First-time Formula 1 Sponsor Liquid I.V. Talks Miami Grand Prix, Hydration Inspiration",
+      "lede": "Liquid I.V. ran with racing’s DRS concept and gave it a clever brand spin for its activation at the Formula 1 Crypto.com Miami Grand Prix. Enter: Dehydration Reduction System, which kept fans cool and hydrated as the Florida heat reached 85 degrees. The electrolyte drink mix brand set up Race House in the Miami International Autodrome, along with branded touchpoints and garage-themed sampling pop-ups around the Hard Rock Stadium complex.",
       "source_name": "Event Marketer",
-      "source_url": "https://www.eventmarketer.com/article/exhibit-case-study-inside-dematics-use-of-immersive-media-at-modex-2024/",
-      "published_at": "17 May 2024 · 04:03 WIB",
-      "published_iso": "2024-05-16T21:03:01+00:00",
+      "source_url": "https://www.eventmarketer.com/article/liquid-iv-talks-formula-1-miami-grand-prix/",
+      "published_at": "10 May 2024 · 00:59 WIB",
+      "published_iso": "2024-05-09T17:59:05+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
         {
           "side": "left",
           "type": "FROM THE ARCHIVE",
-          "title": "Originally published 17 May 2024",
+          "title": "Originally published 10 May 2024",
           "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
           "color": "purple",
           "bullets": [],
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://www.eventmarketer.com/article/exhibit-case-study-inside-dematics-use-of-immersive-media-at-modex-2024/"
+              "url": "https://www.eventmarketer.com/article/liquid-iv-talks-formula-1-miami-grand-prix/"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/dematic-corner-exhibit-modex-2024.jpg",
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/liquid-iv-formula-1-miami-grand-prix-1-web.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/exhibit-case-study-inside-dematics-use-of-immersive-media-at-modex-2024/",
+          "credit_url": "https://www.eventmarketer.com/article/liquid-iv-talks-formula-1-miami-grand-prix/",
           "kind": "feed"
         },
         {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/dematic-exhibit-interior-modex-2024-1536x1056.jpg",
-          "caption": "Attendees could then do a deeper dive into the brand’s software on touchscreens situated around the bar.",
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/liquid-iv-formula-1-miami-grand-prix-2-web.jpg",
+          "caption": "Liquid I.V. sponsored the grand prix’s selfie cam and had brand signage posted around the campus.",
           "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/exhibit-case-study-inside-dematics-use-of-immersive-media-at-modex-2024/",
+          "credit_url": "https://www.eventmarketer.com/article/liquid-iv-talks-formula-1-miami-grand-prix/",
           "kind": "feed"
         },
         {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/11/seagate-content-studio-eventmarketer-copy.jpg",
-          "caption": "Seagate content studio_eventmarketer copy",
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/05/liquid-iv-formula-1-miami-grand-prix-5-web.jpg",
+          "caption": "Liquid I.V. created a relaxed club experience in Race House with branded lounge areas, seating, snacks and mocktails.",
           "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/exhibit-case-study-inside-dematics-use-of-immersive-media-at-modex-2024/",
+          "credit_url": "https://www.eventmarketer.com/article/liquid-iv-talks-formula-1-miami-grand-prix/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-f995911f74709176",
-      "category": "HOT NEWS · WORLD",
-      "story_type": "hot_news",
-      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
-      "lede": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-      "published_at": "24 Nov 2026 · 23:49 WIB",
-      "published_iso": "2026-11-24T16:49:07+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
-          "caption": "Nicolas Sarkozy, with brushed-back grey hair and a stubble holds with hand of his wife, Carla Bruni, who has long chestnut hair and is smiling. She is wearing a dark blue set of jacket and trousers and a dark top; Sarkozy has grey trousers, and a blue blazer on top of a white shi",
-          "credit": "BBC News (publisher source; original credit at source)",
-          "credit_url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-          "kind": "feed"
-        },
-        {
-          "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg.webp",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "BBC News (publisher source; original credit at source)",
-          "credit_url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-          "kind": "feed"
-        },
-        {
-          "url": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
-          "caption": "Nicolas Sarkozy, with brushed-back grey hair and a stubble holds with hand of his wife, Carla Bruni, who has long chestnut hair and is smiling. She is wearing a dark blue set of jacket and trousers and a dark top; Sarkozy has grey trousers, and a blue blazer on top of a white shi",
-          "credit": "BBC News (publisher source; original credit at source)",
-          "credit_url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-422c63cf33d8e770",
-      "category": "ARCHIVE FEATURE · CREATIVE",
-      "story_type": "archive_feature",
-      "title": "The Cookie Brand Turning Packaging into a Wild West Souvenir",
-      "lede": "Designed by Preacher, the pink-and-black scheme is playful without feeling too kitschy, and the oversized slab serif typography hits that sweet spot between honky-tonk and high design.",
-      "source_name": "The Dieline",
-      "source_url": "https://thedieline.com/the-cookie-brand-turning-packaging-into-a-wild-west-souvenir/",
-      "published_at": "29 May 2025 · 19:36 WIB",
-      "published_iso": "2025-05-29T12:36:23+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 29 May 2025",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://thedieline.com/the-cookie-brand-turning-packaging-into-a-wild-west-souvenir/"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2025/05/SPECULAARS-7-0ad26358f067db08e036bb45c8d6b7bf-scaled-1.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Dieline (publisher source; original credit at source)",
-          "credit_url": "https://thedieline.com/the-cookie-brand-turning-packaging-into-a-wild-west-souvenir/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2025/05/SPECULAARS-7-0ad26358f067db08e036bb45c8d6b7bf-scaled-1.jpg?resize=1024%2C576&quality=70&ssl=1",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Dieline (publisher source; original credit at source)",
-          "credit_url": "https://thedieline.com/the-cookie-brand-turning-packaging-into-a-wild-west-souvenir/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://thedieline.com/wp-content/uploads/2025/05/SPECULAARS-7-0ad26358f067db08e036bb45c8d6b7bf-scaled-1.jpg",
-          "caption": "Featured image from the original publisher; see original article for context and credits.",
-          "credit": "The Dieline (publisher source; see original credit)",
-          "credit_url": "https://thedieline.com/the-cookie-brand-turning-packaging-into-a-wild-west-souvenir/speculaars-7-0ad26358f067db08e036bb45c8d6b7bf-scaled/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-580fc766b33d5707",
-      "category": "FEATURE · CULTURE & DISCOVERY",
-      "story_type": "feature",
-      "title": "Limp Bizkit Reveals Years of Music Were Lost in Wildfires as Band Records New Album",
-      "lede": "Good news for those who are loving the current nu-metal revival: Limp Bizkit has up to 30 new songs recorded for their next album. Drummer John Otto shared the news during a November 2026 interview with the Stan Bicknell Chats With… podcast on YouTube. “We did about a month [of recording] at a place called […] The post Limp Bizkit Reveals Years of Music Were Lost in Wildfires as Band Records New Album appeared first on VICE .",
-      "source_name": "VICE",
-      "source_url": "https://www.vice.com/en/article/limp-bizkit-reveals-years-of-music-were-lost-in-wildfires-as-band-records-new-album/",
-      "published_at": "25 Nov 2026 · 00:27 WIB",
-      "published_iso": "2026-11-24T17:27:58+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "SOCIAL LINKS",
-          "title": "Posts and videos linked by the publisher",
-          "body": "These links were supplied by the publisher. They are discovery leads, not independently verified claims.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "youtu.be · open original post",
-              "url": "https://youtu.be/ous5zRp1K18"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Limp-Bizkit.jpg?w=1200",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/limp-bizkit-reveals-years-of-music-were-lost-in-wildfires-as-band-records-new-album/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Web_Photo_Editor-2026-11-24T115653.860.jpg",
-          "caption": "Photo by Kevin Mazur/Getty Images for CMA",
-          "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/limp-bizkit-reveals-years-of-music-were-lost-in-wildfires-as-band-records-new-album/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/2-Chainz-Survives-Terrifying-Tesla-Cybertruck-Crash-Shares-Footage-of-Wreckage.jpg",
-          "caption": "(Photo by Matt Winkelmeyer/Getty Images)",
-          "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/limp-bizkit-reveals-years-of-music-were-lost-in-wildfires-as-band-records-new-album/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-286301c50cc3b4e1",
-      "category": "FEATURE · MUSIC & POP CULTURE",
-      "story_type": "feature",
-      "title": "Ninajirachi Drops I Love My Computer Remix Album",
-      "lede": "Wet Leg, Mallrat, Genesis Owusu, and more lend their hands to I Love My Computer, All My Friends Are Inside It",
-      "source_name": "Pitchfork",
-      "source_url": "https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/",
-      "published_at": "25 Nov 2026 · 06:06 WIB",
-      "published_iso": "2026-11-24T23:06:25+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://media.pitchfork.com/photos/6b05db940ac6d3e6209ab0bd/16:9/w_1280,c_limit/Ninajirachi%20by%20Tom%20Vanderzeil%20%5BLead%5D%20(1).jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Pitchfork (publisher source; original credit at source)",
-          "credit_url": "https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://media.pitchfork.com/photos/6b05db940ac6d3e6209ab0bd/16:9/w_1280,c_limit/Ninajirachi%20by%20Tom%20Vanderzeil%20%5BLead%5D%20(1).jpg?mbid=social_retweet",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Pitchfork (publisher source; original credit at source)",
-          "credit_url": "https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://media.pitchfork.com/photos/6b05db940ac6d3e6209ab0bd/master/pass/Ninajirachi%20by%20Tom%20Vanderzeil%20%5BLead%5D%20(1).jpg",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "Pitchfork",
-          "credit_url": "https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-cc8fe402992413bf",
+      "id": "source-bfa10b79b24bcb2c",
       "category": "FEATURE · CREATIVE",
       "story_type": "feature",
-      "title": "Chipotle hoodie smuggles burritos past the cinema snack police",
-      "lede": "American fast food chain Chipotle has launched a hoodie with a hidden, insulated pocket built for one highly specific purpose. The post Chipotle hoodie smuggles burritos past the cinema snack police appeared first on Dezeen .",
-      "source_name": "Dezeen",
-      "source_url": "https://www.dezeen.com/2026/11/18/chipotles-sneak-it-in-hoodie/",
-      "published_at": "18 Nov 2026 · 17:00 WIB",
-      "published_iso": "2026-11-18T10:00:00+00:00",
+      "title": "Why GTA 6 is the year’s biggest campaign for a brand that refuses to sell ad space",
+      "lede": "Rockstar won’t take a penny for product placement, yet half the world’s brands are currently trying to look like Vice City. On the eve of launch, here’s why I think GTA 6 matters to any creative profe...",
+      "source_name": "Creative Boom",
+      "source_url": "https://www.creativeboom.com/insight/why-gta-6-is-the-years-biggest-campaign-for-a-brand-that-refuses-to-sell-ad-space/",
+      "published_at": "18 Nov 2026 · 16:00 WIB",
+      "published_iso": "2026-11-18T09:00:00+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://static-2026.dezeen.com/uploads/2026/11/sq-chipotle-sneak-it-in-hoodie_dezeen_2364_col_0-1024x1024.jpg",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "Dezeen",
-          "credit_url": "https://www.dezeen.com/2026/11/18/chipotles-sneak-it-in-hoodie/",
+          "url": "https://media.creativeboom.com/0a6dcd85-5b54-475a-b87b-467af9d96e9f/conversions/b31e24eacfdd595e6e1fc85c4b6aa9725c552cec-medium.webp",
+          "caption": "Two characters in a neon-lit Vice City scene at dusk: a woman in a grey crop top and denim shorts and a man in a graphic t-shirt pulling a bandana over his face, with a gas station and palm trees behind them",
+          "credit": "Creative Boom (publisher source; original credit at source)",
+          "credit_url": "https://www.creativeboom.com/insight/why-gta-6-is-the-years-biggest-campaign-for-a-brand-that-refuses-to-sell-ad-space/",
           "kind": "feed"
         },
         {
-          "url": "https://static-2026.dezeen.com/uploads/2026/11/chipotle-sneak-it-in-hoodie_dezeen_2364_col_2-1536x864.jpg",
-          "caption": "Chipotle Sneak It IN burrito hoodie",
-          "credit": "Dezeen (publisher source; original credit at source)",
-          "credit_url": "https://www.dezeen.com/2026/11/18/chipotles-sneak-it-in-hoodie/",
+          "url": "https://media.creativeboom.com/24801456-2b36-4b54-907d-2a5ea7c0d450/conversions/474416cf963e4288a9f22de6bbc33156367d5ea6-medium.webp",
+          "caption": "Two characters stand beside a red car against a pink and orange sunset backdrop with palm trees and a distant cityscape in Vice City",
+          "credit": "Creative Boom (publisher source; original credit at source)",
+          "credit_url": "https://www.creativeboom.com/insight/why-gta-6-is-the-years-biggest-campaign-for-a-brand-that-refuses-to-sell-ad-space/",
           "kind": "feed"
         },
         {
-          "url": "https://static-2026.dezeen.com/uploads/2026/11/chipotle-sneak-it-in-hoodie_dezeen_2364_col_1-1536x864.jpg",
-          "caption": "Insulated pocked in a brown hoodie",
-          "credit": "Dezeen (publisher source; original credit at source)",
-          "credit_url": "https://www.dezeen.com/2026/11/18/chipotles-sneak-it-in-hoodie/",
+          "url": "https://media.creativeboom.com/c7593b6e-b8bf-4a00-b52a-b39bf9d2a499/conversions/fa6c02b9986e5ddba2a04c94915e1b0d3c178c51-medium.webp",
+          "caption": "Illustration of a man and woman sitting together on a bed in a motel room bathed in pink and purple light from a window",
+          "credit": "Creative Boom (publisher source; original credit at source)",
+          "credit_url": "https://www.creativeboom.com/insight/why-gta-6-is-the-years-biggest-campaign-for-a-brand-that-refuses-to-sell-ad-space/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-941bdb781452e9b3",
+      "id": "source-c368e58f77b63d6e",
       "category": "HOT NEWS · WORLD",
       "story_type": "hot_news",
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "lede": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "published_at": "24 Nov 2026 · 22:17 WIB",
-      "published_iso": "2026-11-24T15:17:28+00:00",
+      "title": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
+      "lede": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% as Australia’s cost-of-living crisis intensifies Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Jim Chalmers has declared “a very serious moment for our economy”, after inflation surged to 4.9% in the year to October, from 4.3%, amid fears Australia could tip into…",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
+      "published_at": "25 Nov 2026 · 10:55 WIB",
+      "published_iso": "2026-11-25T03:55:50+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
-          "caption": "A worker wearing protective clothing kneels on the ground behind remnants of unexploded ordnance in Syria (file photo)",
-          "credit": "BBC News (publisher source; original credit at source)",
-          "credit_url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+          "url": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15cbc8c96a7d05979a128735b50831b5",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
           "kind": "feed"
         },
         {
-          "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg.webp",
-          "caption": "Image caption, Syrians coming back after the war are falling victim to mines and other explosives",
-          "credit": "BBC News (publisher source; original credit at source)",
-          "credit_url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+          "url": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=f29f9dd801702663eeba4db306db2684",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
           "kind": "feed"
         },
         {
-          "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
-          "caption": "Image caption, Syrians coming back after the war are falling victim to mines and other explosives",
-          "credit": "BBC News (publisher source; original credit at source)",
-          "credit_url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+          "url": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=620&dpr=2&s=none&crop=none",
+          "caption": "Rising fuel costs are driving Australia’s inflation rate, meaning prices remain persistently high across the economy – including for groceries. Photograph: Lisa Maree Williams/Getty Images Rising fuel costs are driving Australia’s inflation rate, meaning prices remain persistentl",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-96455f85f368de14",
-      "category": "ARCHIVE FEATURE · ART & CULTURE",
+      "id": "source-134c971f8c75f779",
+      "category": "ARCHIVE FEATURE · CREATIVE",
       "story_type": "archive_feature",
-      "title": "Nosheen Iqbal Translates Islamic Ornament into Meticulous Wood-and-Thread Patterns",
-      "lede": "The Dallas-based artist draws on her background in product design and illustration.",
-      "source_name": "Colossal",
-      "source_url": "https://www.thisiscolossal.com/2026/08/nosheen-iqbal-inherited-forms-wooden-patterns-thread-reliefs/",
-      "published_at": "24 Aug 2026 · 20:59 WIB",
-      "published_iso": "2026-08-24T13:59:24+00:00",
+      "title": "EMS 2026: Everything You Missed on Day Two",
+      "lede": "Day two of the Experiential Marketing Summit offered up a jam-packed slate of hands-on experiences, curated off-sites and discussions focused on how fresh thinking, hyper- personalization, sustainability and measurement maintain relevance and impact in a digitally dominated world. Let’s dig in. More Coverage: • EMS 2026: Everything You Missed on Day One • Winners Unveiled: […]",
+      "source_name": "Event Marketer",
+      "source_url": "https://www.eventmarketer.com/article/ems-2026-day-two/",
+      "published_at": "21 May 2026 · 21:32 WIB",
+      "published_iso": "2026-05-21T14:32:58+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
         {
           "side": "left",
           "type": "FROM THE ARCHIVE",
-          "title": "Originally published 24 Aug 2026",
+          "title": "Originally published 21 May 2026",
           "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
           "color": "purple",
           "bullets": [],
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://www.thisiscolossal.com/2026/08/nosheen-iqbal-inherited-forms-wooden-patterns-thread-reliefs/"
+              "url": "https://www.eventmarketer.com/article/ems-2026-day-two/"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/iqbal-10.jpg",
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/05/ems-2026-day2-eventmarketer-canva.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2026/08/nosheen-iqbal-inherited-forms-wooden-patterns-thread-reliefs/",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/ems-2026-day-two/",
           "kind": "feed"
         },
         {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/iqbal-2-1536x1087.jpg",
-          "caption": "“Sarghoshiaan” (2025), wood, cotton fiber, and semi-precious beads, 57 x 40 x 1 inches",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2026/08/nosheen-iqbal-inherited-forms-wooden-patterns-thread-reliefs/",
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/05/ems-2026-day2-eventmarketer-canva2.jpg",
+          "caption": "ems 2026 day two canva keynote",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/ems-2026-day-two/",
           "kind": "feed"
         },
         {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/08/iqbal-6-1536x894.jpg",
-          "caption": "“Chaman” (2026), wood, cotton fiber, and semi-precious beads, 54 x 29 x 1.5 inches (triptych)",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2026/08/nosheen-iqbal-inherited-forms-wooden-patterns-thread-reliefs/",
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/05/ems-2026-day2-eventmarketer-8.jpg",
+          "caption": "ems 2026 day two TED",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/ems-2026-day-two/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-06981408fc158ae7",
-      "category": "FEATURE · GAMING & TECH",
+      "id": "source-041a49a71fe3e1bf",
+      "category": "FEATURE · CREATIVE",
       "story_type": "feature",
-      "title": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983",
-      "lede": "At the DevGAMM Lisbon conference this week, veteran game designer Howard Scott Warshaw gave a talk called \"From Atari to AI\". Warshaw was behind a number of famous titles for the Atari 2600, including the classic Yars' Revenge, but infamously he also designed the game E.T. the Extra-Terrestial, the poor quality of which has been cited as a factor in the US video game crash of 1983, when US games industry revenue plummeted from over $3 billion in…",
-      "source_name": "GamesIndustry.biz",
-      "source_url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
-      "published_at": "20 Nov 2026 · 18:13 WIB",
-      "published_iso": "2026-11-20T11:13:00+00:00",
+      "title": "Closeup and The Friday Vietnam turn everyday disagreements into exaggerated distances",
+      "lede": "Created by The Friday, the campaign uses exaggerated humour to show how fresh-breath confidence can help bridge the ever...",
+      "source_name": "Campaign Brief Asia",
+      "source_url": "https://campaignbriefasia.com/2026/11/25/closeup-and-the-friday-vietnam-turn-everyday-disagreements-into-exaggerated-distances/",
+      "published_at": "25 Nov 2026 · 07:58 WIB",
+      "published_iso": "2026-11-25T00:58:13+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://assetsio.gnwcdn.com/IMG_8185.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/Closeup-Fresh-1-1024x576.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "GamesIndustry.biz (publisher source; original credit at source)",
-          "credit_url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
+          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
+          "credit_url": "https://campaignbriefasia.com/2026/11/25/closeup-and-the-friday-vietnam-turn-everyday-disagreements-into-exaggerated-distances/",
           "kind": "feed"
         },
         {
-          "url": "https://assetsio.gnwcdn.com/IMG_8185.jpeg?width=690&quality=85&format=jpg&auto=webp",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "GamesIndustry.biz",
-          "credit_url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
+          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/Closeup-Fresh-2-1024x576.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
+          "credit_url": "https://campaignbriefasia.com/2026/11/25/closeup-and-the-friday-vietnam-turn-everyday-disagreements-into-exaggerated-distances/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-8876fb8e0366fa6e",
-      "category": "FEATURE · GAMING & TECH",
+      "id": "source-cf86111df3c25833",
+      "category": "FEATURE · CREATIVE",
       "story_type": "feature",
-      "title": "How the EU's Digital Fairness Act will impact game design, and why it hits European indies particularly hard",
-      "lede": "The European Commission's publication of its draft Digital Fairness Act (DFA) last week prompted uproar within the games industry, with many notable voices candidly expressing their concerns. Opinions in the wider industry were more measured, possibly because some of the practices targeted by the DFA – such as loot boxes or pay-to-win – are wildly successful economically, but not uniformly popular amongst players. Read more",
-      "source_name": "GamesIndustry.biz",
-      "source_url": "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard",
-      "published_at": "20 Nov 2026 · 19:27 WIB",
-      "published_iso": "2026-11-20T12:27:00+00:00",
+      "title": "Bankwest explores the risks you could take now your actual card details are protected in new campaign via Bear Meets Eagle On Fire",
+      "lede": "Continuing to build on its ‘Just Enough Bank’ platform launched in March of last year, Bankwest and Australi...",
+      "source_name": "Campaign Brief Asia",
+      "source_url": "https://campaignbriefasia.com/2026/11/23/bankwest-explores-the-risks-you-could-take-now-your-actual-card-details-are-protected-in-new-campaign-via-bear-meets-eagle-on-fire/",
+      "published_at": "23 Nov 2026 · 06:33 WIB",
+      "published_iso": "2026-11-22T23:33:53+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://assetsio.gnwcdn.com/pexels-marco-288924445-13153479.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/Bankwest-VC-Risk-Alice_1.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "GamesIndustry.biz (publisher source; original credit at source)",
-          "credit_url": "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard",
+          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
+          "credit_url": "https://campaignbriefasia.com/2026/11/23/bankwest-explores-the-risks-you-could-take-now-your-actual-card-details-are-protected-in-new-campaign-via-bear-meets-eagle-on-fire/",
           "kind": "feed"
         },
         {
-          "url": "https://assetsio.gnwcdn.com/pexels-marco-288924445-13153479.jpg?width=690&quality=85&format=jpg&auto=webp",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "GamesIndustry.biz",
-          "credit_url": "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard",
+          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/Bankwest-VC-Risk-Dave_2.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
+          "credit_url": "https://campaignbriefasia.com/2026/11/23/bankwest-explores-the-risks-you-could-take-now-your-actual-card-details-are-protected-in-new-campaign-via-bear-meets-eagle-on-fire/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-7f746b50f59f8f35",
+      "id": "source-61552cfe41f8321a",
       "category": "HOT NEWS · WORLD",
       "story_type": "hot_news",
-      "title": "Days out from the Victorian election, nine datacentre projects await approval. What will their fate be?",
-      "lede": "While parties have come out with policies on where datacentres can be built, not all are clear on whether they apply retrospectively Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Days out from the Victorian state election, the fate of nine datacentre projects remains uncertain, with some companies confident they will be able to get their projects across the line after…",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
-      "published_at": "24 Nov 2026 · 21:00 WIB",
-      "published_iso": "2026-11-24T14:00:48+00:00",
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "lede": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "published_at": "25 Nov 2026 · 07:58 WIB",
+      "published_iso": "2026-11-25T00:58:34+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/ebf80a137710c357384cc02438532169c1f2986a/498_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e8b3c9e589d6edb93a16b7ea989da55",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
+          "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8cda/live/86305ac0-e811-11f1-ab42-55d8d8278025.jpg",
+          "caption": "A man in a green shirt holds a giant Spanish flag over his shoulder",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
           "kind": "feed"
         },
         {
-          "url": "https://i.guim.co.uk/img/media/ebf80a137710c357384cc02438532169c1f2986a/498_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=4a977bede12ef08b4797a2c004c344a8",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
+          "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a1b2/live/adac8a10-e811-11f1-ab42-55d8d8278025.jpg.webp",
+          "caption": "Image caption, Pedro Sánchez has won praise from the left for standing up to Donald Trump and promoting progressive causes",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
           "kind": "feed"
         },
         {
-          "url": "https://i.guim.co.uk/img/media/ebf80a137710c357384cc02438532169c1f2986a/0_0_5472_3648/master/5472.jpg?width=620&dpr=2&s=none&crop=none",
-          "caption": "The NextDC data centre in West Footscray, Melbourne which has faced delays due to community blowback. Photograph: Ellen Smith/The Guardian The NextDC data centre in West Footscray, Melbourne which has faced delays due to community blowback. Photograph: Ellen Smith/The Guardian",
+          "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/a1b2/live/adac8a10-e811-11f1-ab42-55d8d8278025.jpg",
+          "caption": "Image caption, Pedro Sánchez has won praise from the left for standing up to Donald Trump and promoting progressive causes",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-52183692e4ba2709",
+      "category": "FEATURE · CREATIVE",
+      "story_type": "feature",
+      "title": "Taxidermy, cat shows, and beauty pageants: Alice Poyzer takes us into her world and what it means to be neurodivergent",
+      "lede": "The artist combines self-portraits and post-documentary to photograph her special interests in an alternative depiction of autism.",
+      "source_name": "It's Nice That",
+      "source_url": "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
+      "published_at": "19 Nov 2026 · 16:00 WIB",
+      "published_iso": "2026-11-19T09:00:00+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://m.itsnicethat.com/original_images/Alice-Poyzer-Photography-ItsNiceThat-7.jpg?class=w1440",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "It's Nice That (publisher source; original credit at source)",
+          "credit_url": "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
+          "kind": "feed"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Alice-Poyzer-Photography-ItsNiceThat-1.jpg?class=w1440",
+          "caption": "Alice-Poyzer-Photography-ItsNiceThat-1.jpg",
+          "credit": "It's Nice That (publisher source; original credit at source)",
+          "credit_url": "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
+          "kind": "feed"
+        },
+        {
+          "url": "https://m.itsnicethat.com/original_images/Alice-Poyzer-Photography-ItsNiceThat-3.jpg?class=w1080",
+          "caption": "Alice-Poyzer-Photography-ItsNiceThat-3.jpg",
+          "credit": "It's Nice That (publisher source; original credit at source)",
+          "credit_url": "https://www.itsnicethat.com/articles/alice-poyzer-other-joys-photography-discover-191126",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-1a52d039f027f843",
+      "category": "HOT NEWS · WORLD",
+      "story_type": "hot_news",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "lede": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "published_at": "25 Nov 2026 · 06:05 WIB",
+      "published_iso": "2026-11-24T23:05:11+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
+          "caption": "A composite image shows AI-generated images of Taiwan's President Lai Ching-te and his predecessor Tsai Ing-wen. Tsai has been imposed into a popular dance video while Lai is shown wearing a McDonalds uniform. Both are imposed over the BBC Verify colours and branding.",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        },
+        {
+          "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg.webp",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        },
+        {
+          "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
+          "caption": "A composite image shows AI-generated images of Taiwan's President Lai Ching-te and his predecessor Tsai Ing-wen. Tsai has been imposed into a popular dance video while Lai is shown wearing a McDonalds uniform. Both are imposed over the BBC Verify colours and branding.",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-509b355ea77de535",
+      "category": "HOT NEWS · WORLD",
+      "story_type": "hot_news",
+      "title": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
+      "lede": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of…",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "published_at": "25 Nov 2026 · 11:59 WIB",
+      "published_iso": "2026-11-25T04:59:58+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=faaaa20b1c1752dea2e3f0a496619101",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
+          "credit_url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&s=5f2af2c56ea6f648142d70d685b77276",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=620&dpr=2&s=none&crop=none",
+          "caption": "Australian prime minister Anthony Albanese speaks during question time. Photograph: Lukas Coch/AAP Australian prime minister Anthony Albanese speaks during question time. Photograph: Lukas Coch/AAP",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
           "kind": "feed"
         }
       ]
