@@ -1,10 +1,26 @@
 {
-  "date": "2026-11-27",
-  "updated_at": "2026-11-27T11:50:30+07:00",
+  "date": "2026-11-28",
+  "updated_at": "2026-11-28T11:36:13+07:00",
   "demo": false,
   "feed_based": true,
   "intro": "Hot news covers recent developments; creative and discovery features include older original publisher reports. Archive features retain their original publication dates. Read the linked articles for full reporting. Selection uses free source and keyword rules, not AI fact-checking.",
   "seen_urls": [
+    "https://www.designboom.com/design/sabine-marcelis-light-color-exhibition-museum-gestaltung-zurich",
+    "https://www.linkedin.com/events/adata-drivenapproachtoimproving7162892535797911552/theater",
+    "https://www.antaranews.com/berita/5883995/syahganda-ulta-levenia-telah-diberhentikan-tak-lagi-bagian-bakom",
+    "https://www.thisiscolossal.com/2025/05/marshmallow-laser-feast-of-the-oak",
+    "https://www.vice.com/en/article/expert-how-many-times-whip-a-horse-one-minute-dressage-charlotte-dujardin",
+    "https://thedieline.com/sprite-nba-can-design",
+    "https://thedieline.com/banff-whisky-bottles-the-spirit-of-the-mountains",
+    "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+    "https://www.eventmarketer.com/article/super-bowl-58-paramount-mountain",
+    "https://www.designboom.com/design/artscience-museum-singapore-more-than-human-exhibition",
+    "https://www.eventmarketer.com/article/olympic-michelob-ultra-sponsorship-usa-hockey",
+    "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+    "https://thedieline.com/squarely-rethinking-energy-bars-with-bunker-bang",
+    "https://www.creativeboom.com/news/why-victorious-festival-stopped-selling-its-headliners-and-started-selling-portsmouth",
+    "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+    "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_campaign=rss&at_medium=RSS",
     "https://www.eventmarketer.com/article/coke-spiced-shop-novel-trial-genai",
     "https://thedieline.com/fisk-brings-the-pizza-tabloid-to-life",
     "https://www.antaranews.com/berita/5880931/rspad-resmi-serahkan-hasil-tes-kesehatan-cawapres-ke-mpr",
@@ -157,855 +173,692 @@
   ],
   "stories": [
     {
-      "id": "source-42892f3f27029cea",
+      "id": "source-cbc106096005582e",
       "category": "ARCHIVE FEATURE · CREATIVE",
       "story_type": "archive_feature",
-      "title": "Coke Says its AI-Centric Spiced Shop Marked a ‘Completely Novel Way to Drive Trial’",
-      "lede": "Artificial intelligence has come for your taste buds. Rather than bubbling up a traditional sampling campaign for its new Spiced flavor, Coca-Cola celebrated the product’s North American debut by leaning on AI. From March 1-2 at New York City’s ELM, Coke activated a vibrant “Spiced Shop” experience and art installation that fused genAI and artistic […]",
+      "title": "sabine marcelis turns light and color into immersive spaces at zurich’s museum für gestaltung",
+      "lede": "from mathmos lava columns and a glowing walk-through tunnel to a collaboration with boris acket, the exhibition explores how light, color, and materials transform objects into immersive spaces.",
+      "source_name": "Designboom",
+      "source_url": "https://www.designboom.com/design/sabine-marcelis-light-color-exhibition-museum-gestaltung-zurich/",
+      "published_at": "31 Oct 2026 · 00:44 WIB",
+      "published_iso": "2026-10-30T17:44:11+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [
+        {
+          "side": "left",
+          "type": "FROM THE ARCHIVE",
+          "title": "Originally published 31 Oct 2026",
+          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
+          "color": "purple",
+          "bullets": [],
+          "sources": [
+            {
+              "label": "Read original publication",
+              "url": "https://www.designboom.com/design/sabine-marcelis-light-color-exhibition-museum-gestaltung-zurich/"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.designboom.com/twitterimages/uploads/2026/10/Sabine-Marcelis-Pressebilder_DSC3183.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/design/sabine-marcelis-light-color-exhibition-museum-gestaltung-zurich/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/10/Sabine-Marcelis-Pressebilder_DSC3183.jpg",
+          "caption": "Exhibition Sabine Marcelis—Light and Color at Museum für Gestaltung Zürich, Oktober 30, 2026 – April 4, 2027, Photo: Umberto Romito & Ivan Šuta, Museum für Gestaltung Zürich/ZHdK",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/design/sabine-marcelis-light-color-exhibition-museum-gestaltung-zurich/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/10/Mathmos_x_Sabine_Marcelis_2026_photography_Alun_Callender_016-copy-2.jpg",
+          "caption": "Mathmos and Sabine Marcelis share a fascination with light and color | image by Mathmos",
+          "credit": "Designboom (publisher source; original credit at source)",
+          "credit_url": "https://www.designboom.com/design/sabine-marcelis-light-color-exhibition-museum-gestaltung-zurich/",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-3a2586187c0a2d9d",
+      "category": "ARCHIVE FEATURE · CREATIVE",
+      "story_type": "archive_feature",
+      "title": "A Data-Driven Approach to Improving DEI in Events",
+      "lede": "In this interactive panel discussion cohosted by Event Marketer and the Experiential Marketing Measurement Coalition (learn more), industry leaders will discuss the power of data to inform and measure event diversity, equity and inclusion, and will offer insights on how to improve event experiences for all participants.",
       "source_name": "Event Marketer",
-      "source_url": "https://www.eventmarketer.com/article/coke-spiced-shop-novel-trial-genai/",
-      "published_at": "22 Mar 2024 · 17:00 WIB",
-      "published_iso": "2024-03-22T10:00:54+00:00",
+      "source_url": "https://www.linkedin.com/events/adata-drivenapproachtoimproving7162892535797911552/theater/",
+      "published_at": "22 Feb 2024 · 01:10 WIB",
+      "published_iso": "2024-02-21T18:10:47+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
         {
           "side": "left",
           "type": "FROM THE ARCHIVE",
-          "title": "Originally published 22 Mar 2024",
+          "title": "Originally published 22 Feb 2024",
           "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
           "color": "purple",
           "bullets": [],
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://www.eventmarketer.com/article/coke-spiced-shop-novel-trial-genai/"
+              "url": "https://www.linkedin.com/events/adata-drivenapproachtoimproving7162892535797911552/theater/"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/03/cocacolaspiced-event-03022024-dsc06996.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/coke-spiced-shop-novel-trial-genai/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/03/coke-spiced-shop-2024-transition-of-build-1536x677.jpg",
-          "caption": "A look at the Coca-Cola Spiced Shop’s exterior transition.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/coke-spiced-shop-novel-trial-genai/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/02/cokespiced-experience-2024-fruit-installation.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/coke-spiced-shop-novel-trial-genai/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-0106b6b42567b771",
-      "category": "ARCHIVE FEATURE · CREATIVE",
-      "story_type": "archive_feature",
-      "title": "Fisk Brings the Pizza Tabloid To Life",
-      "lede": "Fisk’s collaboration with Nobell Foods reimagines brand storytelling through a collectible pizza zine that blends editorial design, experimental typography, and vibrant color systems. Inspired by tabloid culture, DIY publishing, and global pizza iconography, the project transforms food branding into a dynamic cultural platform. Discover how bold layouts, playful illustrations, and high-impact visuals create a fresh approach to packaging and…",
-      "source_name": "The Dieline",
-      "source_url": "https://thedieline.com/fisk-brings-the-pizza-tabloid-to-life/",
-      "published_at": "25 Mar 2026 · 19:43 WIB",
-      "published_iso": "2026-03-25T12:43:08+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 25 Mar 2026",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://thedieline.com/fisk-brings-the-pizza-tabloid-to-life/"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-1.54.21-PM.png",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Dieline (publisher source; original credit at source)",
-          "credit_url": "https://thedieline.com/fisk-brings-the-pizza-tabloid-to-life/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-1.54.21-PM.png?w=1656&quality=65&ssl=1",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Dieline (publisher source; original credit at source)",
-          "credit_url": "https://thedieline.com/fisk-brings-the-pizza-tabloid-to-life/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://thedieline.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-1.54.21-PM.png",
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/02/streamyard-1280-x-720-px.png",
           "caption": "Featured image from the original publisher; see original article for context and credits.",
-          "credit": "The Dieline (publisher source; see original credit)",
-          "credit_url": "https://thedieline.com/fisk-brings-the-pizza-tabloid-to-life/screenshot-2026-03-24-at-1-54-21-pm/",
+          "credit": "Event Marketer (publisher source; see original credit)",
+          "credit_url": "https://www.linkedin.com/events/adata-drivenapproachtoimproving7162892535797911552/theater/streamyard-1280-x-720-px-2/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-e7fc095ad9241b74",
+      "id": "source-08a1dda2315b879d",
       "category": "HOT NEWS · INDONESIA",
       "story_type": "hot_news",
-      "title": "RSPAD resmi serahkan hasil tes kesehatan cawapres ke MPR",
-      "lede": "Tim dokter Rumah Sakit Pusat TNI Angkatan Darat (RSPAD) Gatot Soebroto resmi menyerahkan hasil tes kesehatan calon ...",
+      "title": "Syahganda: Ulta Levenia telah diberhentikan, tak lagi bagian Bakom",
+      "lede": "Kepala Badan Komunikasi Pemerintah (Bakom) RI Syahganda Nainggolan menyatakan Ulta Levenia telah resmi diberhentikan ...",
       "source_name": "ANTARA News",
-      "source_url": "https://www.antaranews.com/berita/5880931/rspad-resmi-serahkan-hasil-tes-kesehatan-cawapres-ke-mpr",
-      "published_at": "26 Nov 2026 · 19:19 WIB",
-      "published_iso": "2026-11-26T12:19:19+00:00",
+      "source_url": "https://www.antaranews.com/berita/5883995/syahganda-ulta-levenia-telah-diberhentikan-tak-lagi-bagian-bakom",
+      "published_at": "27 Nov 2026 · 23:46 WIB",
+      "published_iso": "2026-11-27T16:46:37+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://cdn.antaranews.com/cache/1200x800/2026/11/26/IMG_9341z0W6wE.jpg",
+          "url": "https://cdn.antaranews.com/cache/1200x800/2026/11/27/1000045325.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "ANTARA News (publisher source; original credit at source)",
-          "credit_url": "https://www.antaranews.com/berita/5880931/rspad-resmi-serahkan-hasil-tes-kesehatan-cawapres-ke-mpr",
+          "credit_url": "https://www.antaranews.com/berita/5883995/syahganda-ulta-levenia-telah-diberhentikan-tak-lagi-bagian-bakom",
           "kind": "feed"
         },
         {
-          "url": "https://cdn.antaranews.com/cache/270x180/2026/11/SANS_TIM-VERIFIKASI-MPR-TERIMA-HASIL-TES-KESEHATAN-CAWAPRES.jpg.webp",
+          "url": "https://cdn.antaranews.com/cache/270x180/2026/11/27/1000045325.jpg.webp",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "ANTARA News (publisher source; original credit at source)",
-          "credit_url": "https://www.antaranews.com/berita/5880931/rspad-resmi-serahkan-hasil-tes-kesehatan-cawapres-ke-mpr",
+          "credit_url": "https://www.antaranews.com/berita/5883995/syahganda-ulta-levenia-telah-diberhentikan-tak-lagi-bagian-bakom",
           "kind": "feed"
         },
         {
-          "url": "https://cdn.antaranews.com/cache/270x180/2026/11/SANS_TIM-VERIFIKASI-MPR-TERIMA-HASIL-TES-KESEHATAN-CAWAPRES.jpg",
-          "caption": "Tim Verifikasi MPR terima hasil tes kesehatan cawapres",
+          "url": "https://cdn.antaranews.com/cache/270x180/2026/11/KEPALA-BAKOM-SEBUT-AK-TERINDIKASI-AKTOR-DUGAAN-MAKAR.jpg.webp",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "ANTARA News (publisher source; original credit at source)",
-          "credit_url": "https://www.antaranews.com/berita/5880931/rspad-resmi-serahkan-hasil-tes-kesehatan-cawapres-ke-mpr",
+          "credit_url": "https://www.antaranews.com/berita/5883995/syahganda-ulta-levenia-telah-diberhentikan-tak-lagi-bagian-bakom",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-7a326a0eec2497a9",
-      "category": "ARCHIVE FEATURE · CREATIVE",
+      "id": "source-e80ab8c1052b60c3",
+      "category": "ARCHIVE FEATURE · ART & CULTURE",
       "story_type": "archive_feature",
-      "title": "Experiential Marketing Trend of the Week: Interactive Billboards",
-      "lede": "Not every live engagement needs to be an elaborate event. In the age of diminished attention spans, a quick, memorable brand interaction supported by the right strategy can go a long way. That’s where interactive billboards and OOH installations are coming into play. Done right, they’re approachable, efficient and primed for sharing. Instant Product […]",
-      "source_name": "Event Marketer",
-      "source_url": "https://www.eventmarketer.com/article/experiential-marketing-trend-of-the-week-interactive-billboards/",
-      "published_at": "23 Mar 2026 · 19:00 WIB",
-      "published_iso": "2026-03-23T12:00:17+00:00",
+      "title": "In ‘Of the Oak,’ a Magnificent Tree at Kew Gardens Gets an Immersive ‘Digital Double’",
+      "lede": "“We believe in the power of stories to tickle senses and shift perceptions,” says experiential artist collective Marshmallow Laser Feast.",
+      "source_name": "Colossal",
+      "source_url": "https://www.thisiscolossal.com/2025/05/marshmallow-laser-feast-of-the-oak/",
+      "published_at": "30 May 2025 · 21:30 WIB",
+      "published_iso": "2025-05-30T14:30:36+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
         {
           "side": "left",
           "type": "FROM THE ARCHIVE",
-          "title": "Originally published 23 Mar 2026",
+          "title": "Originally published 30 May 2025",
           "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
           "color": "purple",
           "bullets": [],
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://www.eventmarketer.com/article/experiential-marketing-trend-of-the-week-interactive-billboards/"
+              "url": "https://www.thisiscolossal.com/2025/05/marshmallow-laser-feast-of-the-oak/"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/03/totw-interactive-billboards.png",
+          "url": "https://www.thisiscolossal.com/wp-content/uploads/2025/05/of-the-oak-4.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/experiential-marketing-trend-of-the-week-interactive-billboards/",
+          "credit": "Colossal (publisher source; original credit at source)",
+          "credit_url": "https://www.thisiscolossal.com/2025/05/marshmallow-laser-feast-of-the-oak/",
           "kind": "feed"
         },
         {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/03/sweaty-betty-coat-installation-interactive-copy.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/experiential-marketing-trend-of-the-week-interactive-billboards/",
+          "url": "https://www.thisiscolossal.com/wp-content/uploads/2025/05/of-the-oak-1-1536x1024.jpg",
+          "caption": "Photo by Barney Steel",
+          "credit": "Colossal (publisher source; original credit at source)",
+          "credit_url": "https://www.thisiscolossal.com/2025/05/marshmallow-laser-feast-of-the-oak/",
           "kind": "feed"
         },
         {
-          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/08/sega-sonic-chaos-hunt-sdcc-2026-eventmarketer-4.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Event Marketer (publisher source; original credit at source)",
-          "credit_url": "https://www.eventmarketer.com/article/experiential-marketing-trend-of-the-week-interactive-billboards/",
+          "url": "https://www.thisiscolossal.com/wp-content/uploads/2025/05/of-the-oak-5-1536x1024.jpg",
+          "caption": "a large digital installation of a computer-animated oak tree, set in a botanical garden",
+          "credit": "Colossal (publisher source; original credit at source)",
+          "credit_url": "https://www.thisiscolossal.com/2025/05/marshmallow-laser-feast-of-the-oak/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-33a0655d4b084965",
-      "category": "FEATURE · CULTURE & DISCOVERY",
-      "story_type": "feature",
-      "title": "How Nirvana Turned a Dismissed Guitar Riff Into One of the Defining Rock Anthems of the 90s",
-      "lede": "The crazy thing about creating art is it can be seemingly spawned out of thin air. An idea can hit the brain like a miracle, if it there were hours in which nothing came to mind. Sometimes, you can just screw around and then something hits you. That’s what happened with Nirvana when they were […] The post How Nirvana Turned a Dismissed Guitar Riff Into One of the Defining Rock Anthems of the 90s appeared first on VICE .",
+      "id": "source-e2b234302750744c",
+      "category": "ARCHIVE FEATURE · CULTURE & DISCOVERY",
+      "story_type": "archive_feature",
+      "title": "We Asked an Expert How Many Times It’s OK to Whip a Horse in the Space of One Minute",
+      "lede": "Dressage villain Charlotte Dujardin recently found out 24 is too many. So what is acceptable? Fifteen? Eight? Three?",
       "source_name": "VICE",
-      "source_url": "https://www.vice.com/en/article/how-nirvana-turned-a-dismissed-guitar-riff-into-one-of-the-defining-rock-anthems-of-the-90s/",
-      "published_at": "27 Nov 2026 · 01:30 WIB",
-      "published_iso": "2026-11-26T18:30:00+00:00",
+      "source_url": "https://www.vice.com/en/article/expert-how-many-times-whip-a-horse-one-minute-dressage-charlotte-dujardin/",
+      "published_at": "29 Jul 2024 · 23:57 WIB",
+      "published_iso": "2024-07-29T16:57:34+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
         {
           "side": "left",
-          "type": "SOCIAL LINKS",
-          "title": "Posts and videos linked by the publisher",
-          "body": "These links were supplied by the publisher. They are discovery leads, not independently verified claims.",
+          "type": "FROM THE ARCHIVE",
+          "title": "Originally published 29 Jul 2024",
+          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
           "color": "purple",
           "bullets": [],
           "sources": [
             {
-              "label": "youtu.be · open original post",
-              "url": "https://youtu.be/dZCrdSC2-1I?si=raIeQ-foR6o-FqIN"
+              "label": "Read original publication",
+              "url": "https://www.vice.com/en/article/expert-how-many-times-whip-a-horse-one-minute-dressage-charlotte-dujardin/"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/How-Nirvana-Turned-a-Dismissed-Guitar-Riff-Into-One-of-the-Defining-Rock-Anthems-of-the-90s.jpg?w=1200",
+          "url": "https://www.vice.com/wp-content/uploads/sites/2/2024/07/1722270001150-shutterstock1964068390-scaled.jpeg?resize=2000,1334",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/how-nirvana-turned-a-dismissed-guitar-riff-into-one-of-the-defining-rock-anthems-of-the-90s/",
+          "credit_url": "https://www.vice.com/en/article/expert-how-many-times-whip-a-horse-one-minute-dressage-charlotte-dujardin/",
           "kind": "feed"
         },
         {
-          "url": "https://www.vice.com/en/article/how-nirvana-turned-a-dismissed-guitar-riff-into-one-of-the-defining-rock-anthems-of-the-90s/864",
-          "caption": "How to Unlock Hurricanes in GTA 6 (And Score a Pretty Sweet Car in the Process)",
+          "url": "https://www.vice.com/en/article/expert-how-many-times-whip-a-horse-one-minute-dressage-charlotte-dujardin/853",
+          "caption": "BDSMSexFurniture",
           "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/how-nirvana-turned-a-dismissed-guitar-riff-into-one-of-the-defining-rock-anthems-of-the-90s/",
+          "credit_url": "https://www.vice.com/en/article/expert-how-many-times-whip-a-horse-one-minute-dressage-charlotte-dujardin/",
           "kind": "feed"
         },
         {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Web_Photo_Editor-2026-11-26T101143.680.jpg",
-          "caption": "Photo credit: Matthew Chattle/Future Publishing via Getty Images",
+          "url": "https://www.vice.com/en/article/expert-how-many-times-whip-a-horse-one-minute-dressage-charlotte-dujardin/864",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/how-nirvana-turned-a-dismissed-guitar-riff-into-one-of-the-defining-rock-anthems-of-the-90s/",
+          "credit_url": "https://www.vice.com/en/article/expert-how-many-times-whip-a-horse-one-minute-dressage-charlotte-dujardin/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-b87b8afcbed0ff22",
-      "category": "FEATURE · CREATIVE",
-      "story_type": "feature",
-      "title": "charred wooden modules conceal six-sided mirror chamber inside interactive play installation",
-      "lede": "alchemy is a two-module free-play installation that guides children and adults through dark inflatable chambers, a six-sided mirror room, and a pink recycled foam space. The post charred wooden modules conceal six-sided mirror chamber inside interactive play installation appeared first on designboom | architecture & design magazine .",
-      "source_name": "Designboom",
-      "source_url": "https://www.designboom.com/art/charred-wooden-modules-six-sided-mirror-chamber-interactive-play-installation-alchemy-florian-lopez/",
-      "published_at": "27 Nov 2026 · 04:35 WIB",
-      "published_iso": "2026-11-26T21:35:15+00:00",
+      "id": "source-c1346f2461bc80a8",
+      "category": "ARCHIVE FEATURE · CREATIVE",
+      "story_type": "archive_feature",
+      "title": "Sprite’s NBA Collab Goes Hard in the Paint",
+      "lede": "Sprite x NBA reimagines beverage packaging as a cultural platform, merging team typography, signature color palettes, and bold graphic elements across 17 cities. This product led design system transforms every can into a high impact collectible that connects basketball, street culture, and retail in one unified brand world.",
+      "source_name": "The Dieline",
+      "source_url": "https://thedieline.com/sprite-nba-can-design/",
+      "published_at": "26 Feb 2026 · 20:23 WIB",
+      "published_iso": "2026-02-26T13:23:53+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [
+        {
+          "side": "left",
+          "type": "FROM THE ARCHIVE",
+          "title": "Originally published 26 Feb 2026",
+          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
+          "color": "purple",
+          "bullets": [],
+          "sources": [
+            {
+              "label": "Read original publication",
+              "url": "https://thedieline.com/sprite-nba-can-design/"
+            }
+          ]
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "source-284f5874b8891735",
+      "category": "ARCHIVE FEATURE · CREATIVE",
+      "story_type": "archive_feature",
+      "title": "Banff Whisky Bottles the Spirit of the Mountains",
+      "lede": "Banff Whisky by Park Distillery, designed by Glasfurd and Walker, reimagines Canadian rye through a sculptural fluted bottle, pine green and alpine orange color palette, and embossed typography inspired by Banff National Park. A modern decanter form and regionally rooted details set a new benchmark for contemporary whisky design.",
+      "source_name": "The Dieline",
+      "source_url": "https://thedieline.com/banff-whisky-bottles-the-spirit-of-the-mountains/",
+      "published_at": "24 Feb 2026 · 20:36 WIB",
+      "published_iso": "2026-02-24T13:36:06+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [
+        {
+          "side": "left",
+          "type": "FROM THE ARCHIVE",
+          "title": "Originally published 24 Feb 2026",
+          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
+          "color": "purple",
+          "bullets": [],
+          "sources": [
+            {
+              "label": "Read original publication",
+              "url": "https://thedieline.com/banff-whisky-bottles-the-spirit-of-the-mountains/"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/02/ParkWhisky-02-scaled.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Dieline (publisher source; original credit at source)",
+          "credit_url": "https://thedieline.com/banff-whisky-bottles-the-spirit-of-the-mountains/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/02/ParkWhisky-02-scaled.jpg?resize=1024%2C686&quality=70&ssl=1",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Dieline (publisher source; original credit at source)",
+          "credit_url": "https://thedieline.com/banff-whisky-bottles-the-spirit-of-the-mountains/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/02/ParkWhisky-07-scaled.jpg?resize=1771%2C2048&quality=70&ssl=1",
+          "caption": "A bottle of Banff whisky with a cork stopper, placed beside a glass featuring amber whisky and a metallic jigger, set against a soft gradient background.",
+          "credit": "The Dieline (publisher source; original credit at source)",
+          "credit_url": "https://thedieline.com/banff-whisky-bottles-the-spirit-of-the-mountains/",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-f0a62b2b913b8363",
+      "category": "HOT NEWS · WORLD",
+      "story_type": "hot_news",
+      "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+      "lede": "This blog is now closed Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the separatist Catalan “enemy within” threatened a return to the worst of Spain’s recent past. Continue reading...",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+      "published_at": "27 Nov 2026 · 23:19 WIB",
+      "published_iso": "2026-11-27T16:19:50+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://www.designboom.com/wp-content/uploads/2026/11/alchemy-interactive-free-play-installation-exhibition-space-florian-lopez-designboom-700-500x400-22b08q85r122.jpg",
+          "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=deb08daceec2205709afcbbf5fb44674",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&s=19004e716ce8343455e32c6bee538e5e",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=620&dpr=2&s=none&crop=none",
+          "caption": "Pedro Sanchez, leader of the Spanish Socialist Workers' Party and incumbent prime minister Photograph: Burak Akbulut/Anadolu/Getty Images Pedro Sanchez, leader of the Spanish Socialist Workers' Party and incumbent prime minister Photograph: Burak Akbulut/Anadolu/Getty Images",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-dc785106003b0d1e",
+      "category": "ARCHIVE FEATURE · CREATIVE",
+      "story_type": "archive_feature",
+      "title": "Super Bowl LVIII: How Paramount Took Over a Block of the Las Vegas Strip",
+      "lede": "With so many brands competing for fans’ attention on the ground during Super Bowl LVIII, Paramount stopped traffic with the biggest installation on the Las Vegas Strip. Paramount’s Expedition Vegas took over a block in front The Mirage with an expansive, content-driven activation open to the public, Feb. 8-11.",
+      "source_name": "Event Marketer",
+      "source_url": "https://www.eventmarketer.com/article/super-bowl-58-paramount-mountain/",
+      "published_at": "22 Feb 2024 · 06:39 WIB",
+      "published_iso": "2024-02-21T23:39:32+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [
+        {
+          "side": "left",
+          "type": "FROM THE ARCHIVE",
+          "title": "Originally published 22 Feb 2024",
+          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
+          "color": "purple",
+          "bullets": [],
+          "sources": [
+            {
+              "label": "Read original publication",
+              "url": "https://www.eventmarketer.com/article/super-bowl-58-paramount-mountain/"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/02/paramount-agenc-cs-2455-1.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/super-bowl-58-paramount-mountain/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/02/paramount-mountain-in-stallation-super-bowl-58-agenc-cs-1097.jpg",
+          "caption": "PARAMOUNT peak installation_super bowl 58_AGENC_CS_1097",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/super-bowl-58-paramount-mountain/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2024/02/paramount-agenc-cs-1152.jpg",
+          "caption": "PARAMOUNT cheerleaders_AGENC_CS_1152",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/super-bowl-58-paramount-mountain/",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-67f8d748c5e7b9ab",
+      "category": "FEATURE · CREATIVE",
+      "story_type": "feature",
+      "title": "singapore’s artscience museum shows design beyond the human realm",
+      "lede": "discover how design goes beyond humans to include animals and ecosystems as active collaborators in this expanded exhibition The post singapore’s artscience museum shows design beyond the human realm appeared first on designboom | architecture & design magazine .",
+      "source_name": "Designboom",
+      "source_url": "https://www.designboom.com/design/artscience-museum-singapore-more-than-human-exhibition/",
+      "published_at": "27 Nov 2026 · 18:00 WIB",
+      "published_iso": "2026-11-27T11:00:57+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/artscience-museum-singapore-more-than-human-exhibition-designboom700-500x400-22b08q85r712.jpg",
           "caption": "Publisher-supplied feed image; see the source for its original context.",
           "credit": "Designboom",
-          "credit_url": "https://www.designboom.com/art/charred-wooden-modules-six-sided-mirror-chamber-interactive-play-installation-alchemy-florian-lopez/",
+          "credit_url": "https://www.designboom.com/design/artscience-museum-singapore-more-than-human-exhibition/",
           "kind": "feed"
         },
         {
-          "url": "https://www.designboom.com/wp-content/dbsub/470766/2026-11-25/alchemy-immersive-free-play-installation-for-children-and-adults-3-6b076c775dc73.jpg",
-          "caption": "Alchemy is a free-play installation for children and adults | all images ©Dylan Perrenoud",
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Pollinator-Pathmaker_Image_hi-res_human-vision_8-3.jpeg",
+          "caption": "Pollinator Pathmaker: Perceptual Field 7SzzLn6GnY97DSo7hCSLMf by Alexandra Daisy Ginsberg, installation view at the Design Museum, London",
           "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/art/charred-wooden-modules-six-sided-mirror-chamber-interactive-play-installation-alchemy-florian-lopez/",
+          "credit_url": "https://www.designboom.com/design/artscience-museum-singapore-more-than-human-exhibition/",
           "kind": "feed"
         },
         {
-          "url": "https://www.designboom.com/wp-content/dbsub/470766/2026-11-25/alchemy-immersive-free-play-installation-for-children-and-adults-9-6b076c775de52.jpg",
-          "caption": "a six-sided mirrored room multiplies visitors’ reflections from every angle",
+          "url": "https://www.designboom.com/wp-content/uploads/2026/11/Design-Museum-More-Than-Human86-818x545.jpg",
+          "caption": "Pollinator Pathmaker: Perceptual Field 7SzzLn6GnY97DSo7hCSLMf by Alexandra Daisy Ginsberg, installation view at the Design Museum, London",
           "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/art/charred-wooden-modules-six-sided-mirror-chamber-interactive-play-installation-alchemy-florian-lopez/",
+          "credit_url": "https://www.designboom.com/design/artscience-museum-singapore-more-than-human-exhibition/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-547170075f9593ed",
+      "id": "source-f5dd06bdb9e71a3d",
       "category": "ARCHIVE FEATURE · CREATIVE",
       "story_type": "archive_feature",
-      "title": "Blurr Bureau Helps Pasta Brand Nuda Leans Into Quiet Luxury",
-      "lede": "Nuda by Blurr Bureau reimagines pasta with a refined, minimal design that leans into quiet luxury and modern simplicity. With elegant typography, muted tones, and a transparent window, it brings a fresh, elevated perspective to the functional food category.",
+      "title": "Olympics Q&A: Michelob Ultra, USA Hockey and Home-Turf Events Worthy of Gold",
+      "lede": "How the Team USA sponsor harnessed hockey fever across watch parties, exhibitions and a ‘Run Back the Miracle’ showcase For passionate sports fans, the past is as important as the present. That storytelling opportunity inspired an Olympic Winter Games experiential campaign here on home turf for sponsor Michelob Ultra that featured custom content, nostalgic venues […]",
+      "source_name": "Event Marketer",
+      "source_url": "https://www.eventmarketer.com/article/olympic-michelob-ultra-sponsorship-usa-hockey/",
+      "published_at": "27 Feb 2026 · 23:45 WIB",
+      "published_iso": "2026-02-27T16:45:26+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [
+        {
+          "side": "left",
+          "type": "FROM THE ARCHIVE",
+          "title": "Originally published 27 Feb 2026",
+          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
+          "color": "purple",
+          "bullets": [],
+          "sources": [
+            {
+              "label": "Read original publication",
+              "url": "https://www.eventmarketer.com/article/olympic-michelob-ultra-sponsorship-usa-hockey/"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/02/michelob-ultra-lake-placid-event-marketer-2026.jpg",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/olympic-michelob-ultra-sponsorship-usa-hockey/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/02/michelob-ultra-summit-x-kygo-event-marketer-2026.jpg",
+          "caption": "michelob ultra usa hockey sponsorship olympics 2026 kygo",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/olympic-michelob-ultra-sponsorship-usa-hockey/",
+          "kind": "feed"
+        },
+        {
+          "url": "https://www.eventmarketer.com/wp-content/uploads/2026/02/michelob-ultra-summit-x-tyler-cameron-curling-event-marketer-2026.jpg",
+          "caption": "Michelob ULTRA_Summit x Tyler Cameron_Curling_Event Marketer_2026 USA Hockey",
+          "credit": "Event Marketer (publisher source; original credit at source)",
+          "credit_url": "https://www.eventmarketer.com/article/olympic-michelob-ultra-sponsorship-usa-hockey/",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-17509216a0f52cbf",
+      "category": "HOT NEWS · WORLD",
+      "story_type": "hot_news",
+      "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+      "lede": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries. Elizabeth May, a Canadian Green party member, originally opened the petition for signatures in…",
+      "source_name": "The Guardian",
+      "source_url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+      "published_at": "28 Nov 2026 · 04:24 WIB",
+      "published_iso": "2026-11-27T21:24:10+00:00",
+      "feed_preview": true,
+      "sections": [],
+      "cards": [],
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b8456a333d471f6fd8fdee4d2da7278",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=fb8e65f9f460f568b7ef17dd2c32810f",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+          "kind": "feed"
+        },
+        {
+          "url": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=620&dpr=2&s=none&crop=none",
+          "caption": "Pete Hoekstra in Milwaukee, Wisconsin, in 2024. Photograph: Bloomberg/Getty Images Pete Hoekstra in Milwaukee, Wisconsin, in 2024. Photograph: Bloomberg/Getty Images",
+          "credit": "The Guardian (publisher source; original credit at source)",
+          "credit_url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+          "kind": "feed"
+        }
+      ]
+    },
+    {
+      "id": "source-5a9b208f07094812",
+      "category": "ARCHIVE FEATURE · CREATIVE",
+      "story_type": "archive_feature",
+      "title": "Squarely Rethinking Energy Bars With Bunker Bang",
+      "lede": "A fresh take on energy bar packaging by 1To3 Design Lab for Bunker transforms ingredient cross sections into clean geometric symbols, pairing modern typography with a soft natural palette to create a contemporary visual system that stands apart in the wellness snack space.",
       "source_name": "The Dieline",
-      "source_url": "https://thedieline.com/blurr-bureau-helps-pasta-brand-nuda-leans-into-quiet-luxury/",
-      "published_at": "26 Mar 2026 · 19:30 WIB",
-      "published_iso": "2026-03-26T12:30:57+00:00",
+      "source_url": "https://thedieline.com/squarely-rethinking-energy-bars-with-bunker-bang/",
+      "published_at": "27 Feb 2026 · 20:03 WIB",
+      "published_iso": "2026-02-27T13:03:18+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [
         {
           "side": "left",
           "type": "FROM THE ARCHIVE",
-          "title": "Originally published 26 Mar 2026",
+          "title": "Originally published 27 Feb 2026",
           "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
           "color": "purple",
           "bullets": [],
           "sources": [
             {
               "label": "Read original publication",
-              "url": "https://thedieline.com/blurr-bureau-helps-pasta-brand-nuda-leans-into-quiet-luxury/"
+              "url": "https://thedieline.com/squarely-rethinking-energy-bars-with-bunker-bang/"
             }
           ]
         }
       ],
       "images": [
         {
-          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/03/Nuda-test-Case-2-copy.png",
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/02/46f4a0241648303.6981c5c8ed466-scaled.jpg",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "The Dieline (publisher source; original credit at source)",
-          "credit_url": "https://thedieline.com/blurr-bureau-helps-pasta-brand-nuda-leans-into-quiet-luxury/",
+          "credit_url": "https://thedieline.com/squarely-rethinking-energy-bars-with-bunker-bang/",
           "kind": "feed"
         },
         {
-          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/03/Nuda-test-Case-2-copy.png?w=1212&quality=65&ssl=1",
+          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/02/46f4a0241648303.6981c5c8ed466-scaled.jpg?resize=1024%2C1024&quality=70&ssl=1",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "The Dieline (publisher source; original credit at source)",
-          "credit_url": "https://thedieline.com/blurr-bureau-helps-pasta-brand-nuda-leans-into-quiet-luxury/",
+          "credit_url": "https://thedieline.com/squarely-rethinking-energy-bars-with-bunker-bang/",
           "kind": "feed"
         },
         {
-          "url": "https://i0.wp.com/thedieline.com/wp-content/uploads/2026/03/varieties-4.png?w=1233&quality=65&ssl=1",
-          "caption": "Three boxes of gluten-free pasta from Nuda: Rigatoni, Fusilli, and Penne, displayed on a reflective surface.",
-          "credit": "The Dieline (publisher source; original credit at source)",
-          "credit_url": "https://thedieline.com/blurr-bureau-helps-pasta-brand-nuda-leans-into-quiet-luxury/",
+          "url": "https://thedieline.com/wp-content/uploads/2026/02/46f4a0241648303.6981c5c8ed466-scaled.jpg",
+          "caption": "Featured image from the original publisher; see original article for context and credits.",
+          "credit": "The Dieline (publisher source; see original credit)",
+          "credit_url": "https://thedieline.com/squarely-rethinking-energy-bars-with-bunker-bang/46f4a0241648303-6981c5c8ed466/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-070fa6bfc84f4bc9",
-      "category": "HOT NEWS · WORLD",
-      "story_type": "hot_news",
-      "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
-      "lede": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election The final results of New Zealand’s general election show the incumbent rightwing coalition will need the support of a centrist newcomer party to form a government, and to avoid sending the country back to the polls. Preliminary results on 7 November handed the National party and its two coalition…",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
-      "published_at": "27 Nov 2026 · 09:38 WIB",
-      "published_iso": "2026-11-27T02:38:15+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e59803feeecc1af1d51cb6e9eb9cd1e2",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
-          "kind": "feed"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=ad9458de62f2de62a87d4b6e32e099fb",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
-          "kind": "feed"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=620&dpr=2&s=none&crop=none",
-          "caption": "New Zealand prime minister Christopher Luxon’s right-wing coalition has lost its majority, plunging the country into political uncertainty, with an insurgent centrist party led by Qiulae Wong set to play kingmaker. Composite: Getty Images/Guardian Design New Zealand prime ministe",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-43b56fb1aeeaa475",
-      "category": "ARCHIVE FEATURE · CREATIVE",
-      "story_type": "archive_feature",
-      "title": "designboom’s guide to miami art & design week 2025: what not to miss in and out of the fairs",
-      "lede": "from art and design fairs, to public art activations and museum exhibitions, explore all the highlights taking place from december 2nd — 7th.",
-      "source_name": "Designboom",
-      "source_url": "https://www.designboom.com/art/guide-miami-art-design-week-basel-11-30-2025/",
-      "published_at": "30 Nov 2025 · 10:01 WIB",
-      "published_iso": "2025-11-30T03:01:36+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 30 Nov 2025",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://www.designboom.com/art/guide-miami-art-design-week-basel-11-30-2025/"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.designboom.com/twitterimages/uploads/2025/11/miami-art-week-2025-guide-designboom-FB.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/art/guide-miami-art-design-week-basel-11-30-2025/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2025/11/miami-art-week-2025-guide-designboom-FB.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/art/guide-miami-art-design-week-basel-11-30-2025/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.designboom.com/wp-content/uploads/2025/11/miami-art-week-2025-guide-designboom-022.jpg",
-          "caption": "image © Aurora Kreativ Space",
-          "credit": "Designboom (publisher source; original credit at source)",
-          "credit_url": "https://www.designboom.com/art/guide-miami-art-design-week-basel-11-30-2025/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-fd6d1de4ecca017b",
-      "category": "FEATURE · CULTURE & DISCOVERY",
-      "story_type": "feature",
-      "title": "How to Do the Advanced Tracker Removal Glitch in GTA 6",
-      "lede": "Players have discovered a new glitch in Grand Theft Auto VI that lets you steal rare cars without setting off their Advanced Trackers. The trick makes completing Randy’s Wishlist a lot easier, since you can drive to the drop-off without a police chase. Here’s how to do the Advanced Tracker Removal glitch in GTA 6. […] The post How to Do the Advanced Tracker Removal Glitch in GTA 6 appeared first on VICE .",
-      "source_name": "VICE",
-      "source_url": "https://www.vice.com/en/article/gta-6-advanced-tracker-removal-glitch/",
-      "published_at": "27 Nov 2026 · 02:05 WIB",
-      "published_iso": "2026-11-26T19:05:12+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/gta-6-advanced-taracker-removal-glitch-explained.jpg?w=150&h=150&crop=1",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "VICE",
-          "credit_url": "https://www.vice.com/en/article/gta-6-advanced-tracker-removal-glitch/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/gta-6-advanced-tracker-removal-glitch-step-1.jpg",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "VICE",
-          "credit_url": "https://www.vice.com/en/article/gta-6-advanced-tracker-removal-glitch/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/gta-6-advanced-tracker-removal-glitch-step-2.jpg",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "VICE",
-          "credit_url": "https://www.vice.com/en/article/gta-6-advanced-tracker-removal-glitch/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-ad6731f22d8c6522",
+      "id": "source-c34ee15f1cfc1873",
       "category": "FEATURE · CREATIVE",
       "story_type": "feature",
-      "title": "Hula Hoop by Foxtale makes overnight bodycare a bedtime ritual in ‘Sleep With Me’ launch film",
-      "lede": "Hula Hoop by Foxtale introduced Sleep With Me, a 12.5% AHA BHA Resurfacing Body Lotion designed to bring active-led faci...",
-      "source_name": "Campaign Brief Asia",
-      "source_url": "https://campaignbriefasia.com/2026/11/27/hula-hoop-by-foxtale-makes-overnight-bodycare-a-bedtime-ritual-in-sleep-with-me-launch-film/",
-      "published_at": "27 Nov 2026 · 10:41 WIB",
-      "published_iso": "2026-11-27T03:41:27+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/Hula-Hoop-by-Foxtale1-1024x728.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
-          "credit_url": "https://campaignbriefasia.com/2026/11/27/hula-hoop-by-foxtale-makes-overnight-bodycare-a-bedtime-ritual-in-sleep-with-me-launch-film/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://campaignbriefasia.com/wp-content/uploads/sites/2/2026/11/Hula-Hoop-by-Foxtale2-1024x752.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Campaign Brief Asia (publisher source; original credit at source)",
-          "credit_url": "https://campaignbriefasia.com/2026/11/27/hula-hoop-by-foxtale-makes-overnight-bodycare-a-bedtime-ritual-in-sleep-with-me-launch-film/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-b51621b1de850bac",
-      "category": "FEATURE · CREATIVE",
-      "story_type": "feature",
-      "title": "ManvsMachine bounce the silly off the serious in its premium motion design projects",
-      "lede": "Mike Sharpe, executive creative director of ManvsMachine, took to the Nicer Tuesdays stage in October for a Q&A with associate editor Liz Gorny where the two discussed the London-based multi-dimensional company, Mike’s ascension from runner to director, how the company tackles client briefs (such as BBC and CashApp) and the challenges of navigating technological advancements within motion design.Special thanks to EartH (Evolutionary Arts Hackney)",
-      "source_name": "It's Nice That",
-      "source_url": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-october-manvsmachine-261126",
-      "published_at": "24 Nov 2026 · 16:00 WIB",
-      "published_iso": "2026-11-24T09:00:00+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://www.itsnicethat.com/images/social.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "It's Nice That (publisher source; original credit at source)",
-          "credit_url": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-october-manvsmachine-261126",
-          "kind": "feed"
-        },
-        {
-          "url": "https://m.itsnicethat.com/original_images/005_DQVcKuf.png?class=w640",
-          "caption": "Silvana Trevale on capturing the wounds, beauty, hardships and hope of Venezuelan youth",
-          "credit": "It's Nice That (publisher source; original credit at source)",
-          "credit_url": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-october-manvsmachine-261126",
-          "kind": "feed"
-        },
-        {
-          "url": "https://m.itsnicethat.com/original_images/00_0KKPvnb.png?class=w640",
-          "caption": "A split screen shows a person with dark skin tone speaking at a podium on the left and a colourful illustration on the right. The illustration depicts a group of people in a city setting, including a couple embracing and a person playing a saxophone.",
-          "credit": "It's Nice That (publisher source; original credit at source)",
-          "credit_url": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-october-manvsmachine-261126",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-005248df97fec739",
-      "category": "HOT NEWS · WORLD",
-      "story_type": "hot_news",
-      "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
-      "lede": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countries Spain’s Pablo Hernández de Cos has been chosen as the next president of the European Central Bank, to succeed Christine Lagarde, after winning support from the EU’s biggest countries. The economist and monetary policymaker will become the first Spaniard to lead the ECB, defeating his rival candidate Klaas Knot, the former head of the…",
-      "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-      "published_at": "27 Nov 2026 · 00:50 WIB",
-      "published_iso": "2026-11-26T17:50:54+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/47d2f9781397baf313cb89ec9480624dbe557b02/1058_252_3184_2548/master/3184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9576b3fb1c7ff446582a521d6aa2f99a",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-          "kind": "feed"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/47d2f9781397baf313cb89ec9480624dbe557b02/1058_252_3184_2548/master/3184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=b804cc130925620a1b2d2e974d942c1f",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-          "kind": "feed"
-        },
-        {
-          "url": "https://i.guim.co.uk/img/media/47d2f9781397baf313cb89ec9480624dbe557b02/1058_252_3184_2548/master/3184.jpg?width=620&dpr=2&s=none&crop=none",
-          "caption": "Hernández de Cos will be the first Spanish president of the European Central Bank. Photograph: Rodrigo Jimenez/EPA Hernández de Cos will be the first Spanish president of the European Central Bank. Photograph: Rodrigo Jimenez/EPA",
-          "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-4f94d8786210c940",
-      "category": "FEATURE · CREATIVE",
-      "story_type": "feature",
-      "title": "Why Camille Walala is transforming a metro station with 30,000 hand-made tiles inspired by basketball",
-      "lede": "Alley-Oop, the French-born artist’s first permanent public artwork, pays tribute to a basketball legend and an architectural landmark. If you’ve spent any time in East London, you’ll probably have com...",
+      "title": "Why Victorious Festival stopped selling its headliners and started selling Portsmouth",
+      "lede": "Portsmouth’s August bank holiday festival had a bit of a problem. Too many people were buying a ticket for one act on one day, then disappearing. Wildish & Co.’s solution is an identity that puts...",
       "source_name": "Creative Boom",
-      "source_url": "https://www.creativeboom.com/news/camille-walala-is-covering-a-lyon-metro-station-in-30000-hand-made-tiles/",
-      "published_at": "25 Nov 2026 · 14:15 WIB",
-      "published_iso": "2026-11-25T07:15:00+00:00",
+      "source_url": "https://www.creativeboom.com/news/why-victorious-festival-stopped-selling-its-headliners-and-started-selling-portsmouth/",
+      "published_at": "26 Nov 2026 · 15:00 WIB",
+      "published_iso": "2026-11-26T08:00:00+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://media.creativeboom.com/4082cadd-814a-4dc7-bd41-f49251f6d363/conversions/50940be245583a3b6d785f849671810554573ced-medium.webp",
-          "caption": "Camille Walala's colourful tile design for Flachet metro station featuring geometric patterns, blue triangles, striped bands and purple, teal and pink grid sections",
+          "url": "https://media.creativeboom.com/309118fe-e12a-43a4-9b0c-4aba0f525e44/conversions/eecff136e900cc30abf71e00f0b22c9ae59b72b9-medium.webp",
+          "caption": "Bright cyan background with large purple text reading \"FREE FOR SEAGULLS\" and an illustration of a seagull wearing a straw hat below",
           "credit": "Creative Boom (publisher source; original credit at source)",
-          "credit_url": "https://www.creativeboom.com/news/camille-walala-is-covering-a-lyon-metro-station-in-30000-hand-made-tiles/",
+          "credit_url": "https://www.creativeboom.com/news/why-victorious-festival-stopped-selling-its-headliners-and-started-selling-portsmouth/",
           "kind": "feed"
         },
         {
-          "url": "https://media.creativeboom.com/e4bd3566-8d13-46c2-b495-bf8296d8dbc8/conversions/e84d677ffccad03f4b6fa25ec205d856eacfbc9d-medium.webp",
-          "caption": "Colourful Memphis-style illustration of Flachet–Alain Gilles metro station with geometric patterns, striped panels and bold shapes in blue, red, yellow and black",
+          "url": "https://media.creativeboom.com/a19bc779-ba04-40a3-bff2-5b48699f954c/conversions/f5c77bb627b2f124d267e7924fe1fff92e50676b-medium.webp",
+          "caption": "Brightly coloured fabric wristbands printed with the Victorious Festival name and a snowflake symbol, stacked together in rainbow hues including blue, orange, purple, green and yellow",
           "credit": "Creative Boom (publisher source; original credit at source)",
-          "credit_url": "https://www.creativeboom.com/news/camille-walala-is-covering-a-lyon-metro-station-in-30000-hand-made-tiles/",
+          "credit_url": "https://www.creativeboom.com/news/why-victorious-festival-stopped-selling-its-headliners-and-started-selling-portsmouth/",
           "kind": "feed"
         },
         {
-          "url": "https://media.creativeboom.com/bfbef197-9b1a-4b73-b9cc-c67030d8cd4b/conversions/3aa11c43ca32bbca71e8873db27e4bc90c801c4c-medium.webp",
-          "caption": "Colourful metro station platform with Memphis-inspired geometric patterns in blue, red, yellow and black covering the walls and pillars, with a train at the platform",
+          "url": "https://media.creativeboom.com/483bc582-cbaa-4db1-936c-91d2209f5250/conversions/0b1f878e24d955afc79901c43c59697729076923-medium.webp",
+          "caption": "A large crowd sits on grass before a yellow wall with red lettering reading \"VICTORIOUS\", with a bright yellow starburst graphic overlaid in the centre",
           "credit": "Creative Boom (publisher source; original credit at source)",
-          "credit_url": "https://www.creativeboom.com/news/camille-walala-is-covering-a-lyon-metro-station-in-30000-hand-made-tiles/",
+          "credit_url": "https://www.creativeboom.com/news/why-victorious-festival-stopped-selling-its-headliners-and-started-selling-portsmouth/",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-82a501d90481011b",
-      "category": "FEATURE · CULTURE & DISCOVERY",
-      "story_type": "feature",
-      "title": "Everything We Know About a Potential Resident Evil 10 Game, Including a Major Clue About the Story",
-      "lede": "With Resident Evil: Requiem cleaning up at the Golden Joystick Awards last month and earning a Game of the Year nod at the Game Awards, it’s no surprise that Capcom is already thinking about moving the franchise forward. In a recent interview, Jun Takeuchi, creative director for the RE games, gave fans a few hints about […] The post Everything We Know About a Potential Resident Evil 10 Game, Including a Major Clue About the Story appeared first…",
-      "source_name": "VICE",
-      "source_url": "https://www.vice.com/en/article/everything-we-know-about-a-potential-resident-evil-10-game-including-a-major-clue-about-the-story/",
-      "published_at": "27 Nov 2026 · 05:08 WIB",
-      "published_iso": "2026-11-26T22:08:32+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [],
-      "images": [
-        {
-          "url": "https://www.vice.com/wp-content/uploads/sites/2/2026/11/Everything-We-Know-About-a-Potential-Resident-Evil-10-Following-Capcoms-Latest-Teasers.jpg?w=1200",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/everything-we-know-about-a-potential-resident-evil-10-game-including-a-major-clue-about-the-story/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://img.youtube.com/vi/YoFXs6Ifna8/maxresdefault.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/everything-we-know-about-a-potential-resident-evil-10-game-including-a-major-clue-about-the-story/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://img.youtube.com/vi/YoFXs6Ifna8/hqdefault.jpg",
-          "caption": "Play",
-          "credit": "VICE (publisher source; original credit at source)",
-          "credit_url": "https://www.vice.com/en/article/everything-we-know-about-a-potential-resident-evil-10-game-including-a-major-clue-about-the-story/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-91cd4194b8f601a7",
-      "category": "ARCHIVE FEATURE · ART & CULTURE",
-      "story_type": "archive_feature",
-      "title": "DeviantArt Is an All-in-One Platform for the Creative Economy",
-      "lede": "Grow your practice and make meaningful connections by becoming part of DeviantArt’s creative community today.",
-      "source_name": "Colossal",
-      "source_url": "https://www.thisiscolossal.com/2026/06/deviantart-is-an-all-in-one-platform-for-the-creative-economy/",
-      "published_at": "29 Jun 2026 · 23:00 WIB",
-      "published_iso": "2026-06-29T16:00:00+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 29 Jun 2026",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://www.thisiscolossal.com/2026/06/deviantart-is-an-all-in-one-platform-for-the-creative-economy/"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/deviant.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2026/06/deviantart-is-an-all-in-one-platform-for-the-creative-economy/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/Creator-Sales.png",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2026/06/deviantart-is-an-all-in-one-platform-for-the-creative-economy/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2026/06/DA-Subscriptions-1536x767.png",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2026/06/deviantart-is-an-all-in-one-platform-for-the-creative-economy/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-eb4f93bc613e88f5",
-      "category": "ARCHIVE FEATURE · ART & CULTURE",
-      "story_type": "archive_feature",
-      "title": "Lucy Davidson’s Stop-Motion Animation ‘Baggage’ Travels Through an ‘Insecurity Inspection’",
-      "lede": "For filmmaker Lucy Davidson, it’s not so much about luggage as it is about what we stuff inside.",
-      "source_name": "Colossal",
-      "source_url": "https://www.thisiscolossal.com/2025/06/lucy-davidson-baggage/",
-      "published_at": "21 Jun 2025 · 02:00 WIB",
-      "published_iso": "2025-06-20T19:00:00+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 21 Jun 2025",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://www.thisiscolossal.com/2025/06/lucy-davidson-baggage/"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2025/06/baggage-3-1536x906.jpeg",
-          "caption": "a still from a black-and-white animation showing a bottle labeled \"bottled up emotions\"",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2025/06/lucy-davidson-baggage/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2025/06/baggage-2-1536x863.jpeg",
-          "caption": "a still from a black-and-white animation showing a suitcase with hands and a head, labeled with a sticker that says \"heavy\"",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2025/06/lucy-davidson-baggage/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-1339e65df707c6f7",
+      "id": "source-f75cb2f04dd4ef57",
       "category": "HOT NEWS · WORLD",
       "story_type": "hot_news",
-      "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
-      "lede": "Public Committee Against Torture in Israel examined 42 complaints against Shin Bet interrogators over past decade Israel has institutionalised the use of torture to extract confessions from Palestinian prisoners, sometimes documenting abuse in official records or granting advanced approval for “special measures” in interrogation, according to a report from the Public Committee Against Torture in Israel (PCATI). This dangerous practice risked…",
+      "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
+      "lede": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Federal politicians largely absent from state election Just…",
       "source_name": "The Guardian",
-      "source_url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
-      "published_at": "26 Nov 2026 · 17:00 WIB",
-      "published_iso": "2026-11-26T10:00:52+00:00",
+      "source_url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+      "published_at": "28 Nov 2026 · 11:16 WIB",
+      "published_iso": "2026-11-28T04:16:45+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/ec01d02a45dadf8945fff6e28597dcdf88dadec1/31_0_1932_1545/master/1932.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59141f1872e84f09ae8163b7bdf2838d",
+          "url": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3322e35473bcdae36eb2b9e43e5e6ca4",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
+          "credit_url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
           "kind": "feed"
         },
         {
-          "url": "https://i.guim.co.uk/img/media/ec01d02a45dadf8945fff6e28597dcdf88dadec1/31_0_1932_1545/master/1932.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=ab36edbb55994da3d32cb04854a52ceb",
+          "url": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&s=dd8a776618aa93a9d5b5f04d2480545c",
           "caption": "Image from the original publisher’s article; see the source for its context.",
           "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
+          "credit_url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
           "kind": "feed"
         },
         {
-          "url": "https://i.guim.co.uk/img/media/ec01d02a45dadf8945fff6e28597dcdf88dadec1/31_0_1932_1545/master/1932.jpg?width=620&dpr=2&s=none&crop=none",
-          "caption": "Palestinian prisoners in Ashkelon. More than three-quarters of respondents said they confessed after the use of torture. Photograph: Reuters Palestinian prisoners in Ashkelon. More than three-quarters of respondents said they confessed after the use of torture. Photograph: Reuter",
+          "url": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=620&dpr=2&s=none&crop=none",
+          "caption": "Victorian election live: The Liberal leader, Jess Wilson, right, is challenging the Labor premier, Ben Carroll, as Victorians head to the polls on Saturday. Follow the latest news and updates from the 2026 Vic state election. Composite: Guardian Design/AAP/Getty Images Victorian ",
           "credit": "The Guardian (publisher source; original credit at source)",
-          "credit_url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
+          "credit_url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
           "kind": "feed"
         }
       ]
     },
     {
-      "id": "source-3e4c69cc3e9218d2",
-      "category": "ARCHIVE FEATURE · ART & CULTURE",
-      "story_type": "archive_feature",
-      "title": "In a Baltimore Exhibition, the Transformative Potential of Today’s Griots Emerges",
-      "lede": "How do stories shape collective experience and societal progress?",
-      "source_name": "Colossal",
-      "source_url": "https://www.thisiscolossal.com/2025/06/emergence-storytelling-exhibition/",
-      "published_at": "28 Jun 2025 · 00:01 WIB",
-      "published_iso": "2025-06-27T17:01:58+00:00",
-      "feed_preview": true,
-      "sections": [],
-      "cards": [
-        {
-          "side": "left",
-          "type": "FROM THE ARCHIVE",
-          "title": "Originally published 28 Jun 2025",
-          "body": "An older discovery selected for its subject, not a claim that this event is happening today. Check the original article for historical context and any subsequent changes.",
-          "color": "purple",
-          "bullets": [],
-          "sources": [
-            {
-              "label": "Read original publication",
-              "url": "https://www.thisiscolossal.com/2025/06/emergence-storytelling-exhibition/"
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2025/06/emergence-1.jpg",
-          "caption": "Image from the original publisher’s article; see the source for its context.",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2025/06/emergence-storytelling-exhibition/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2025/06/emergence-7-1323x2048.jpg",
-          "caption": "Kachelle Knowles, “Queen’s College” (2025), graphite, decorative paper, colored pencils, thread, charcoal, acrylic paint, ink, acrylic gemstones, marker on paper, 28 x 18 inches. Image courtesy of the artist, Galerie Myrtis, and Tern Gallery",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2025/06/emergence-storytelling-exhibition/",
-          "kind": "feed"
-        },
-        {
-          "url": "https://www.thisiscolossal.com/wp-content/uploads/2025/06/emergence-2-1536x1529.jpg",
-          "caption": "Alanis Forde, “Garden Gloves” (2024), oil on canvas, 40 x 40 inches",
-          "credit": "Colossal (publisher source; original credit at source)",
-          "credit_url": "https://www.thisiscolossal.com/2025/06/emergence-storytelling-exhibition/",
-          "kind": "feed"
-        }
-      ]
-    },
-    {
-      "id": "source-efb432f4db1d7600",
+      "id": "source-85176b19ca80062a",
       "category": "HOT NEWS · WORLD",
       "story_type": "hot_news",
-      "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
-      "lede": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "lede": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
       "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
-      "published_at": "26 Nov 2026 · 16:49 WIB",
-      "published_iso": "2026-11-26T09:49:42+00:00",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "published_at": "28 Nov 2026 · 01:42 WIB",
+      "published_iso": "2026-11-27T18:42:50+00:00",
       "feed_preview": true,
       "sections": [],
       "cards": [],
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1ce/live/37520f50-e97b-11f1-a094-5fdc692f3e33.jpg",
-          "caption": "Senator Payman holding her baby daughter",
+          "url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+          "caption": "John Simpson stands in front of a soldier with a shoulder-mounted RPG launcher",
           "credit": "BBC News (publisher source; original credit at source)",
-          "credit_url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
+          "credit_url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
           "kind": "feed"
         },
         {
-          "url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ce/live/37520f50-e97b-11f1-a094-5fdc692f3e33.jpg",
-          "caption": "Publisher-supplied feed image; see the source for its original context.",
-          "credit": "BBC News",
-          "credit_url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
+          "url": "https://ichef.bbci.co.uk/ace/standard/160/cpsprodpb/c628/live/40659b80-e9b1-11f1-a094-5fdc692f3e33.png.webp",
+          "caption": "Image from the original publisher’s article; see the source for its context.",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+          "kind": "feed"
+        },
+        {
+          "url": "https://ichef.bbci.co.uk/ace/standard/160/cpsprodpb/c628/live/40659b80-e9b1-11f1-a094-5fdc692f3e33.png",
+          "caption": "John Simpson",
+          "credit": "BBC News (publisher source; original credit at source)",
+          "credit_url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
           "kind": "feed"
         }
       ]
